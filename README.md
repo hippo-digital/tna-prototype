@@ -7,7 +7,7 @@ also download the KBP dictionaries from [here](http://nlp.stanford.edu/software/
 
 The NLP models zips needs be extracted in to the root of the KnowledgeGraphBuilder. The stanford-corenlp-3.7.0-models.jar then should be unzipped into this folder, once this is complete the KBP download needs to be extract then needs to be then copied into the extracted models folder, the structure is already aligned so this just involves copying the `edu` folder onto the models `edu` folder.
 
-## Running NEO4J
+## Running Neo4J
 
 The solution assumes NEO4J is running in a docker container on the local machine. To create a neo4j docker instance run 
 
@@ -27,7 +27,7 @@ Once the load has finished you can now navigate to the Neo4j console and run a q
     
 should return something like 
 
-![Crimea Hospital Graph](examples/Crimea_Hospitals_Graph.png)
+![Crimea Hospital Graph](examples/Crimean_Hospitals_Graph.png)
     
 **Optional**
 
