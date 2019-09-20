@@ -2,11 +2,7 @@
 
 ## Prerequisites 
 
-Download the stanford core NLP models from [here](http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip)
-also download the KBP dictionaries from [here](http://nlp.stanford.edu/software/stanford-english-kbp-corenlp-2018-10-05-models.jar)
-
-The NLP models zips needs be extracted in to the root of the KnowledgeGraphBuilder. The stanford-corenlp-3.7.0-models.jar then should be unzipped into this folder, once this is complete the KBP download needs to be extract then needs to be then copied into the extracted models folder, the structure is already aligned so this just involves copying the `edu` folder onto the models `edu` folder.
-
+Download the stanford core NLP models from [https://github.com/hippo-digital/tna-prototype/releases/tag/0.1-nlp](https://github.com/hippo-digital/tna-prototype/releases/tag/0.1-nlp)
 ## Running Neo4J
 
 The solution assumes NEO4J is running in a docker container on the local machine. To create a neo4j docker instance run 

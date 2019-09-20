@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Threading.Tasks;
 using edu.stanford.nlp.pipeline;
 using java.util;
 using Newtonsoft.Json;
@@ -12,7 +13,8 @@ namespace KnowledgeGraphBuilder
     {
         private const string TSVDir = @"Data\NursingSeries_TSVs";
         private const string TSVList = @"Data\NursingSeries.txt";
-        private const string JarRoot = @"stanford-corenlp-full-2016-10-31\stanford-corenlp-3.7.0-models\";
+        private const string JarRoot = @"..\..\..\stanford-corenlp-full-2016-10-31\stanford-corenlp-3.7.0-models\";
+        private const string OutputPath = @"..\..\..\..\Processed";
         
         static void Main(string[] args)
         {
@@ -23,7 +25,7 @@ namespace KnowledgeGraphBuilder
             Console.WriteLine($"Started loading NLP at {DateTime.Now.ToString(CultureInfo.InvariantCulture)}"); 
             
             Properties props = new Properties();
-            props.setProperty("annotators", "tokenize,ssplit,pos,depparse,lemma,ner,coref,kbp");
+            props.setProperty("annotators", "tokenize,ssplit,pos,depparse,lemma,ner,coref,natlog,openie,kbp");
             props.setProperty("ner.useSUTime", "0");
 
             var curDir = Environment.CurrentDirectory;
@@ -31,14 +33,14 @@ namespace KnowledgeGraphBuilder
             var pipeline = new StanfordCoreNLP(props);
             Directory.SetCurrentDirectory(curDir);
             
-            Console.WriteLine($"Finished loading NLP at {DateTime.Now.ToString(CultureInfo.InvariantCulture)}"); 
-            
+            Console.WriteLine($"Finished loading NLP at {DateTime.Now.ToString(CultureInfo.InvariantCulture)}");
+            var output = Directory.CreateDirectory(Path.GetFullPath(OutputPath));
             var serializer = new JsonSerializer
             {
                 Formatting = Formatting.Indented,
             };
 
-            foreach(var series in data.Where(s => s.File.Contains("C14242_3Sep2019")))
+            Parallel.ForEach(data, series =>
             {
                 var started = DateTime.Now;
                 Console.WriteLine(
@@ -54,7 +56,8 @@ namespace KnowledgeGraphBuilder
                     Console.WriteLine(
                         $"Started processing {seriesNumber} of {seriesCount} started at {DateTime.Now.ToString(CultureInfo.InvariantCulture)}");
                     var text = entry.Title + " " + entry.Description;
-                    text = text.RemoveAll(entry.Reference, series.SeriesRef, entry.Reference + ".", series.SeriesRef + ".");
+                    text = text.RemoveAll(entry.Reference, series.SeriesRef, entry.Reference + ".",
+                        series.SeriesRef + ".");
                     var processed = pipeline.Classify(text);
 
                     processed.Reference = new[] {entry.Reference};
@@ -67,7 +70,7 @@ namespace KnowledgeGraphBuilder
                     seriesNumber++;
                 }
 
-                var path = Path.Combine(Environment.CurrentDirectory, Path.ChangeExtension(series.File, "json"));
+                var path = Path.GetFullPath(Path.Combine(output.FullName,Path.ChangeExtension(series.File, "json")));
                 using (var fs = File.Open(path, FileMode.Create, FileAccess.Write, FileShare.None))
                 using (var sw = new StreamWriter(fs))
                 using (var jw = new JsonTextWriter(sw))
@@ -79,7 +82,7 @@ namespace KnowledgeGraphBuilder
                 Console.WriteLine($"Wrote: ");
                 Console.WriteLine(
                     $"Finished Processing {series.File} results: {path} finished at {finished.ToString(CultureInfo.InvariantCulture)} took {(finished.Subtract(started).TotalSeconds.ToString("F"))} secs");
-            }
+            });
             
             
             Console.WriteLine("Finished.");

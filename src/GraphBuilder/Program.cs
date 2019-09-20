@@ -19,7 +19,7 @@ namespace Neo4JWriter
         {
             var pluralizer = new Pluralizer();
             var db = new Neo4JDb();
-            var fileLocation = @"Data\LIVE_C14242_3Sep2019_TSV.json";
+            var fileLocation = @"..\..\Processed";
             
             var parent = ReadEntity(fileLocation);
             
