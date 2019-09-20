@@ -27,7 +27,7 @@ Once the load has finished you can now navigate to the Neo4j console and run a q
     
 should return something like 
 
-    ![example/Crimea_Hospitals_Graph.png](Crimea Hospital Graph)
+    !(example/Crimea_Hospitals_Graph.png)[Crimea Hospital Graph]
     
 **Optional**
 
