@@ -1,0 +1,417 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	WO 162			Commander-in-Chief and War Office: Adjutant General's Department: Papers	Unregistered papers of the Adjutant General relating to organisation, mobilisation and recruitment; women's services; medical arrangements for and casualty statistics and papers of various military actions; prisoners of war; coronation arrangements; medals; Wellington College; the Committee on Drafts for India and the Colonies; and the death of the Prince Imperial in the 1879 Zulu War.	1715-1971	383 files and volumes					Normal Closure before FOI Act: 	30		C14369
+>>>>   				GENERAL			 								C51783
+>>>>>> 	WO 162/1				Minutes on decisions	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357167
+>>>>>> 	WO 162/2				Supply of Officers	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357168
+>>>>>> 	WO 162/3				New Armies: Organisation	1914-1915	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357169
+>>>>>> 	WO 162/4				New Armies: Establishments and strength	1914-1915	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357170
+>>>>>> 	WO 162/5				Record of work of the Department	1914-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357171
+>>>>>> 	WO 162/6				Directorate of organisation	1914-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357172
+>>>>>> 	WO 162/7				Embarkation overseas: List of units with dates	1914 Aug.4-1918 Nov.11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357173
+>>>>>> 	WO 162/8				Combustible or explosive compound: Invention of Lord Dundonald	1914 Sept.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357174
+>>>>>> 	WO 162/9				National Service Department: General correspondence	1917 Feb.26-Aug 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357175
+>>>>>> 	WO 162/10				British Red Cross Society: Letters to Colonel Leigh Wood	1917 Apr.16-Sept.21	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357176
+>>>>>> 	WO 162/11				Provision of personnel for Heavy Branch Machine-Gun Corps	1917 May 1	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357177
+>>>>>> 	WO 162/12				Selection and Medical Boards: Statement showing results	1917 June 27	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357178
+>>>>>> 	WO 162/13				Nottingham Hostel and Hospital: Report	1918 Jan.-Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357179
+>>>>>> 	WO 162/14				Directorate of Organisation	1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357180
+>>>>>> 	WO 162/15				Directorate of Organisation	1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357181
+>>>>>> 	WO 162/16				Nominal roll of personnel surplus overseas	1919 Aug.28-Oct.31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357182
+>>>>   				MOBILISATION AND RECRUITING			 								C51784
+>>>>>> 	WO 162/17				General mobilisation: Progress reports	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357183
+>>>>>> 	WO 162/18				Mobilisation: Miscellaneous correspondence	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357184
+>>>>>> 	WO 162/19				Mobilisation of 7th Division, India: Minutes and telegrams	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357185
+>>>>>> 	WO 162/20				Recruiting for K.2	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357186
+>>>>>> 	WO 162/21				Diary of Mobilisation	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357187
+>>>>>> 	WO 162/22				Siege Train: Training of personnel. Recruiting: Miscellaneous correspondence	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357188
+>>>>>> 	WO 162/23				General Mobilisation: Review of arrangements	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357189
+>>>>>> 	WO 162/24				New Armies: Recruiting Officers and Other Ranks, statistical returns	1914-1915	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357190
+>>>>>> 	WO 162/25				Mobilisation Branch: Telegrams	1914 Aug 7-1915 May 4	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357191
+>>>>>> 	WO 162/26				Recruiting: Letters	1914 Sept	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357192
+>>>>>> 	WO 162/27				Memorandum on compulsory military service (1915); Military Service Act (1916)	1915-1916	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357193
+>>>>>> 	WO 162/28				Recruiting and Manpower (including Derby Scheme): Memorandums.	1915-1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357194
+>>>>>> 	WO 162/29				Recruiting of telephonists and rates of pay of Signals telephonists	1918 Jan-1919 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357195
+>>>>   				WOMEN'S SERVICES			 								C51785
+>>>>>  				General			 								C110373
+>>>>>> 	WO 162/30				Women's Services Committee: Report by Sir George Newman, MD.	1916 Dec 14	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357196
+>>>>>> 	WO 162/31				Conference on organisation of women employed by the Army	1917 Jan 5	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357197
+>>>>>> 	WO 162/32				Conference on organisation of women employed by the Army	1917 Jan 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357198
+>>>>>> 	WO 162/33				Conference on organisation of women employed by the Army	1917 Jan 15	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357199
+>>>>>> 	WO 162/34				Recruitment of women for certain Corps with the United States Forces in France: Minutes of conferences.	1917 Mar-1918 Oct	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357200
+>>>>>> 	WO 162/35				Payment of women Doctors: Minutes and correspondence	1917 June 6-Sept 21	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357201
+>>>>>> 	WO 162/36				Employment of the General Service Section of the VAD in France: Conference	1917 July 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357202
+>>>>>> 	WO 162/37				Employment of women: Correspondence	1917 Oct 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357203
+>>>>>> 	WO 162/38				Enrolment of women already employed by the Army: Draft Army Council Instruction	1917 Nov-Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357204
+>>>>>> 	WO 162/39				Hostels and accommodation: General correspondence	1918 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357205
+>>>>>> 	WO 162/40				Co-ordinating Conference of Women's Corps: Meetings.	1918 June-1919 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357206
+>>>>>> 	WO 162/41				Women War Workers Resettlement Committee: Reports	1918 Nov	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357207
+>>>>>  				Queen Mary's Army Auxiliary Corps			 								C110374
+>>>>>> 	WO 162/42				Representative of QMAAC, WRNS and the Ministry of Labour: Minutes of conference	1917 Oct-1918 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357208
+>>>>>> 	WO 162/43				Posting of six members to the No 15 Canadian Hospital, Taplow, Bucks.	1918 Feb-July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357209
+>>>>>> 	WO 162/44				Transfer of members to the WRAF and WRNS	1918 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357210
+>>>>>> 	WO 162/45				Suggestions for recruiting	1918 June 22	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357211
+>>>>>> 	WO 162/46				Request for the total number serving in Great Britain and France	1918 July 4-July 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357212
+>>>>>> 	WO 162/47				Visit of the Duchess of Atholl to France.	1918 Aug 14-Oct 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357213
+>>>>>> 	WO 162/48				Number of women enrolled	1918 Sept 19-Oct 7	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357214
+>>>>>> 	WO 162/49				Issue of greatcoats and patrols: Minutes and memorandums.	1919 Feb-Mar	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357215
+>>>>>> 	WO 162/50				Gratuity for deceased officials	1919 Feb 28-Apr 4	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357216
+>>>>>> 	WO 162/51				Discharges on medical grounds: Correspondence	1919 Mar-May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357217
+>>>>>> 	WO 162/52				QMAAC's working with the American Expeditionary Force: Thanks letters from the Controller-in-Chief to Colonel David L. Stone	1919 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357218
+>>>>>> 	WO 162/53				Demobilisation: strength and progress	1919 July 16-Oct 21	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357219
+>>>>>> 	WO 162/54				Overseas settlements of members	1919 Aug-Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357220
+>>>>>  				Women's Auxiliary Army Corps			 								C110375
+>>>>>> 	WO 162/55				Recruiting: Correspondence from the National Service Department to the Director	1917 Apr-June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357221
+>>>>>> 	WO 162/56				Conference on, held at the War Office	1917 June 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357222
+>>>>>> 	WO 162/57				Rates of pay: Draft Army Council Instruction	1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357223
+>>>>>> 	WO 162/58				Rates of pay: Administrators in France	1917 July 18	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357224
+>>>>>> 	WO 162/59				Mobile and Immobile Branches: Army Council Instruction, 1917.	1917 Oct-Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357225
+>>>>>> 	WO 162/60				Recruitment for the Royal Flying Corps: Minutes	1917 Nov	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357226
+>>>>>> 	WO 162/61				'Injuries in War' forms and memorandum	1918 Jan-Feb	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357227
+>>>>>> 	WO 162/62				Lists of motor drivers	1918 Jan-Mar	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357228
+>>>>>> 	WO 162/63				Publication of reports to be made by two visiting Commissioners in France: Letter from the Ministry of Labour	1918 Mar 2-Mar 5	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357229
+>>>>>> 	WO 162/64				Conditions of, in France: Press statements	1918 Mar	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357230
+>>>>>> 	WO 162/65				Recommendations for Honours etc.	1918 Dec-1919 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357231
+>>>>   				DARDANELLES			 								C51786
+>>>>>> 	WO 162/66				Sick and wounded: Letters, telegrams and printed matter	1915 May-July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357232
+>>>>>> 	WO 162/67				Medical arrangements: Telegrams	1915 June-Sept	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357233
+>>>>>> 	WO 162/68				Medical arrangements: Telegrams	1915 Oct-Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357234
+>>>>>> 	WO 162/69				Strengths of Divisions, MEF: Reports	1915 Aug	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357235
+>>>>   				ITALY			 								C51787
+>>>>>> 	WO 162/70				Meetings of Military Members: Reports.	1917 Oct 28-Nov 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357236
+>>>>   				ADDENDA			 								C51788
+>>>>>> 	WO 162/71				New Army: proposed formation	1914 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357237
+>>>>>> 	WO 162/72				Strength of Dardanelles forces and Mediterranean Expeditionary Force: information supplied for Progress Report	1915 Sept.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357238
+>>>>>> 	WO 162/73				Medals and Clasps Tribunal	1920 Sept.-Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357239
+>>>>   				CORONATION OF THEIR MAJESTIES KING GEORGE V AND QUEEN MARY			 								C51789
+>>>>>> 	WO 162/74				Orders by Field Marshal Viscount Kitchener of Khartoum	1911	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357240
+>>>>>> 	WO 162/75				War Office arrangements A1697	1911	 	Printed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357241
+>>>>>> 	WO 162/76				The Coronation Progress to Westminister Abbey, June 23rd.	1911	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357242
+>>>>>> 	WO 162/77				The Royal Progress from Buckingham Palace, June 23rd.	1911	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357243
+>>>>   				FUNERAL OF HIS LATE MAJESTY KING GEORGE V			 								C51790
+>>>>>> 	WO 162/78				Ceremony of Lying in State, Jan. 28th.	1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357244
+>>>>   				CORONATION OF THEIR MAJESTICS KING GEORGE VI AND QUEEN ELIZABETH			 								C51791
+>>>>>> 	WO 162/79				Coronation Orders by Field Marshal the Earl of Cavan	1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357245
+>>>>>> 	WO 162/80				Carriage Processions: War Office Instructions	1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357246
+>>>>>> 	WO 162/81				Summary of Action taken by the War Office, 1937	1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357247
+>>>>>> 	WO 162/82				Coronation Executive Committee: Minutes of meeting of Sub-committee for Overseas Troops	1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357248
+>>>>>> 	WO 162/83				Troops required for street lining	1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357249
+>>>>>> 	WO 162/84				Procession: times and route	1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357250
+>>>>>> 	WO 162/85				Inclusion of Marshalmen and Boatmen in the Coronation Procession	1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357251
+>>>>>> 	WO 162/86				Marshalling Officers' conference and instructions	1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357252
+>>>>>> 	WO 162/87				Coronation notes	1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357253
+>>>>>> 	WO 162/88				Coronation diary	1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357254
+>>>>   				COMMITTEE ON DRAFTS FOR INDIA AND THE COLONIES			 								C51792
+>>>>>> 	WO 162/89				Index of proceedings, 1892-1906, and minutes of proceedings, 1904-1906	1906-1907	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357255
+>>>>>> 	WO 162/90				Minutes of proceedings	1907-1908	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357256
+>>>>>> 	WO 162/91				Minutes of proceedings	1909-1911	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357257
+>>>>>> 	WO 162/92				Minutes of proceedings and report	1911-1914	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357258
+>>>>>> 	WO 162/93				Infantry Units and drafts for India, 1919-1920	1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357259
+>>>>   				MEDALS			 								C51793
+>>>>>> 	WO 162/94				Board of General Officers on claims for medals: minutes of proceedings	1847-1857	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357260
+>>>>>> 	WO 162/95				Decision Book: miscellaneous medals	1899-1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357261
+>>>>>> 	WO 162/96				Decision Book: South Africa Medals and others	1900-1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357262
+>>>>>> 	WO 162/97				Important Decisions Book: South Africa Medals	1903-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357263
+>>>>   				SOUTH AFRICAN WAR 1899-1900			 								C51794
+>>>>>> 	WO 162/98				Conditions of Service of South African and other Overseas Contingents in the South African War 1899-1900	1904	 	Printed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357264
+>>>>   				WELLINGTON COLLEGE			 								C51795
+>>>>>> 	WO 162/99				Correspondence with the governing body and with various senior officers	1877-1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357265
+>>>>   				BATTLE CASUALTIES: STATISTICAL RETURNS			 								C51796
+>>>>>> 	WO 162/100				Aden	1942 July-1945 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357266
+>>>>>> 	WO 162/101				Aegean	1943 Oct-1944 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357267
+>>>>>> 	WO 162/102				All theatres	1940 Nov.-1943 Oct.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357268
+>>>>>> 	WO 162/103				Balkans, excluding Greece	1944 June-1945 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357269
+>>>>>> 	WO 162/104				Bermuda	1945 Mar.-1946 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357270
+>>>>>> 	WO 162/105				British West Indies, Faroe Islands, Gibraltar, Madagascar, Malaya and Port Stanley	1941 Dec.-1944 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357271
+>>>>>> 	WO 162/106				Burma, China, Hong Kong, Malaya, Netherlands East Indies and Singapore: prisoners of war and posted missing	1943 Apr.-1944 Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357272
+>>>>>> 	WO 162/107				Burma: 4th phase	1944 Dec.-1945 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357273
+>>>>>> 	WO 162/108				Caribbean, North and South	1942 Sept.-1945 Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357274
+>>>>>> 	WO 162/109				Caribbean, South	1945 Mar.-1946 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357275
+>>>>>> 	WO 162/110				Ceylon	1941 May-1947 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357276
+>>>>>> 	WO 162/111				Ceylon	1942 July-1946 Oct.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357277
+>>>>>> 	WO 162/112				East Africa	1941 Dec.-1946 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357278
+>>>>>> 	WO 162/113				East Africa	1942 May-1944 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357279
+>>>>>> 	WO 162/114				East Africa	1942 July-1945 Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357280
+>>>>>> 	WO 162/115				East Africa	1944 Aug.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357281
+>>>>>> 	WO 162/116				Europe: Western and North Western including Northern and Southern France	1944 June-1945 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357282
+>>>>>> 	WO 162/117				Falkland Islands	1942 July-1944 Sept.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357283
+>>>>>> 	WO 162/118				Far East: Army and native	1945 Oct.-1946 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357284
+>>>>>> 	WO 162/119				Gibraltar	1941 Dec.-1946 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357285
+>>>>>> 	WO 162/120				Gibraltar	1942 July-1945 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357286
+>>>>>> 	WO 162/121				Greece	1944 Sept.-1945 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357287
+>>>>>> 	WO 162/122				High Commission Territories	1941 Dec.-1946 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357288
+>>>>>> 	WO 162/123				High Commission Territories	1942 Aug.-1945 Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357289
+>>>>>> 	WO 162/124				India: Jahnsi	1943 Jan.-1945 Oct.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357290
+>>>>>> 	WO 162/125				Italian campaign	1943 Sept.-1945 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357291
+>>>>>> 	WO 162/126				Italy: American casualties	1944 Apr.-1945 Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357292
+>>>>>> 	WO 162/127				Italy	1944 Apr.-1945 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357293
+>>>>>> 	WO 162/128				Italy: Polish casualties	1944 May - June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357294
+>>>>>> 	WO 162/129				Italy	1943 Sept.-1944 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357295
+>>>>>> 	WO 162/130				Italy: 5th Army	1941 Dec.-1945 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357296
+>>>>>> 	WO 162/131				Jerusalem	1942 July-1945 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357297
+>>>>>> 	WO 162/132				Libya: 1st to 9th campaigns	1942 May-1943 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357298
+>>>>>> 	WO 162/133				Libya: 8th campaign	1943 Jan.-Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357299
+>>>>>> 	WO 162/134				Malta	1941 Dec.-1947 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357300
+>>>>>> 	WO 162/135				Malta	1942 July-1945 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357301
+>>>>>> 	WO 162/136				Malta and Sicily	1942 Oct.-1943 Sept.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357302
+>>>>>> 	WO 162/137				Mauritius	1941 Dec.-1946 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357303
+>>>>>> 	WO 162/138				Mauritius	1942 July-1945 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357304
+>>>>>> 	WO 162/139				Middle East: at home and at sea (other ranks)	1939 Sept.-1942 Aug.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357305
+>>>>>> 	WO 162/140				Middle East: British, dominion and other troops	1940 Nov.-1941 Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357306
+>>>>>> 	WO 162/141				Middle East: British, dominion and other troops	1941 Dec.-1943 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357307
+>>>>>> 	WO 162/142				Middle East: British, dominion and other troops	1943 Jan.-1944 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357308
+>>>>>> 	WO 162/143				Middle East: British, dominion and other troops	1944 Jan.-1945 Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357309
+>>>>>> 	WO 162/144				Middle East	1941 Dec.-1946 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357310
+>>>>>> 	WO 162/145				Middle East	1942 Aug.-1946 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357311
+>>>>>> 	WO 162/146				Middle East: Cairo	1943 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357312
+>>>>>> 	WO 162/147				Netherlands East Indies	1946 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357313
+>>>>>> 	WO 162/148				North Africa	1942 Nov.-1944 Sept.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357314
+>>>>>> 	WO 162/149				North Caribbean area	1941 Dec.-1946 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357315
+>>>>>> 	WO 162/150				Palestine	1945 Mar.-1946 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357316
+>>>>>> 	WO 162/151				Pantelleria and Lampedusa: British casualties and enemy prisioners of war	1943 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357317
+>>>>>> 	WO 162/152				Persia-Iraq	1942 Oct.-1945 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357318
+>>>>>> 	WO 162/153				Rhodesia	1942 Aug.-1944 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357319
+>>>>>> 	WO 162/154				Southern France	1944 Aug. Sept.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357320
+>>>>>> 	WO 162/155				Southern Tunisia: 1st campaign	1943 Mar.-May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357321
+>>>>>> 	WO 162/156				Southern Tunisia: 2nd campaign	1943 Apr.-June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357322
+>>>>>> 	WO 162/157				West Africa	1941 Dec.-1946 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357323
+>>>>>> 	WO 162/158				West Africa	1942 July-1945 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357324
+>>>>>> 	WO 162/159				British (UK) Army including womens' service based in United Kingdom	1939 Sept.-1945 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357325
+>>>>>> 	WO 162/160				Summary of British/UK army casualties	1939 Sept.-1945 Oct.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357326
+>>>>>> 	WO 162/161				British Empire Forces: cumulative totals	1939 Sept.-1946 Aug.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357327
+>>>>>> 	WO 162/162				Total cumulative casualties of British Army and Colonial forces	1939 May-1947 Sept.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357328
+>>>>>> 	WO 162/163				British and Colonial forces, home and overseas territories, various theatres	1942 June-1945 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357329
+>>>>>> 	WO 162/164				British Army losses from outbreak of war	1943 Aug.-1944 Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357330
+>>>>>> 	WO 162/165				Colonial forces: all theatres	1939 Sept.-1946 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357331
+>>>>>> 	WO 162/166				Colonial forces: all theatres	1941 Dec.-1945 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357332
+>>>>>> 	WO 162/167				Colonial forces: deaths from injury	1943 Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357333
+>>>>>> 	WO 162/168				Colonial forces: prisioners of war	1943 Sept.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357334
+>>>>>> 	WO 162/169				Cyrenaica Defence Force (formerly Libya Arab Force)	1942 Aug. 1945 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357335
+>>>>>> 	WO 162/170				Dominions, colonials and native troops: cumulative totals	1939 Sept.-1942 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357336
+>>>>   				CASUALTY WASTAGE: STATISTICAL RETURNS			 								C51797
+>>>>>> 	WO 162/171				Aden and all East Africa	1940 Feb.-1941 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357337
+>>>>>> 	WO 162/172				Burma	1939 Dec.-1944 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357338
+>>>>>> 	WO 162/173				Ceylon	1940 Jan.-1944 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357339
+>>>>>> 	WO 162/174				China	1939 Oct.-1944 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357340
+>>>>>> 	WO 162/175				Crete	1941 Mar.-1944 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357341
+>>>>>> 	WO 162/176				Cyprus	1940 Feb.-1941 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357342
+>>>>>> 	WO 162/177				East Africa	1941 Apr.-May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357343
+>>>>>> 	WO 162/178				Egypt	1939 Sept.-1942 Aug.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357344
+>>>>>> 	WO 162/179				France	1939 Sept.-1944 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357345
+>>>>>> 	WO 162/180				Gibraltar	1939 Nov.-1944 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357346
+>>>>>> 	WO 162/181				Greece	1941 Feb.-1944 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357347
+>>>>>> 	WO 162/182				Home	1939 Sept.-1944 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357348
+>>>>>> 	WO 162/183				Iceland-Faroes	1940 May-1944 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357349
+>>>>>> 	WO 162/184				India	1939 Oct.-1944 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357350
+>>>>>> 	WO 162/185				Jamaica	1940 Feb.-1941 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357351
+>>>>>> 	WO 162/186				Malaya	1939 Dec.-1941 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357352
+>>>>>> 	WO 162/187				Malta	1939 Dec.-1941 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357353
+>>>>>> 	WO 162/188				Mauritius	1940 Mar.-1941 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357354
+>>>>>> 	WO 162/189				Middle East	1941 June-1944 Apr.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357355
+>>>>>> 	WO 162/190				Norway	1940 Apr.-1944 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357356
+>>>>>> 	WO 162/191				Palestine	1939 Dec.-1941 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357357
+>>>>>> 	WO 162/192				Sierra Leone	1940 Oct.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357358
+>>>>>> 	WO 162/193				Sudan	1939 Dec.-1941 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357359
+>>>>>> 	WO 162/194				Syria	1941 June-1944 Mar.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357360
+>>>>>> 	WO 162/195				Tunisia	1943 Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357361
+>>>>>> 	WO 162/196				West Africa	1940 Oct-1941 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357362
+>>>>>> 	WO 162/197				At Sea	1939 Dec.-1941 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357363
+>>>>   				CASUALTY BRANCH			 								C51798
+>>>>>> 	WO 162/199				General procedure for dealing with casualties in war	(1939)	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357365
+>>>>>> 	WO 162/200				General correspondence	1940 Jan. - 1945 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357366
+>>>>>> 	WO 162/201				Instructions for dealings with casualties in officers' section	1940 July-1945 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357367
+>>>>>> 	WO 162/202				Report by Mr E M Frazer, Director of Investigation and Statistics on visit to branch: memoranda and correspondence	1940 Oct.-1941 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357368
+>>>>>> 	WO 162/203				Questionnaire from Directorate of Investigation and Statistic: Information supplied	1942 Sept.-Oct.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357369
+>>>>>> 	WO 162/204				History of Prisoner of War Branch (London) (Cas P/W)	(1945)	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357370
+>>>>>> 	WO 162/205				History of Casualty Branch (Liverpool) (Cas L)	(1945)	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357371
+>>>>>> 	WO 162/206				Discountinuance of 'Royal Message of Condolence' after cessation of hostilities	1945 Oct.-1946 Feb.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357372
+>>>>>> 	WO 162/207				Committee on Organisation of Casualty Branch in War: report	1949 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357373
+>>>>   				KOREAN WAR CASUALTIES: CORRESPONDENCE WITH RETURNED POWs			 								C51799
+>>>>>> 	WO 162/208				Ablett - Ambrose	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357374
+>>>>>> 	WO 162/209				Anderson - Aylward	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357375
+>>>>>> 	WO 162/210				Baggott - Baugh	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357376
+>>>>>> 	WO 162/211				Bawtry - Bissell	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357377
+>>>>>> 	WO 162/212				Blair - Briggs	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357378
+>>>>>> 	WO 162/213				Brisland - Byrne	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357379
+>>>>>> 	WO 162/214				Cain - Chapman	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357380
+>>>>>> 	WO 162/215				Charman - Coate	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357381
+>>>>>> 	WO 162/216				Cochlin - Corney	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357382
+>>>>>> 	WO 162/217				Cornish - Cuthbert	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357383
+>>>>>> 	WO 162/218				Dabbs - Daye	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357384
+>>>>>> 	WO 162/219				Daynes - Donnelly	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357385
+>>>>>> 	WO 162/220				Donohue - Dytor	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357386
+>>>>>> 	WO 162/221				Eades - Ellis	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357387
+>>>>>> 	WO 162/222				Ellsmore - Ewan	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357388
+>>>>>> 	WO 162/223				Farnell - Fogarty	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357389
+>>>>>> 	WO 162/224				Foley - Furr	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357390
+>>>>>> 	WO 162/225				Gadd - Gilding	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357391
+>>>>>> 	WO 162/226				Gill - Gray	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357392
+>>>>>> 	WO 162/227				Green - Gwadera	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357393
+>>>>>> 	WO 162/228				Hadden - Hardacre	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357394
+>>>>>> 	WO 162/229				Harding - Hawker	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357395
+>>>>>> 	WO 162/230				Hawkes - Hill	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357396
+>>>>>> 	WO 162/231				Hilton - Horrobin	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357397
+>>>>>> 	WO 162/232				Horsfall - Hyland	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357398
+>>>>>> 	WO 162/233				Jackson - Johnson	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357399
+>>>>>> 	WO 162/234				Johnston - Juggins	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357400
+>>>>>> 	WO 162/235				Kay - Knowles	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357401
+>>>>>> 	WO 162/236				Lafferty - Lendrum	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357402
+>>>>>> 	WO 162/237				Lewington - Lyons	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357403
+>>>>>> 	WO 162/238				McAllister - McDonald	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357404
+>>>>>> 	WO 162/239				McFarlane - McSherry	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357405
+>>>>>> 	WO 162/240				Madgwick - Marshall	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357406
+>>>>>> 	WO 162/241				Marson - Mellor	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357407
+>>>>>> 	WO 162/242				Meneaud - Morgan	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357408
+>>>>>> 	WO 162/243				Morrell - Murton	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357409
+>>>>>> 	WO 162/244				Nash -Nutting	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357410
+>>>>>> 	WO 162/245				Oakley - Othen	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357411
+>>>>>> 	WO 162/246				Palfrey - Peach	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357412
+>>>>>> 	WO 162/247				Pearson - Pinkney	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357413
+>>>>>> 	WO 162/248				Plant - Quinn	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357414
+>>>>>> 	WO 162/249				Rainey - Reynolds	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357415
+>>>>>> 	WO 162/250				Rich - Robinson	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357416
+>>>>>> 	WO 162/251				Robshaw - Ryan	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357417
+>>>>>> 	WO 162/252				Sadler - Sheldrake	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357418
+>>>>>> 	WO 162/253				Shelley - Small	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357419
+>>>>>> 	WO 162/254				Smith - Snell	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357420
+>>>>>> 	WO 162/255				Spence - Stocks	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357421
+>>>>>> 	WO 162/256				Stone - Synnott	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357422
+>>>>>> 	WO 162/257				Taggart - Tice	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357423
+>>>>>> 	WO 162/258				Tideswell - Tyrrell	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357424
+>>>>>> 	WO 162/259				Underdown - Ward	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357425
+>>>>>> 	WO 162/260				Warren - Whitchurch	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357426
+>>>>>> 	WO 162/261				White - Wilson	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357427
+>>>>>> 	WO 162/262				Wing - Young	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357428
+>>>>   				DEPUTY DIRECTOR PERSONAL SERVICES (C): BRANCH MEMORANDA			 								C51800
+>>>>>> 	WO 162/265	BM/16			British War Crimes Executive Sub-committees numbers 2 and 3 (East and West): progress reports 1-6 and minutes of meetings	1945 Aug-Oct	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357431
+>>>>>> 	WO 162/266	BM/30			Lists of locations and compositions of PoW camps in Japan and Japanese territory	1945 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357432
+>>>>   				CASUALTY BRANCH: BRANCH MEMORANDA AND OTHER PAPERS			 								C51801
+>>>>>> 	WO 162/267	BM.55/47 Pt 1			Other ranks missing in Korea, and repatriation of PoWs	1950 Aug-1954 Jan	 	Extract closed for 50 years			Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357433
+>>>>>>>	WO 162/267/1				Previously closed extract, now reunited with parent piece	1952	 				Open Document, Open Description	Closed for 		01/01/2003	C8917638
+>>>>>> 	WO 162/268	BM.55/47 Pt 5			Other ranks missing in Korea, and repatriation of PoWs	1951 May-1954 Aug	 	Previously retained by Department under Section 3.4			Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357434
+>>>>>> 	WO 162/269				Designs of regimental, corps and formation insignia for army head-stones and memorials	1969 Apr-1971 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30	01/01/2002	C2357435
+>>>>   				STATISTICAL RETURNS OF ALLIED BATTLE CASUALTIES: WAR OF 1939-1945			 								C51802
+>>>>>  				Summaries			 								C110376
+>>>>>> 	WO 162/294				British army	1939-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357460
+>>>>>> 	WO 162/295				Airborne formations and units, up to VE Day	1945-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357461
+>>>>>> 	WO 162/296				Allied forces under British Empire command, up to 28 June 1946	1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357462
+>>>>>> 	WO 162/297				Combined operations	1942-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357463
+>>>>>> 	WO 162/298				Western Europe	1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357464
+>>>>>> 	WO 162/299				Casualties against Japan and Germany, by corps/arm of service	1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357465
+>>>>>> 	WO 162/270				Aegean area	1943-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357436
+>>>>>> 	WO 162/271				Allied troops (Belgian, Czech and Norwegian	1944-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357437
+>>>>>> 	WO 162/272				Balkans (excluding Greece)	1944-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357438
+>>>>>> 	WO 162/273				Basutoland, Bechuanaland and Swaziland: Army Auxiliary Pioneer Corps (AAPC) personnel	1942-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357439
+>>>>>> 	WO 162/274				Burma	1943-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357440
+>>>>>> 	WO 162/275				Burma: 2nd and 3rd phases	1943-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357441
+>>>>>> 	WO 162/276				France (Southern)	1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357442
+>>>>>> 	WO 162/277				French Indo-China, Java and Sumatra	1945-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357443
+>>>>>> 	WO 162/278				Greece	1944-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357444
+>>>>>> 	WO 162/279				Italian campaign	1943-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357445
+>>>>>> 	WO 162/280				Italian campaign: final return	1943-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357446
+>>>>>> 	WO 162/281				Libyan campaign	1941-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357447
+>>>>>> 	WO 162/282				Madagascar (Force 121)	1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357448
+>>>>>> 	WO 162/283				Malaya, Singapore and Hong Kong (up to dates of capitulation)	1941-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357449
+>>>>>> 	WO 162/284				Malta	1939-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357450
+>>>>>> 	WO 162/285				Middle East (including Abyssinia, Greece, Crete and Cyprus) and Iraq	1940-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357451
+>>>>>> 	WO 162/286				Netherlands East Indies	1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357452
+>>>>>> 	WO 162/287				2nd New Zealand Expeditionary Force	1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357453
+>>>>>> 	WO 162/288				North African campaign (Libya and Tripolitania)	1940-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357454
+>>>>>> 	WO 162/289				North African campaign (Libya and Tripolitania)	1942-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357455
+>>>>>> 	WO 162/290				Pantelleria, Lampedusa and Corsica	1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357456
+>>>>>> 	WO 162/291				Sicily	1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357457
+>>>>>> 	WO 162/292				South African (Union Defence Forces)	1941-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357458
+>>>>>> 	WO 162/293				Southern Rhodesian Forces	1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357459
+>>>>   				STATISTICAL RETURNS OF ALLIED BATTLE CASUALTIES: POST-WAR PERIOD			 								C51803
+>>>>>> 	WO 162/300				Palestine	1946-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357466
+>>>>>> 	WO 162/301				Korea	1950-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357467
+>>>>>> 	WO 162/302				Korea	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357468
+>>>>>> 	WO 162/303				Malayan emergency (also includes some details for 1941-1942)	1941-1963	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357469
+>>>>>> 	WO 162/304				Middle East (including Suez) and FARELF (Borneo)	1956-1957; 1962-1966	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357470
+>>>>   				STRENGTH AND RECRUITMENT RETURNS			 								C51804
+>>>>>  				Summaries of strengths and dispositions of British and dominion armies			 								C110377
+>>>>>> 	WO 162/310				As at 29 Aug 1942	1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357476
+>>>>>> 	WO 162/311				As at 3 Oct 1942	1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357477
+>>>>>> 	WO 162/312				As at 31 Oct 1942	1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357478
+>>>>>> 	WO 162/313				As at 28 Nov 1942	1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357479
+>>>>>> 	WO 162/314				As at 2 Jan 1943	1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357480
+>>>>>> 	WO 162/315				As at 30 Jan 1943	1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357481
+>>>>>> 	WO 162/316				As at 27 Feb 1943	1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357482
+>>>>>> 	WO 162/317				As at 3 Apr 1943	1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357483
+>>>>>> 	WO 162/309				Personnel joining BEF from UK	1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357475
+>>>>>> 	WO 162/318				Dominion forces: strengths and casualties	1942-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357484
+>>>>>> 	WO 162/319				British army: strengths by corps/arm of service; active and reserve elements	1946-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357485
+>>>>>> 	WO 162/320				British army: strengths by corps/arm of service; active and reserve elements	1950-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357486
+>>>>>> 	WO 162/321				British army: strengths by corps/arm of service; active and reserve elements	1957-1961	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357487
+>>>>>> 	WO 162/322				Army recruit intake: monthly balance sheets	1939-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357488
+>>>>>> 	WO 162/323				Intake of national service-men: fortnightly returns	1957-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357489
+>>>>   				SPECIAL AND MISCELLANEOUS RETURNS			 								C78749
+>>>>>> 	WO 162/325				Regular army and militia strengths	1799	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669025
+>>>>>> 	WO 162/326				Regular army and militia strengths	1799-1815	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669028
+>>>>>> 	WO 162/327				Regular army strengths	1817-1834	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669032
+>>>>>> 	WO 162/328				Regular army strengths	1834-1848	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669035
+>>>>>> 	WO 162/329				Regular army strengths	1848-1856	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669041
+>>>>>> 	WO 162/330				Regular army strengths	1856-1861	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669050
+>>>>>> 	WO 162/331				Regular army strengths	1861-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669062
+>>>>   				Mobilisation Directorate (War Office) Diary			 								C86220
+>>>>>> 	WO 162/338				Volumes 1-3	1917 May 01-1918 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10870915
+>>>>>> 	WO 162/339				Volumes 4-6 (and general index)	1919 Jan 01-1920 Apr 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10870916
+>>>>   				QUARTERLY LIAISON LETTERS			 								C89896
+>>>>>> 	WO 162/343	LL(57)1			Adjutant-General's Quarterly Liaison Letter	1956 Oct 01 - 1956 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195143
+>>>>>> 	WO 162/344	LL(61)2			Adjutant-General's Department Quarterly Liaison Letter	1961 Jan 01 - 1961 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195144
+>>>>>> 	WO 162/345	LL(61)3			Adjutant-General's Department Quarterly Liaison Letter	1961 Apr 01 - 1961 Jun 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195145
+>>>>>> 	WO 162/346	LL(61)4			Adjutant-General's Department Quarterly Liaison Letter	1961 Jul 01 - 1961 Sep 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195146
+>>>>>> 	WO 162/347	LL(62)1			Adjutant-General's Department Quarterly Liaison Letter	1961 Oct 01 - 1961 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195147
+>>>>>> 	WO 162/348	LL(62)2			Adjutant-General's Department Quarterly Liaison Letter	1962 Jan 01 - 1962 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195148
+>>>>>> 	WO 162/349	LL(62)3			Adjutant-General's Department Quarterly Liaison Letter	1962 Apr 01 - 1962 Jun 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195149
+>>>>>> 	WO 162/350	LL(62)4			Adjutant-General's Department Quarterly Liaison Letter	1962 Jul 01 - 1962 Sep 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195150
+>>>>>> 	WO 162/351	LL(63)1			Adjutant-General's Department Quarterly Liaison Letter	1962 Oct 01 - 1962 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195151
+>>>>>> 	WO 162/352	LL(63)2			Adjutant-General's Department Quarterly Liaison Letter	1963 Jan 01 - 1963 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195152
+>>>>>> 	WO 162/353	LL(63)3			Adjutant-General's Department Quarterly Liaison Letter	1963 Apr 01 - 1963 Jun 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195153
+>>>>>> 	WO 162/354	LL(63)4			Adjutant-General's Department Quarterly Liaison Letter	1963 Jul 01 - 1963 Sep 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195154
+>>>>>> 	WO 162/355	LL(64)1			Adjutant-General's Department Quarterly Liaison Letter	1963 Jan 01 - 1963 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195155
+>>>>>> 	WO 162/356	LL(64)2			Adjutant-General's Department Quarterly Liaison Letter	1964 Jan 01 - 1964 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195156
+>>>>>> 	WO 162/357	LL(64)3			Adjutant-General's Department Quarterly Liaison Letter	1964 Apr 01 - 1964 Jun 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195157
+>>>>>> 	WO 162/358	LL(64)4			Adjutant-General's Department Quarterly Liaison Letter	1964 Jul 01 - 1964 Sep 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195158
+>>>>>> 	WO 162/359	LL(65)1			Adjutant-General's Department Quarterly Liaison Letter	1964 Oct 01 - 1964 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195159
+>>>>>> 	WO 162/360	LL(65)2			Adjutant-General's Department Quarterly Liaison Letter	1965 Jan 01 - 1965 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195160
+>>>>>> 	WO 162/361	LL(65)3			Adjutant-General's Department Quarterly Liaison Letter	1965 Apr 01 - 1965 Jun 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195161
+>>>>>> 	WO 162/362	LL(65)4			Adjutant-General's Department Quarterly Liaison Letter	1965 Jul 01 - 1965 Sep 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195162
+>>>>>> 	WO 162/363	LL(6661			Adjutant-General's Department Quarterly Liaison Letter	1965 Oct 01 - 1965 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195163
+>>>>>> 	WO 162/364	LL(66)2			Adjutant-General's Department Quarterly Liaison Letter	1966 Jan 01 - 1966 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195164
+>>>>>> 	WO 162/365	LL(66)3			Adjutant-General's Department Quarterly Liaison Letter	1966 Apr 01 - 1966 Jun 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195165
+>>>>>> 	WO 162/366	LL(66)4			Adjutant-General's Department Quarterly Liaison Letter	1966 Jul 01 - 1966 Sep 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195166
+>>>>>> 	WO 162/367	LL(67)1			Adjutant-General's Department Quarterly Liaison Letter	1966 Oct 01 - 1966 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195167
+>>>>>> 	WO 162/368	LL(67)2			Adjutant-General's Department Quarterly Liaison Letter	1967 Jan 01 - 1967 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195168
+>>>>>> 	WO 162/369	LL(67)3			Adjutant-General's Department Quarterly Liaison Letter	1967 Apr 01 - 1967 Jun 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195169
+>>>>>> 	WO 162/370	LL(67)4			Adjutant-General's Department Quarterly Liaison Letter	1967 Jul 01 - 1967 Sep 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195170
+>>>>>> 	WO 162/371	LL(68)1			Adjutant-General's Department Quarterly Liaison Letter	1967 Oct 01 - 1967 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195171
+>>>>>> 	WO 162/198				Copie of correspondence relating to the conduct of Lt J B Carey and the death of the Prince Imperial	1879 Oct.-1880 Jan.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357364
+>>>>>> 	WO 162/263				Korean war: correspondence relating to personnel missing or presumed dead	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357429
+>>>>>> 	WO 162/264				Korean war: correspondence relating to personnel missing or presumed dead	1951-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357430
+>>>>>> 	WO 162/305				Battle casualties: correspondence and miscellaneous analyses	1939-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357471
+>>>>>> 	WO 162/306				Battle casualties: correspondence and miscellaneous analyses	1943-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357472
+>>>>>> 	WO 162/307				Battle casualties: reporting policy	1940-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357473
+>>>>>> 	WO 162/308				Sickness rates in India	1943-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357474
+>>>>>> 	WO 162/324				AG's statistical summary: strengths and wastage; British, Dominion, Colonial and allied personnel	1945-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357490
+>>>>>> 	WO 162/332				Establishments of troops in the colonies: expenditure	1715-1838	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669086
+>>>>>> 	WO 162/333				Effective strength in various colonies	1858-1869	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669087
+>>>>>> 	WO 162/334				The conscientious objector from a war office perspective: guidance notes to War Office officials in London	1921	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4669088
+>>>>>> 	WO 162/335				Army establishments, recruits, drafts and reserves: lecture to CGS conference	1906	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4677694
+>>>>>> 	WO 162/336				Strengths: defence whole-time and part-time	1948-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C4681732
+>>>>>> 	WO 162/337	A/20/Gen/7291			Digest of the Adjutant-General's annual conference	1971	 				Open Document, Open Description	Normal Closure before FOI Act: 	30	01/01/2002	C4685850
+>>>>>> 	WO 162/340				Proceedings of the Mobilisation Committee and its Sub-Committees	1877 May 01-1881 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10870917
+>>>>>> 	WO 162/341				Report on the work of the Prisoners of War Information Bureau: includes examples of administrative papers, hospital and internment reports	1914 Aug 01-1920 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10870918
+>>>>>> 	WO 162/342				Papers relating to arrangements for the return of British and Commonwealth servicemen held as prisoners of war by the Axis powers	1943 Jan 05 - 1946 Jun 04	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C11195142
+>>>>>> 	WO 162/372				Camp strengths and locations (by areas) of British Commonwealth prisoners of war and internees in Europe	1945 Jan 01 - 1946 Dec 31	 	With maps			Open Document, Open Description	Open on Transfer			C11278108
+>>>>>> 	WO 162/373				Index to Medals Branch Decisions Books for the 1914-1918 War	1917 Jan 01 - 1935 Dec 31	 	Index to Books 1-5, and to various other books which have not survived			Open Document, Open Description	Open on Transfer			C11445149
+>>>>>> 	WO 162/374	Book 1			Medals Branch Decisions Book: 1914 Star	1917 Jan 01 - 1922 Dec 31	 				Open Document, Open Description	Open on Transfer			C11445150
+>>>>>> 	WO 162/375	Book 2			Medals Branch Decisions Book: 1914-1915 Star	1918 Jan 01 - 1921 Dec 31	 				Open Document, Open Description	Open on Transfer			C11445151
+>>>>>> 	WO 162/376	Book 3			Medals Branch Decisions Book: 1914-1918	1919 Jan 01 - 1925 Dec 31	 				Open Document, Open Description	Open on Transfer			C11445152
+>>>>>> 	WO 162/377	Book 4			Medals Branch Decisions Book: Victory Medal	1919 Jan 01 - 1920 Dec 31	 				Open Document, Open Description	Open on Transfer			C11445153
+>>>>>> 	WO 162/378	Book 5			Medals Branch Decisions Book, c.1855-1935	1900 Jan 01 - 1935 Dec 31	 				Open Document, Open Description	Open on Transfer			C11445154
+>>>>>> 	WO 162/379	Book 7			Medals Branch Decisions Book: Expeditionary Force 1914	1918 Jan 01 - 1920 Dec 31	 				Open Document, Open Description	Open on Transfer			C11445155
+>>>>>> 	WO 162/380				Medals Branch Decisions Book: 1914-1918	1927 Jan 01 - 1940 Dec 31	 				Open Document, Open Description	Open on Transfer			C11445156
+>>>>>> 	WO 162/381	Book 70			Medals Branch Noting Book Volume 2	1919 Jan 01 - 1941 Dec 31	 				Open Document, Open Description	Open on Transfer			C11445157
+>>>>>> 	WO 162/382				Medals Branch Decision Book: 1913-1918	1913 Jan 1 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C16536030
+>>>>>> 	WO 162/383				Medals Branch Decision Book: 1854-1898	1854 Jan 1 - 1898 Dec 31	 				Open Document, Open Description	Open on Transfer			C16536031

@@ -1,0 +1,868 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	MH 51			Lunacy Commission and Board of Control: Correspondence and Papers	This series contains a selection of the papers and correspondence of the Board of Control: a body set up in 1913, but effectively dating back to the establishment of the Lunacy Commission in 1845. The records contain general correspondence registered or re-registered in a 60,000 series of files, a set of law officers' opinions from 1857 onwards and the County Register 1798-1812, a list of private asylums and patients admitted to them. ¶ Earlier records include reports on patients, submitted by medical superintendents under the Lunacy Act 1890, s.38; copies of removal orders for the removal of pauper lunatics from one asylum to another; visitors' special reports, etc, on institutions and patients' cases; papers relating to research grants; returns in respect of insane prisoners in gaols; and a complete record of proceedings of the Departmental Committee on Sterilization, 1932 to 1933, with subsidiary papers. Also included are circular letters of the Lunacy Commission and Board of Control 1845 to 1860; papers on the organisation and procedure of the Board; and papers of Lord Shaftesbury and Sir Laurence Brock as chairmen. There are also some records of the Home Office relating to its responsibilities in this area.	1798-1971	846 file(s)					Normal Closure before FOI Act: 	30		C10894
+>>>>   				Batch Continuation Reports			 	Batch Continuation Reports submitted by medical superintendents under the Lunacy Act, 1890, section 38.							C37462
+>>>>>> 	MH 51/1				Abergavenny Lunatic Asylum	1907 Apr. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689875
+>>>>>> 	MH 51/2				Burntwood County Lunatic Asylum, Staffordshire	1907 Apr. 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689876
+>>>>>> 	MH 51/3				Chichester County Asylum, West Sussex	1907 Apr. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689877
+>>>>>> 	MH 51/4				Hellingly County Lunatic Asylum, East Sussex	1907 Apr. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689878
+>>>>>> 	MH 51/5				Napsbury County Lunatic Asylum, Middlesex	1907 Apr. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689879
+>>>>>> 	MH 51/6				Berkshire Lunatic Asylum	1912 Apr. 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689880
+>>>>>> 	MH 51/7				Brecon and Radnor Asylum, Talgarth	1912 Apr. 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689881
+>>>>>> 	MH 51/8				Brentwood County Lunatic Asylum, Essex	1912 Apr. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689882
+>>>>>> 	MH 51/9				Burntwood County Lunatic Asylum, Staffordshire	1912 Apr. 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689883
+>>>>>> 	MH 51/10				Chichester County Asylum, West Sussex	1912 Apr. 5	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689884
+>>>>>> 	MH 51/11				Colney Hatch [Middlesex] Lunatic Asylum	1912 Apr. 22	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689885
+>>>>>> 	MH 51/12				Dorset County Asylum	1912 Apr. 5	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689886
+>>>>>> 	MH 51/13				Hellingly County Lunatic Asylum, East Sussex	1912 Apr. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689887
+>>>>>> 	MH 51/14				London County Lunatic Asylum, Banstead	1912 Apr. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689888
+>>>>>> 	MH 51/15				Circular from the Lunacy Commission in relation to Batch Continuation Reports	1912 May.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689889
+>>>>>> 	MH 51/16				List of County, District, and County-Borough Asylums, indicating the number of beds and submission of the reports	1912	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689890
+>>>>>> 	MH 51/17				Berkshire Lunatic Asylum	1917 Apr. 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689891
+>>>>>> 	MH 51/18				Brecon and Radnor Lunatic Asylum, Talgarth	1917 Apr. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689892
+>>>>>> 	MH 51/19				Colney Hatch [Middlesex] Lunatic Asylum	1917 Apr. 16	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689893
+>>>>>> 	MH 51/20				Dorset County Asylum	1917 Apr. 19	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689894
+>>>>>> 	MH 51/21				Hampshire County Lunatic Asylum	1917 Apr. 6	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689895
+>>>>>> 	MH 51/22				London County Lunatic Asylum, Banstead	1917 Apr. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689896
+>>>>>> 	MH 51/23				London County Asylum, Cane Hill	1917 Apr. 14	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689897
+>>>>   				Copy Removal Orders of Visiting Committees			 	An order for the removal of pauper lunatics from one asylum to another.							C37463
+>>>>>> 	MH 51/24				City of Birmingham, Rubery Hill Asylum	1915 Mar. 22	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689898
+>>>>>> 	MH 51/25				Cardiff County-Borough Asylum	1915	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689899
+>>>>>> 	MH 51/26				Norfolk County Asylum	1915	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689900
+>>>>   				Hospitals; Licensed Houses: Lunatic Asylums; etc.; Patients' Cases; Visitors' Special Reports, etc.			 								C37464
+>>>>>> 	MH 51/27				Reports on Gate Helmsley Retreat, [Yorkshire], a licensed house kept by James Martin, Nos. 41, 53, 53a	1846 Jan. 18-1847 Feb. 25	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689901
+>>>>>> 	MH 51/28				Report on the case of Margaret Walsh, a pauper in the Workshouse of St. George the Martyr, Southwark, Surrey, No. 32	1846 Oct. 20	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689902
+>>>>>> 	MH 51/29				Report on the case of an alleged lunatic Hester Read, reputed to be unlawfully confined by Jacob Shore of Farnborough, Somerset, No. 33	1846 Oct. 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689903
+>>>>>> 	MH 51/30				Report on the case of George Worsford, a patient in the lunatic ward of St. Marylebone Workhouse. No. 34	1846 Nov. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689904
+>>>>>> 	MH 51/31				Report on a lunatic, Roger Penny, a patient in Cowper House, [London], No. 35	1846 Nov. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689905
+>>>>>> 	MH 51/32				Report on Fairwater House relating to treatment of patients, etc. No. 36	1846 Nov. 27	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689906
+>>>>>> 	MH 51/33				Report on Fiddington House Asylum, [Wiltshire], relating to private male patients in respectable circumstances, being placed in close association with paupers. No. 37	1846 Nov. 28	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689907
+>>>>>> 	MH 51/34				Special report on visit to Warwick Union Workhouse. No. 38	1846 Dec. 19	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689908
+>>>>>> 	MH 51/35				Special medical report on the Cumberland paupers for the years 1845 to 1846. No. 40a	1846 Dec. 26	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689909
+>>>>>> 	MH 51/36				Special report on Martha Elizabeth Rhodes, a patient in York House, Battersea, London, No. 43	1847 Feb. 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689910
+>>>>>> 	MH 51/37				Special report on John Luke Clennell, confined as a lunatic at Newcastle Asylum. No. 45	1847 Feb. 18	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689911
+>>>>>> 	MH 51/38				Report on James Hodder Forbes, lunatic patient in Haslar Hospital, later transferred to Winchester Gaol as a debtor. No. 46	1847 Feb. 23	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689912
+>>>>>> 	MH 51/39				Special report relating to the licensed asylum at Dunnington, York. No. 51	1847 May 14	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689913
+>>>>>> 	MH 51/40				Special report relating to John Luccock, head attendant at Northumberland House. No. 52	1947 May 19	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689914
+>>>>>> 	MH 51/41				Notes of information and evidence received by the Commissioners relating to John Cottingham, deceased, formerly a patient of Lincoln Lunatic Hospital. No. 61	1947 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689915
+>>>>>> 	MH 51/42				Reports on the Royal Military Lunatic Asylum, Yarmouth. Nos. 72, 73, 74, 75, 76	1848 May 18-1852 June 24	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689916
+>>>>>> 	MH 51/43				Applications for new licence for Green Hill House, Derby, by Dr. W. H. Ramsay. No. 2886	1849 Oct. 9-1850 Jan. 4	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689917
+>>>>>> 	MH 51/44A				Correspondence, reports and notes of examination of witnesses relating to the enquiry into charges brought against Dr. A. B. Maddock and his private asylum at West Malling, Kent. No. 3052	1850 Dec. 1851 Aug. 19	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689918
+>>>>>> 	MH 51/44B				Rule books of asylum at Liverpool, Aylesbury, Exeter and Manchester; Report of the Liverpool Royal Lunatic Asylum, 1851-1852	1851-1880	 	Printed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689919
+>>>>>> 	MH 51/45				Special report on Colville House Idiot Institution, Lowestoft, No. 78	1852 Aug. 20	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689920
+>>>>>> 	MH 51/46				Special report on Belle Vue House, Devizes. No. 80	1853 Mar. 29	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689921
+>>>>>> 	MH 51/47				Special report on the Military Asylum, Chatham. No. 83	1853 July 22	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689922
+>>>>>> 	MH 51/48				Report and proposed alterations to the criminal wards of the Bethlem Hospital. Correspondence, etc., relating to the proposed purchase of the hospital site by the Governors of St Thomas's Hospital, and the removal of the Bethlem Hospital to a healthy and suitable locality in the neighbourhood of London. No. 7492	1855 June 11-1865 Apr. 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689923
+>>>>>> 	MH 51/49				Reports, statistics and correspondence relating to Broadmoor Criminal Lunatic Asylum, and plan of a proposed site for a lunatic establishment near Woking, Surrey. No. 4074	1856-1874	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689924
+>>>>>> 	MH 51/50				Report relating to the property of Sophia Pauline Jacobs, lunatic patient in a licensed house, Wyke House, Isleworth, Middlesex. No. 7588	1860 Mar. 27-1863 Nov. 25	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689925
+>>>>>> 	MH 51/51				Correspondence and papers relating to the lunatic asylums of Bath and Bridgwater. No. 7174	1862-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689926
+>>>>>> 	MH 51/52				Report relating to the case of Louisa Fischer, and her subsequent discharge. No. 2997	1863 Apr. 7-1878 Oct. 7	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689927
+>>>>>> 	MH 51/53				Report relating to the death of Thomas Henry in Lancaster County Asylum. No. 7521	1863 May 18-Sept. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689928
+>>>>>> 	MH 51/54				Report relating to the property of Mary Weston Slade, a pauper lunatic in the Dorset County Asylum. No. 7539	1863 June 12-1865 Sept. 22	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689929
+>>>>>> 	MH 51/55				Report relating to the suicide of George Stapleford of Bethnal Green, Middlesex, and the proposed prosecution of the relieving officer. No. 7598	1863 July 14-1865 Jan. 6	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689930
+>>>>>> 	MH 51/56				Correspondence relating to the discharge of Alexander James Latta from Surrey County Asylum. No. 7643	1863 Oct. 1-Oct. 16	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689931
+>>>>>> 	MH 51/57				Enquiry into justification for detaining a criminal patient, Helen Englefield, in Northumberland Asylum. No. 7722	1863 Oct. 23-Dec. 24	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689932
+>>>>>> 	MH 51/58				Report relating to the case of Mary Ann Ford and the practice of committing insane persons and idiots to gaols. No. 7679	1863 Nov. 2-1864 May 14	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689933
+>>>>>> 	MH 51/59				Correspondence, papers and notes of trial, etc., relating to the criminal neglect of lunatic Robert Porter. No. 7689a	1863 Dec. 1-1864 Mar. 14	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689934
+>>>>>> 	MH 51/60				Correspondence, papers, etc., relating to the trial of George Victor Townley and his subsequent suicide in Pentonville Gaol. Copy of correspondence with the Secretary of State for the Home Department, and of orders or warrants issued by him, in relating to the case. No. 7716	1863 Dec. 12-1865 Feb. 17	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689935
+>>>>>> 	MH 51/61				Reports on the cases of neglected lunatics, William Whitburn and John Henry Kittow. No. 7725/7689a	1863 Dec. 18-1864 Feb. 1	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689936
+>>>>>> 	MH 51/62				Correspondence and papers relating to the case of Mary Catherine Whittington a private patient. No. 1026/2963	1865 Jan. 28-1880 July 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689937
+>>>>>> 	MH 51/63				Contracts for reception of Northampton County and Borough pauper lunatics into Northampton Lunatic Hospital. No. 7616	1866 May 7-1869 Sept. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689938
+>>>>>> 	MH 51/64				Correspondence and papers relating to the case of Patrick Lindsey Stuart a single, private patient, and his subsequent discharge. No. 2224/2998	1873 May 14-1890 May 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689939
+>>>>>> 	MH 51/65				Correspondence and papers relating to the case of Dermot Robert Wyndham Bourke, Earl of Mayo, a single, private patient and his subsequent discharge. No. 2986	1877 June 25-1879 Aug. 17	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689940
+>>>>>> 	MH 51/66				Correspondence and papers relating to the case of Osgood Hanbury, a private patient, and his subsequent discharge. No. 2957	1877 Oct. 6-1878 Mar. 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689941
+>>>>>> 	MH 51/67				Correspondence and papers relating to the case of Anne Catherine Savory, a private patient. No. 2978	1877 Nov. 17-1880 Oct. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689942
+>>>>>> 	MH 51/68				Illegal reception of lunatics by Mary Dix and her son Walter Dix at Totton, near Southampton. No. 20658	1886 Jan. 18-May 5	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689943
+>>>>>> 	MH 51/69				Copy report of Winchester Visiting Committee concerning their visit to Hampshire County Asylum. No. 22234	1890 Dec. 6-Dec. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689944
+>>>>>> 	MH 51/70				Papers, etc., of the Home Office relating to police action in cases of delirium tremens and Police Regulations regarding cases of lunacy. No. 23847	1894 Oct. 31-Nov. 23	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689945
+>>>>>> 	MH 51/71				Correspondence relating to alleged lunatics detained at R. D. Hurd's private asylum Portland Grange, Matlock. No. 27206	1902 July 22-1909 Sept. 27	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689946
+>>>>>> 	MH 51/72				Alleged illegal charge of patients at St. John's Nursing Institute, Upper Holloway, London. No. 27244	1902 Sept. 25-1911 Sept. 14	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689947
+>>>>>> 	MH 51/73				Proposed prosecution of Mary Canning of Hove, Sussex, for illegal charge of Julia Phillips. No. 27333	1902 Oct. 15-1903 Mar. 16	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689948
+>>>>>> 	MH 51/74				Alleged illegal charge of Lilian de Lacy White and other patients at Alltofts, Normanton, Yorkshire. No. 301186	1908 Nov. 30-1909 Jan. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689949
+>>>>>> 	MH 51/75				Detention of lunatics in workhouses; letter from the Home Office asking for Commissioners' observations relating to correspondence with East Grinstead Union. No. 30057/2384	1908 Dec. 23-1909 May 27	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689950
+>>>>>> 	MH 51/76				Correspondence relating to Isabella Docker and her sister Kate Crossley, deceased, and dismissal of a reception order for Isabella Docker. No. 30113	1909 Feb. 26-May 22	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689951
+>>>>>> 	MH 51/77				Dismissal of a reception order, presented by Dr. C. Frazer Nash, for Ada Jane Foster. No. 30099	1909 Feb. 28-Mar. 20	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689952
+>>>>   				Research Grants			 	Grants allocated by the Board of Control to further research in mental diseases.							C37465
+>>>>>> 	MH 51/78				Proceedings of meetings, memoranda, correspondence, etc. relating to state aid for scientific research in mental disease and mental defect.	1912 Dec. 13-1914 Jan. 17	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689953
+>>>>>> 	MH 51/79				Request, sent to Wakefield Asylum by the Board of Control, for views and suggestions relating to the disposal of the grant in aid of scientific research. No. 308/19/1	1914 Mar. 25-Dec. 4	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689954
+>>>>>> 	MH 51/80				Request, sent to Manchester University by the Board of Control, for views and suggestions relating to the disposal of the grant in aid of scientific research. No. 308/11/1	1914 Mar.25 - Dec. 5	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689955
+>>>>>> 	MH 51/81				Report submitted by a committee member, Dr. Coupland, relating to the grant in aid of research. No. 308/25	1914 July 10	 	A committee (known as the Medical Research Committee) appointed to advise the Board of Control as to the type of research it would be advisable to encourage.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689956
+>>>>>> 	MH 51/82				Proceedings of meetings of the committee on research. No. 308/32	1914 July 30-1915 May 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689957
+>>>>>> 	MH 51/83				Proposal to utilize the grant for research by permitting Dr. H. S. Gettings to continue his enquiry into asylum dysentery. No. 308/19/2	1914 Dec. 25-1915 Aug. 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689958
+>>>>>> 	MH 51/84				Board of Control's recommendation in favour of Manchester University's scheme; request for details of research work at other centres which the Board had supported by grant. No. 308/11/2	1915 Jan. 15-Feb. 15	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689959
+>>>>>> 	MH 51/85				Medical Research Committee's observations on manner in which the Board allocated a grant to Manchester University's scheme. No. 308/11/3	1915 Feb. 26-Mar. 4	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689960
+>>>>>> 	MH 51/86				Report by Dr. Bond of his interview with Dr. W. Morley Fletcher relating to the investigation of dysentery by the Medical Research Committee No. 308/19/3	1915 June 8-Sept. 28	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689961
+>>>>>> 	MH 51/87				Correspondence and memoranda of meeting relating to the allocation of a grant for the year 1919-1920. No. 308/2	1919 Oct. 13-Dec. 15	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689962
+>>>>>> 	MH 51/88				Correspondence and memoranda of meeting relating to the allocation of a grant for the year 1920-1921. No. 308/5	1920 Oct. 11-Dec. 7	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689963
+>>>>>> 	MH 51/89				Correspondence relating to the merging of the grant in the next financial year 1921-1922, with that of the Medical Research Council. No. 308/6	1921 Jan. 1-June 23	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689964
+>>>>   				Returns relating to Insane Prisoners in Gaols			 								C37466
+>>>>>> 	MH 51/90				Abingdon County Gaol, Berkshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689965
+>>>>>> 	MH 51/91				Barnstable Borough Gaol, Devonshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689966
+>>>>>> 	MH 51/92				Bath City Gaol, Somerset	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689967
+>>>>>> 	MH 51/93				Beaumaris Gaol, Anglesey	1858 Mar. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689968
+>>>>>> 	MH 51/94				Beccles House of Correction, Suffolk	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689969
+>>>>>> 	MH 51/95				Bedford County Gaol	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689970
+>>>>>> 	MH 51/96				Berwick on Tweed Gaol, Northumberland	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689971
+>>>>>> 	MH 51/97				Beverley House of Correction, Yorkshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689972
+>>>>>> 	MH 51/98				Bideford Borough Gaol, Devonshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689973
+>>>>>> 	MH 51/99				Birmingham Borough Gaol, Warwickshire	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689974
+>>>>>> 	MH 51/100				Brecon County Gaol	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689975
+>>>>>> 	MH 51/101				Bristol City Gaol, Gloucestershire	1858 Mar. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689976
+>>>>>> 	MH 51/102				Buckinghamshire County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689977
+>>>>>> 	MH 51/103				Bury St. Edmunds County Gaol, Suffolk	1858 Mar. 15	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689978
+>>>>>> 	MH 51/104				Cambridge Borough Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689979
+>>>>>> 	MH 51/105				Cambridge County Gaol	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689980
+>>>>>> 	MH 51/106				Canterbury County Gaol, Kent	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689981
+>>>>>> 	MH 51/107				Canterbury City Gaol, Kent	1858 Mar. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689982
+>>>>>> 	MH 51/108				Cardiff County Gaol, Glamorganshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689983
+>>>>>> 	MH 51/109				Cardigan County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689984
+>>>>>> 	MH 51/110				Carnarvon County Gaol	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689985
+>>>>>> 	MH 51/111				Coventry County Gaol, Warwickshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689986
+>>>>>> 	MH 51/112				Chester County Gaol at Chester Castle	1858 Mar. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689987
+>>>>>> 	MH 51/113				Chester City Gaol	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689988
+>>>>>> 	MH 51/114				Cold Bath Fields House of Correction Middlesex	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689989
+>>>>>> 	MH 51/115				Cornwall County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689990
+>>>>>> 	MH 51/116				Cumberland County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689991
+>>>>>> 	MH 51/117				Denbigh County Gaol	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689992
+>>>>>> 	MH 51/118				Derby County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689993
+>>>>>> 	MH 51/119				Devizes House of Correction, Wiltshire	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689994
+>>>>>> 	MH 51/120				Devon County Gaol	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689995
+>>>>>> 	MH 51/121				Devonport Borough Gaol, Devonshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689996
+>>>>>> 	MH 51/122				Dorset County Gaol	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689997
+>>>>>> 	MH 51/123				Dover Borough Gaol, Kent	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689998
+>>>>>> 	MH 51/124				Durham County Gaol	1858 Mar. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1689999
+>>>>>> 	MH 51/125				Ely House of Correction, Cambridgeshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690000
+>>>>>> 	MH 51/126				Essex County Gaol	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690001
+>>>>>> 	MH 51/127				Exeter City Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690002
+>>>>>> 	MH 51/128				Falkingham House of Correction, Lincolnshire	1858 Mar. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690003
+>>>>>> 	MH 51/129				Flint County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690004
+>>>>>> 	MH 51/130				Gloucester County Gaol	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690005
+>>>>>> 	MH 51/131				Gloucester City Gaol	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690006
+>>>>>> 	MH 51/132				Grantham Borough Gaol, Lincolnshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690007
+>>>>>> 	MH 51/133				Hampshire County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690008
+>>>>>> 	MH 51/134				Herefordshire County Gaol	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690009
+>>>>>> 	MH 51/135				Hertfordshire County Gaol, and House of Correction	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690010
+>>>>>> 	MH 51/136				Huntingdonshire County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690011
+>>>>>> 	MH 51/137				Ilford House of Correction, Essex	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690012
+>>>>>> 	MH 51/138				Ipswich County Gaol, Suffolk	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690013
+>>>>>> 	MH 51/139				Ipswich Borough Gaol, Suffolk	1858 Mar. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690014
+>>>>>> 	MH 51/140				Kings Lynn Borough Gaol, Norfolk	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690015
+>>>>>> 	MH 51/141				Kingston upon Hull Gaol, Yorkshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690016
+>>>>>> 	MH 51/142				Kirkdale House of Correction, Lancaster	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690017
+>>>>>> 	MH 51/143				Kirton House of Correction, Lincolnshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690018
+>>>>>> 	MH 51/144				Knutsford House of Correction, Chester	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690019
+>>>>>> 	MH 51/145				Lancaster County Gaol	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690020
+>>>>>> 	MH 51/146				Leeds Borough Gaol, Yorkshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690021
+>>>>>> 	MH 51/147				Leicester Borough Gaol, and House of Correction	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690022
+>>>>>> 	MH 51/148				Leicester County Gaol	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690023
+>>>>>> 	MH 51/149				Lichfield City Gaol, Staffordshire	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690024
+>>>>>> 	MH 51/150				Lincoln County Gaol at Lincoln Castle	1858 Mar. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690025
+>>>>>> 	MH 51/151				Lincoln City Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690026
+>>>>>> 	MH 51/152				Liverpool Borough Gaol, Lancashire	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690027
+>>>>>> 	MH 51/153				Louth House of Correction, Lincolnshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690028
+>>>>>> 	MH 51/154				Maidstone County Gaol, Kent	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690029
+>>>>>> 	MH 51/155				Manchester City Gaol, Lancashire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690030
+>>>>>> 	MH 51/156				Merioneth County Gaol	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690031
+>>>>>> 	MH 51/157				Montgomery County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690032
+>>>>>> 	MH 51/158				Monmouth County Gaol	1858 Mar. 17	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690033
+>>>>>> 	MH 51/159				New Romney Gaol, Kent	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690034
+>>>>>> 	MH 51/160				Northleach House of Correction, Gloucestershire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690035
+>>>>>> 	MH 51/161				Newcastle upon Tyne Gaol, Northumberland	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690036
+>>>>>> 	MH 51/162				Newgate Gaol, Middlesex	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690037
+>>>>>> 	MH 51/163				Norfolk County Gaol	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690038
+>>>>>> 	MH 51/164				Northallerton House of Correction, Yorkshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690039
+>>>>>> 	MH 51/165				Norwich City Gaol, Norfolk	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690040
+>>>>>> 	MH 51/166				Northampton County Gaol	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690041
+>>>>>> 	MH 51/167				Northumberland County Gaol	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690042
+>>>>>> 	MH 51/168				Nottingham Town Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690043
+>>>>>> 	MH 51/169				Nottingham County Gaol	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690044
+>>>>>> 	MH 51/170				Oakham County Gaol, Rutland	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690045
+>>>>>> 	MH 51/171				Oxford City Gaol	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690046
+>>>>>> 	MH 51/172				Oxford Castle County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690047
+>>>>>> 	MH 51/173				Pembrooke County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690048
+>>>>>> 	MH 51/174				Peterborough Gaol, Northamptonshire	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690049
+>>>>>> 	MH 51/175				Petworth County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690050
+>>>>>> 	MH 51/176				Plymouth Borough Gaol, Devonshire	1858 Mar. 17	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690051
+>>>>>> 	MH 51/177				Poole Borough Gaol, Dorset	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690052
+>>>>>> 	MH 51/178				Portsmouth Borough Gaol, Hampshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690053
+>>>>>> 	MH 51/179				Preston House of Correction, Lancashire	1858 Mar. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690054
+>>>>>> 	MH 51/180				Radnor County Gaol	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690055
+>>>>>> 	MH 51/181				Reading County Gaol, Berkshire	1858 Mar. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690056
+>>>>>> 	MH 51/182				St. Albans Borough Gaol, Hertfordshire	1858 Mar. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690057
+>>>>>> 	MH 51/183				Salford House of Correction, Lancashire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690058
+>>>>>> 	MH 51/184				Salisbury County Gaol, Wiltshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690059
+>>>>>> 	MH 51/185				Sandwich Borough Gaol, Kent	1858 Mar. 15	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690060
+>>>>>> 	MH 51/186				Shepton Mallet House of Correction, Somerset	1858 Mar. 8	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690061
+>>>>>> 	MH 51/187				Shropshire County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690062
+>>>>>> 	MH 51/188				Southampton Town Gaol, Hampshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690063
+>>>>>> 	MH 51/189				South Molton Borough Gaol, Devonshire	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690064
+>>>>>> 	MH 51/190				Spalding House of Correction, Lincolnshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690065
+>>>>>> 	MH 51/191				Spilsby House of Correction, Lincolnshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690066
+>>>>>> 	MH 51/192				Stafford County Gaol	1858 Mar. 29	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690067
+>>>>>> 	MH 51/193				Stamford Gaol, Lincolnshire	1858 Mar. 28	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690068
+>>>>>> 	MH 51/194				Surrey County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690069
+>>>>>> 	MH 51/195				Swansea County Gaol, Glamorganshire	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690070
+>>>>>> 	MH 51/196				Taunton County Gaol, Somerset	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690071
+>>>>>> 	MH 51/197				Tiverton Borough Gaol, Devonshire	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690072
+>>>>>> 	MH 51/198				Usk House of Correction, Monmouthshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690073
+>>>>>> 	MH 51/199				Wakefield House of Correction, Yorkshire (West Riding)	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690074
+>>>>>> 	MH 51/200				Walsingham House of Correction, Norfolk	1858 Mar. 11	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690075
+>>>>>> 	MH 51/201				Warwick County Gaol	1858 Mar. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690076
+>>>>>> 	MH 51/202				Westmorland County Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690077
+>>>>>> 	MH 51/203				Wisbech House of Correction, Cambridgeshire	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690078
+>>>>>> 	MH 51/204				Worcester City Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690079
+>>>>>> 	MH 51/205				Worcester County Gaol	1858 Mar. 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690080
+>>>>>> 	MH 51/206				Yarmouth Borough Gaol	1858 Mar. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690081
+>>>>>> 	MH 51/207				York City House of Correction	1858 Mar. 22	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690082
+>>>>   				Departmental Committee on Sterilisation			 								C37467
+>>>>>> 	MH 51/208				Returns submitted by local authorities to circular letter from the committee; correspondence with individuals providing background information for the 'Report of the Departmental Committee on Sterilisation'	1932 Feb. 12-1933 Nov. 27	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690083
+>>>>>> 	MH 51/209				Circular 779, from the committee, sent to local authorities, and correspondence relating to mental defectives known to have had children	1932 Aug. 12-1933 Aug. 29	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690084
+>>>>>> 	MH 51/210				Correspondence and working papers of the committee, and first, printed draft of the 'Report of the Departmental Committee on Sterilisation'	1933 July 6-Dec. 18	 	A great number of these papers are undated.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690085
+>>>>>> 	MH 51/211				Returns to circular 779 submitted by the Kent County Council, relating to mental defectives known to have had children	1933 July 21-Aug. 23	 				Closed or Retained Document, Open Description	Closed for 	100	01/01/2034	C1690086
+>>>>   				Departmental Committee on Sterilisation: Meetings			 								C37468
+>>>>>> 	MH 51/212				First meeting. Agenda, correspondence, and proceedings	1932 Feb.12 - June 24	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690087
+>>>>>> 	MH 51/213				Second meeting. Evidence submitted to the committee, correspondence and proceedings	1932 June 24-July 18	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690088
+>>>>>> 	MH 51/214				Third meeting. Evidence submitted to the committee, correspondence and proceedings	1932 Sept. 23-1933 Nov. 14	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690089
+>>>>>> 	MH 51/215				Fourth meeting. Evidence submitted to the committee, correspondence and proceedings	1932 June 30-1933 Feb. 1	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690090
+>>>>>> 	MH 51/216				Fifth meeting. Chairman's memorandum, circular 779 from committee and proceedings	1932 Oct. 19-Oct. 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690091
+>>>>>> 	MH 51/217				Sixth meeting. Evidence submitted to the committee, correspondence and proceedings	1932 June 30-1934 Jan. 1	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690092
+>>>>>> 	MH 51/218				Seventh meeting. Evidence submitted to the committee, correspondence and proceedings	1932 Aug. 10-1933 Dec. 1	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690093
+>>>>>> 	MH 51/219				Eighth meeting. Evidence submitted to the committee, correspondence and proceedings	1932 July 20-1933 July 17	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690094
+>>>>>> 	MH 51/220				Ninth meeting. Evidence submitted to the committee, correspondence and proceedings	1932 Dec. 13-Dec. 29	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690095
+>>>>>> 	MH 51/221				Tenth meeting. Evidence submitted to the committee, correspondence and proceedings	1932 Sept. 21-1933 Jan. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690096
+>>>>>> 	MH 51/222				Eleventh meeting. Evidence submitted to the committee, correspondence and proceedings	1932 Oct. 5-1933 Jan. 23	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690097
+>>>>>> 	MH 51/223				Twelfth meeting. Evidence submitted to the committee, correspondence and proceedings	1932 Nov. 29-1933 Aug. 24	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690098
+>>>>>> 	MH 51/224				Thirteenth meeting. Evidence submitted to the committee, correspondence and proceedings and programme of forthcoming meetings.	1933 Feb. 20-Nov. 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690099
+>>>>>> 	MH 51/225				Fourteenth meeting. Evidence submitted to the committee, and proceedings	1933 Mar. 6	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690100
+>>>>>> 	MH 51/226				Fifteenth meeting. Evidence submitted to the committee, and proceedings	1933 Mar. 13	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690101
+>>>>>> 	MH 51/227				Sixteenth meeting. Evidence submitted to the committee, correspondence and proceedings	1932 Nov. 4-1933 Mar. 20	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690102
+>>>>>> 	MH 51/228				Seventeenth meeting. Evidence submitted to the committee, correspondence and proceedings	1933 Mar. 27-Apr. 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690103
+>>>>>> 	MH 51/229				Eighteenth meeting. Evidence submitted to the committee, correspondence and proceedings	1932 Oct. 5-1933 Apr. 10	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690104
+>>>>>> 	MH 51/230				Nineteenth meeting. Evidence submitted to the committee, correspondence and proceedings	1933 Apr. 24	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690105
+>>>>>> 	MH 51/231				Twentieth meeting. Evidence submitted to the committee, correspondence and proceedings	1933 Apr. 28-Sept. 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690106
+>>>>>> 	MH 51/232				Twenty-first meeting. Evidence submitted to the committee, correspondence and proceedings	1933 May 16-May 26	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690107
+>>>>>> 	MH 51/233				Twenty-second meeting. Evidence submitted to the committee, correspondence and proceedings	1933 May 26-June 12	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690108
+>>>>>> 	MH 51/234				Twenty-third meeting. Evidence submitted to the committee and proceedings	1933 June 20-June 27	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690109
+>>>>>> 	MH 51/235				Twenty-fourth meeting. Evidence submitted to the committee and proceedings	1933 July 10	 	See also MH 51/541-563 below			Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690110
+>>>>   				Circular Letters			 								C37469
+>>>>>> 	MH 51/236				Lunacy Commission, book no. 1, nos. 1-100	1845-1863	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690111
+>>>>>> 	MH 51/237				Lunacy Commission, book no. 2, nos. 101-229	1864-1889	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690112
+>>>>>> 	MH 51/238				Lunacy Commission, book no. 3, nos. 230-405	1890 Apr. 16-1914 Mar. 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690113
+>>>>>> 	MH 51/239				Board of Control, book no. 1, nos. 406-577	1914 Mar. 30-1921 Jan. 1	 	Under the Mental Deficiency Act, 1913 (3 and 4 Geo. V, c.28) the Lunacy Commission was merged in a newly created Board of Control.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690114
+>>>>>> 	MH 51/240				Board of Control, book no. 2, nos. 578-749	1921 Jan. 10-1930 Oct.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690115
+>>>>>> 	MH 51/241				Board of Control, book no. 3, nos. 751-886	1930 Oct.-1940 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690116
+>>>>>> 	MH 51/242				Board of Control, book no. 4, nos. 887-1021	1941 Jan.-1960 Aug. 9	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690117
+>>>>   				Chairman's Papers			 								C37470
+>>>>>> 	MH 51/721	35			Lord Shaftesbury, first chairman of Lunacy Commission: file of miscellaneous letters	1875-1885  1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690596
+>>>>>> 	MH 51/722	212			Broadmoor Asylum: minutes and correspondence on private file of Sir Laurence Brock, chairman, Board of Control	1937-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690597
+>>>>   				Disposal of Records			 								C37471
+>>>>>> 	MH 51/723	60103/13/1			Destruction of papers, records and documents	1889-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690598
+>>>>>> 	MH 51/724	60103/13/2			Destruction of papers, records and documents	1940-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690599
+>>>>>> 	MH 51/725	60103/13/3			Destruction of papers, records and documents	1942-1963	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690600
+>>>>   				Guardianship, and After Care Centres			 								C37472
+>>>>>> 	MH 51/726	1701/1851			Birmingham Special Schools After Care Committee: reports, grants and administration	1923-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690601
+>>>>>> 	MH 51/727	1702/1851/1			Brighton Guardianship Society: reports, administration and grants to occupation centres	1922-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690602
+>>>>>> 	MH 51/728	1702/1851/2			Brighton Guardianship Society: reports, administration and grants to occupation centres	1945-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690603
+>>>>   				London Lock Hospital			 								C37473
+>>>>>> 	MH 51/729	3773			Visit of inspection with view to part of hospital being used to treat mental deficients suffering from venereal disease	1917-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690604
+>>>>>> 	MH 51/730	3773/2			Possible use as a 'place of safety' for mental deficients	1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690605
+>>>>>> 	MH 51/731	3773/4			Renewal of mental deficiency certificate	1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690606
+>>>>>> 	MH 51/732	3773/6B			Certification for five female patients	1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690607
+>>>>>> 	MH 51/733	3773/11			Report on four patients by doctor	1921	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690608
+>>>>   				Miscellaneous Papers			 								C37474
+>>>>>> 	MH 51/734				Lists of institutions for care of the insane in England and Wales. (List compiled in 1966)	1966	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690609
+>>>>   				Haydock Lodge			 								C37475
+>>>>>> 	MH 51/738				Minutes of evidence taken before the Metropolitan Commissioners in Lunacy	1846	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690613
+>>>>>> 	MH 51/739				Minutes of evidence taken before the Metropolitan Commissioners in Lunacy	1846	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690614
+>>>>>> 	MH 51/740				Minutes of evidence taken before the Metropolitan Commissioners in Lunacy	1846	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690615
+>>>>>> 	MH 51/741				Minutes of evidence taken before the Metropolitan Commissioners in Lunacy	1846	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690616
+>>>>>> 	MH 51/742				Minutes of evidence taken before the Metropolitan Commissioners in Lunacy	1846	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690617
+>>>>>> 	MH 51/743				Minutes of evidence taken before the Metropolitan Commissioners in Lunacy	1846	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690618
+>>>>>> 	MH 51/744				Minutes of evidence taken before the Metropolitan Commissioners in Lunacy	1847	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690619
+>>>>>> 	MH 51/745				List of patients names, ages, illnesses and causes of deaths	1845	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690620
+>>>>>> 	MH 51/746				Sworn statements	1846	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690621
+>>>>   				Law Officers opinions			 								C37476
+>>>>>> 	MH 51/747				List of opinions on various Lunacy Acts 1857-1890, Mental Deficiency Act 1913 and Asylum Officers Superannuation Act 1909	1857-1913	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690622
+>>>>>> 	MH 51/748				Questions arising on Lunacy Acts 1890 and 1891, Commissioners Rules and Criminal Lunatics Act 1884	1884-1891	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690623
+>>>>>> 	MH 51/749	No 1			Pauper lunatics sent to workhouses prior to removal to an asylum	1857	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690624
+>>>>>> 	MH 51/750	No 2			Guy's Hospital lunatic ward; terms of founder's will	1857	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690625
+>>>>>> 	MH 51/751	No 3			Defective and irregular orders and certificates relating to patients admitted into asylums; powers of Commissioners to require revision	1858	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690626
+>>>>>> 	MH 51/752	No 4			Jurisdiction of Commissioners over private patients found lunatic by inquisition	1858	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690627
+>>>>>> 	MH 51/753	No 5			Licenses; power of Commissioners to renew	1859	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690628
+>>>>>> 	MH 51/754	No 6			Insane or imbecile prisoners; duties of magistrates	1861	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690629
+>>>>>> 	MH 51/755	No 7			Lunatics incorrectly classified as paupers	1863	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690630
+>>>>>> 	MH 51/756	No 8			Carmarthen and Haverfordwest; position of Haverfordwest with relation to the Poor Law Union for asylum purposes	1863	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690631
+>>>>>> 	MH 51/757	No 9			Powers of lunatic hospitals to admit voluntary residents	1863	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690632
+>>>>>> 	MH 51/758	No 10			Certificates of insanity for admission into English and Welsh asylums signed outside of England and Wales	1867	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690633
+>>>>>> 	MH 51/759	No 11			Patient chargeable to Solihull union sent to Warwick asylum	1867	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690634
+>>>>>> 	MH 51/760	No 12			Removal of chronic lunatics from asylums to workhouses	1867	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690635
+>>>>>> 	MH 51/761	No 13			Wye House Buxton; removal of deceased patient before inquest	1867	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690636
+>>>>>> 	MH 51/762	No 14			Temporary absence from county asylum and recapture of those not returning within the period of leave granted	1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690637
+>>>>>> 	MH 51/763	No 15			Statutory provision for the reception or charge of the insane	1870	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690638
+>>>>>> 	MH 51/764	No 16			Branch establishments of hospitals; Bethlem hospital and Witley convalescent home	1871	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690639
+>>>>>> 	MH 51/765	No 17			Proposal to build an asylum for lunatics by Gt Yarmouth borough	1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690640
+>>>>>> 	MH 51/766	No 18			Requisition by the Secretary of State for provision of asylum for Plymouth borough	1867	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690641
+>>>>>> 	MH 51/767	No 19			Powers of visiting Commissioners under the Lunacy Act 8 and 9 Vic C100 sections 64 and 100	1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690642
+>>>>>> 	MH 51/768	No 20			Definition of the word 'lunatic'	1866	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690643
+>>>>>> 	MH 51/769	No 21			Methods of enforcing regulations of registered hospitals	1873	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690644
+>>>>>> 	MH 51/770	No 22			Inciting a patient to escape	1874	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690645
+>>>>>> 	MH 51/771	No 23			Metropolitan Poor Act 1867; responsibility of accepting a union patient into an asylum	1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690646
+>>>>>> 	MH 51/772	No 24			Definition of a pauper lunatic	1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690647
+>>>>>> 	MH 51/773	No 25			Patients going on leave of absence	1876	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690648
+>>>>>> 	MH 51/774	No 26			Patients going on leave of absence: to a place outside England and Wales, or on trial limited by condition of proper control, or to a residence under provisions of a will, Chancery lunatics	1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690649
+>>>>>> 	MH 51/775	No 27			Post-mortem examinations	1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690650
+>>>>>> 	MH 51/776	No 28			Reception of a patient in Cheadle hospital	1881	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690651
+>>>>>> 	MH 51/777	No 29			Order for reception of patient by Justice of the Peace on production of a certificate previously obtained and without attendance of a medical practitioner	1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690652
+>>>>>> 	MH 51/778	No 30			Illegal detention of an alleged lunatic	1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690653
+>>>>>> 	MH 51/779	No 31			Assistant Medical Officers in County or Borough asylums	1883	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690654
+>>>>>> 	MH 51/780	No 32			Carnal knowledge of a female patient	1866-1884	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690655
+>>>>>> 	MH 51/781	No 33			Orders for reception of patients in County asylums signed by Justices of Boroughs not having separate Court of Quarter Sessions	1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690656
+>>>>>> 	MH 51/782	No 34			Casting vote of the Chairman of the Board	1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690657
+>>>>>> 	MH 51/783	No 35			Existing licensed house registered under the Idiots Act 1886 without renewal of licence	1887	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690658
+>>>>>> 	MH 51/784	No 36			Wandering lunatics (Lunacy Acts Amendment Act 1885 Section 68)	1887	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690659
+>>>>>> 	MH 51/785	No 37			Local Government Act 1888; powers of County Council visiting committees: to discharge or transfer pauper lunatics from asylums	1889	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690660
+>>>>>> 	MH 51/786	No 38			Local Government Act 1888; powers of County Council visiting committees: duties	1889	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690661
+>>>>>> 	MH 51/787	No 39			Lunacy Act 1890 Sections 13 and 16; classification of lunatics	1890	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690662
+>>>>>> 	MH 51/788	No 40			Blackburn workhouse; alleged improper conduct of workmen employed therein with female lunatic inmates	1890	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690663
+>>>>>> 	MH 51/789	No 41			North Wales Counties Asylum; dissolution of union of counties and subscribers; proposal for increased accommodation for pauper lunatics	1892	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690664
+>>>>>> 	MH 51/790	No 42			Lunacy Act 1890 Section 258; East Yorks asylum, subscription of Asylums Committee to enlarge Walkington churchyard	1893	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690665
+>>>>>> 	MH 51/791	No 43			Lunacy Act 1890 Section 207(6) limitation of the number of patients in certain cases of renewed licenses	1893	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690666
+>>>>>> 	MH 51/792	No 44			Glendosshill and Hursthouses; inclusion in one licence of two houses to identical licenses	1892	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690667
+>>>>>> 	MH 51/793	No 45			Status of Sedgefield lunatic asylum as district or county asylum	1893	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690668
+>>>>>> 	MH 51/794	No 46			Lincolnshire asylum accommodation	1894	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690669
+>>>>>> 	MH 51/795	No 47			Prosecution under Section 322 Lunacy Act 1890; ill treatment by an attendant	1896	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690670
+>>>>>> 	MH 51/796	No 48			Lunacy Act 1890 Section 317(2); misstatement by Holloway Sanatorium doctor when reporting on a patient who died whilst on leave	1896	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690671
+>>>>>> 	MH 51/797	No 49			Criminal Lunatics Act 1884; reception into asylums of ex-criminal lunatics	1896	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690672
+>>>>>> 	MH 51/798	No 50			Lunacy Act 1890 Section 16; omission of name of institution from Orders for reception of patients into mental hospitals	1896	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690673
+>>>>>> 	MH 51/799	No 51			Removal of British subjects to and from detention in foreign asylums	1897	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690674
+>>>>>> 	MH 51/800	No 52			Charge by asylum authorities of more than 14/- (70p) per week for out county patients	1897	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690675
+>>>>>> 	MH 51/801	No 53			Lunacy Act 1890 Section 38; criminal lunatic detained in Broadmoor asylum under Justices Order	1897	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690676
+>>>>>> 	MH 51/802	No 54			Criminal Law Amendment 1885 Section 5; proposed prosecution	1898	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690677
+>>>>>> 	MH 51/803	No 55			Contract for reception of Bedfordshire pauper lunatics into Wells (Somerset) asylum entered into by Bedfordshire visiting committee	1898	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690678
+>>>>>> 	MH 51/804	No 55A			Lunatic Asylums Act 1853 Section 38; planning permission for building or extending premises by the Secretary for State, correspondence with the Local Government Board and Hull Borough asylum	1864-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690679
+>>>>>> 	MH 51/805	No 56			Jurisdiction of London Justice to make an order for reception of a pauper lunatic into a London asylum from Leavesden asylum, Herts	1898	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690680
+>>>>>> 	MH 51/806	No 57			Transfer of patients from one Metropolitan District asylum to another	1898	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690681
+>>>>>> 	MH 51/807	No 58			Re-dating and initialling (not re-signing) orders and certificates for reception of pauper lunatics	1899	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690682
+>>>>>> 	MH 51/808	No 60			Lunacy Act 1890 Section 24(4); signature by Medical Officer of Ribchester Workhouse of first certificate for an inmate in Fulwood Workhouse (Preston)	1899	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690683
+>>>>>> 	MH 51/809	No 61			Lunacy Act 1890 Section 25; approval of medical officer that accommodation in workhouse is sufficient	1900	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690684
+>>>>>> 	MH 51/810	No 62			Criminal Lunatics Act 1884; criminal habitual drunkards detained under Inebriates Act 1898 becoming insane	1900	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690685
+>>>>>> 	MH 51/811	No 63			Detention in Broadmoor asylum of a lunatic after sentence is completed	1900	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690686
+>>>>>> 	MH 51/812	No 64			Jurisdiction of City of London Justices to make orders for reception into asylum of patients detained in Bow Infirmary	1900	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690687
+>>>>>> 	MH 51/813	No 65			Lunacy Act 1890 Section 65; removal of patients to Herts asylum without previous consent of Commissioners	1900	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690688
+>>>>>> 	MH 51/814	No 66			Burton on Trent; provision for pauper lunatics after 1st April 1901	1901	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690689
+>>>>>> 	MH 51/815	No 67			Detention of lunatics in workhouses	1901	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690690
+>>>>>> 	MH 51/816	No 68			Compulsory purchase of land by Local Authorities for asylum purchases	1901	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690691
+>>>>>> 	MH 51/817	No 69			Definition of a pauper lunatic	1901	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690692
+>>>>>> 	MH 51/818	No 70			Lunacy Act 1890 Section 207(3); house in one jurisdiction in substitution for a house in another jurisdiction	1902	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690693
+>>>>>> 	MH 51/819	No 71			Plans requiring approval of Home Secretary	1903	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690694
+>>>>>> 	MH 51/820	No 72			Form of certificate to be given after order made for reception of a lunatic in Darenth Asylum	1905	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690695
+>>>>>> 	MH 51/821	No 73			Lunacy Act 1890 Sections 53 and 54; retaking of a patient during leave of absence from an asylum on trial	1905	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690696
+>>>>>> 	MH 51/822	No 74			Licensing of houses for idiots	1906	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690697
+>>>>>> 	MH 51/823	No 75			Seafield House Liverpool; proposed working of the house as a separate asylum	1910	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690698
+>>>>>> 	MH 51/824	No 76			West Riding Asylums, provision of chapels	1898-1912	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690699
+>>>>>> 	MH 51/825	No 77			General labourer at Darenth asylum: service terminated by dismissal prior to the passing of Asylum Officers Superannuation Act 1909 must be aggregated	1914-1915	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690700
+>>>>>> 	MH 51/826	No 78			Renewal of licence to Camberwell House under the Lunacy Act of 1890	1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690701
+>>>>>> 	MH 51/243	60001/1/1			Power to receive voluntary patients	1930-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690118
+>>>>>> 	MH 51/244	60001/1/2			Voluntary patients under the age of sixteen	1933-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690119
+>>>>>> 	MH 51/245	60001/1/3			Medical recommendations for voluntary patients under the age of sixteen	1930-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690120
+>>>>>> 	MH 51/246	60001/1/5			Voluntary patients: intention to leave: notice to be given	1931-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690121
+>>>>>> 	MH 51/247	60001/5/1			Temporary treatment without certification: institutions and private homes into which temporary patients may be received	1930-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690122
+>>>>>> 	MH 51/248	60001/5/2			Temporary treatment without certification: institutions and private homes into which temporary patients may be received	1930-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690123
+>>>>>> 	MH 51/249	60001/5/3			Recommendations for temporary treatment: eligibility to sign	1930-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690124
+>>>>>> 	MH 51/250	60001/6/3A Pt 3			Out-patient treatment: issue of circulars Nos 796 and 818 with replies/returns	1934-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690125
+>>>>>> 	MH 51/251	60001/6/3A			Out-patient treatment: issue of circular 859 with returns	1939-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690126
+>>>>>> 	MH 51/252	60001/6/3A Pt 4			Out-patient centres and social services continued during the war: circular No 869	1939-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690127
+>>>>>> 	MH 51/253	60001/6/3B			After-care of discharged patients by local authorities	1931-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690128
+>>>>>> 	MH 51/254	60001/6/3D			Research: advisory committee on scientific and ancillary mental health services: (Lord Radnor, chairman): circulated papers, minutes and report	1930-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690129
+>>>>>> 	MH 51/255	60001/7/1			Visiting Committees: annual appointment of members and exercise of powers	1931-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690130
+>>>>>> 	MH 51/256	60001/11/1-10			Re-organisation of Board of Control: constitution of Board	1935-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690131
+>>>>>> 	MH 51/257	60001/16/1-3			Amendment of section 330 of the Lunacy Act, 1890: resulting matters	1927-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690132
+>>>>>> 	MH 51/258	60001/17			Amendment of the 1890 Act by section 17 of Mental Treatment Act 1930	1930-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690133
+>>>>>> 	MH 51/259	60001/18 A B C			Provisions concerning rate-aided patients: retention of rights and privileges regarding poor relief with certain provisions	1930-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690134
+>>>>>> 	MH 51/260	60001/19/1			Amendment of Mental Treatment Act 1930 concerning persons of unsound mind liable to be removed to workhouses	1931-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690135
+>>>>>> 	MH 51/261	60001/23/84/1-2			Notices to be sent to Local Authorities on removal, discharge or departure of all mental patients	1954-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690136
+>>>>>> 	MH 51/262	60001/27/1			Responsibility for paying fees of medical practitioners who make recommendations under sections 1 and 5 of Mental Treatment Act, 1930	1930-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690137
+>>>>>> 	MH 51/263	60001/27/2			General questions concerning a voluntary patient executing a deed of assignment	1932-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690138
+>>>>>> 	MH 51/264	60001/27/3			Censorship of correspondence from patients	1932-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690139
+>>>>>> 	MH 51/265	60001/27/6			Discharge of Health Service patients and re-admission as voluntary patients: interpretation of 'volition'	1931-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690140
+>>>>>> 	MH 51/266	60001/27/9			Circular No 745 (to Local Authorities and visiting committees) summarising the Mental Treatment Act, 1930	1930-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690141
+>>>>>> 	MH 51/267	60001/27/10			Circular No 749 (summary of the Act) to registered hospitals	1930-1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690142
+>>>>>> 	MH 51/268	60001/27/11			Circular 748 (summary of the Act) to licensed houses	1930-1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690143
+>>>>>> 	MH 51/269	60001/27/12			Time-table of administrative action to bring the Act into operation	1930-1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690144
+>>>>>> 	MH 51/270	60001/27/13A			Various conferences with representatives of voluntary hospitals about the Mental Treatment Act, 1930	1930-1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690145
+>>>>>> 	MH 51/271	60001/27/13B			Memoranda to voluntary and teaching hospitals: conferences on provisions of the Act	1930-1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690146
+>>>>>> 	MH 51/272	60001/27/14			Conferences with representatives of local authorities	1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690147
+>>>>>> 	MH 51/273	60001/27/19			Reception of mentally defective children as voluntary patients	1932-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690148
+>>>>>> 	MH 51/274	60001/27/22			Circular 805 and enclosure concerning temporary treatment	1935-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690149
+>>>>>> 	MH 51/275	60001/27/23			Parliamentary questions: suggested amendments to the Mental Treatment Act, 1930	1935-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690150
+>>>>>> 	MH 51/276	60001/27/25			Certification of jurisdiction over a voluntary patient in a mental hospital	1932-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690151
+>>>>>> 	MH 51/277	60001/27/26			Transfer of a voluntary patient from one institution to another	1933-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690152
+>>>>>> 	MH 51/278	60001/27/27			Powers and duties of Justices under Lunacy and Mental Treatment Acts, 1890-1930	1937-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690153
+>>>>>> 	MH 51/279	60001/27/29/1 Pt 1			Proposed revision of mental treatment rules, 1930: statutory rules for hospitals designated under the Lunacy Act (section 20)	1948-1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690154
+>>>>>> 	MH 51/280	60001/27/19/1 Pt 2			Proposed revision of mental treatment rules, 1930: statutory rules for hospitals designated under the Lunacy Act (section 20)	1949-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690155
+>>>>>> 	MH 51/281	60001/27/30			Board's view concerning the entitlement of the medical superintendent of a mental hospital to restrain, seclude, forcibly feed or administer drugs to a voluntary patient	1931-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690156
+>>>>>> 	MH 51/282	60001/27/33			Direct admissions of voluntary patients to branch establishments of registered hospitals and licensed houses	1930-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690157
+>>>>>> 	MH 51/283	60001/27/34			Restriction on the admission of voluntary patients	1951-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690158
+>>>>>> 	MH 51/284	60001/30			Approval of Nursing Homes: Board's policy and procedure	1930-1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690159
+>>>>>> 	MH 51/285	60001/30/16			Application for approval of Nursing Home under Mental Treatment Act, 1930: Dr W V T Styles, West Haven, Chine Crescent Road, Bournemouth	1929-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690160
+>>>>>> 	MH 51/286	60001/30/23			Application for approval of Nursing Home under Mental Treatment Act, 1930: Mrs J R Geddes, 63 Greencroft Gardens, Hampstead	1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690161
+>>>>>> 	MH 51/287	60001/30/24			Application for approval of Nursing Home under Mental Treatment Act, 1930: Dr M M Lilley, Oxhey Grove, Hatch End, Middlesex	1928-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690162
+>>>>>> 	MH 51/288	60001/30/35A			Application for approval of Nursing Home under Mental Treatment Act, 1930: Arthington Limited, Heath Court, Barton Road, Torquay	1938-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690163
+>>>>>> 	MH 51/289	60001/30/35 Pt 2			Application for approval of Nursing Home under Mental Treatment Act, 1930: Arthington Limited, Heath Court, Barton Road, Torquay	1938-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690164
+>>>>>> 	MH 51/290	60001/30/35 Pt 3			Application for approval of Nursing Home under Mental Treatment Act, 1930: Arthington Limited, Heath Court, Barton Road, Torquay	1948-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690165
+>>>>>> 	MH 51/291	60001/30/35E			Application for approval of Nursing Home under Mental Treatment Act, 1930: entries of patients	1938-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690166
+>>>>>> 	MH 51/292	60001/30/49			Application for approval of Nursing Home under the Act by St. Joseph's Home, Burgess Hill, Sussex	1936-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690167
+>>>>>> 	MH 51/293	60001/30/49E			Application for approval of Nursing Home under the Act by St. Joseph's Home, Burgess Hill, Sussex: entries of patients	1936-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690168
+>>>>>> 	MH 51/294	60001/30/76			Application for approval of Nursing Home under the Act by Dr D I C Macaulay, East House, Moss Lane, Pinner, Middlesex	1946-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690169
+>>>>>> 	MH 51/295	60001/30/76E			Application for approval of Nursing Home under the Act by Dr D I C Macaulay, East House, Moss Lane, Pinner, Middlesex: entries of patients	1950-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690170
+>>>>>> 	MH 51/296	60001/30/77			Application for approval of private house by Mr E Jones, The Spinney, Woodingdean Road, Brighton, for one certified patient	1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690171
+>>>>>> 	MH 51/297	60001/31/3			Application for approval of voluntary hospital by St. Bartholomew's, London EC1 (not preceeded with)	1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690172
+>>>>>> 	MH 51/298	60001/31/4			Application by York Clinic, Guy's Hospital for permission to erect accommodation for the reception of cases of mental disorder among voluntary patients	1937-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690173
+>>>>>> 	MH 51/299	60011/3			Classification of pauper, rate-aided and private patients	1894-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690174
+>>>>>> 	MH 51/300	60011/4/1-2			Private patients not found to be of unsound mind by inquisition, to be received only under order of judicial authority	1940-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690175
+>>>>>> 	MH 51/301	60011/5			Presentation of petition for reception order	1932-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690176
+>>>>>> 	MH 51/302	60011/6 1-5			Presentation of petition for reception order: procedure	1934-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690177
+>>>>>> 	MH 51/303	60011/8 1-5			Right of person of unsound mind to be examined by judicial authority	1899-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690178
+>>>>>> 	MH 51/304	60011/10/1-6 Pt 1			Appointment of Justices to make reception orders	1903-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690179
+>>>>>> 	MH 51/305	60011/10/1-6 Pt 2			Appointment of Justices to make reception orders	1952-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690180
+>>>>>> 	MH 51/306	60011/11 1-7			Urgency Order for the reception of a patient: Lunacy Act and Mental Treatment Act	1942-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690181
+>>>>>> 	MH 51/307	60011/12			Persons of unsound mind so found by inquisition	1896-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690182
+>>>>>> 	MH 51/308	60011/13 1-3			Summary Reception Orders	1901-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690183
+>>>>>> 	MH 51/309	60011/14 1-3			Notice to be given of a rate-aided patient who ought to be sent to a mental hospital	1900-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690184
+>>>>>> 	MH 51/310	60011/16 Pt 1			Summary Reception Orders	1894-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690185
+>>>>>> 	MH 51/311	60011/16 Pt 2			Summary Reception Orders	1951-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690186
+>>>>>> 	MH 51/312	60011/18 (1891)			Audit of accounts of mental hospitals	1932-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690187
+>>>>>> 	MH 51/313	60011/19 1-2 (1890)			Suspension of removal under reception order	1929-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690188
+>>>>>> 	MH 51/314	60011/19 1-2 (1891)			Removal of a lunatic becoming a a pauper	1944-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690189
+>>>>>> 	MH 51/315	60011/25			Power to send discharged rate-aided patients not recovered to public assistance institutions	1933-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690190
+>>>>>> 	MH 51/316	60011/26 1-2			Persons of unsound mind may be received in public assistance institutions in certain cases	1931-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690191
+>>>>>> 	MH 51/317	60011/26/56			Cannock public assistance institution: reception of female mental cases from Cheddleton mental hospital	1935-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690192
+>>>>>> 	MH 51/318	60011/26/60/1			Boarding out of patients	1925-1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690193
+>>>>>> 	MH 51/319	60011/27/1-4			Institutions into which persons of unsound mind may be received	1931-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690194
+>>>>>> 	MH 51/320	60011/28/1-4			Medical certificates for the purposes of a reception order	1898-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690195
+>>>>>> 	MH 51/321	60011/29/1-3			Time and manner of medical examination of a person of unsound mind	1934-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690196
+>>>>>> 	MH 51/322	60011/30			Persons disqualified for signing certificates	1895-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690197
+>>>>>> 	MH 51/323	60011/31			Private patient's usual medical attendant to sign certificate if possible	1902-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690198
+>>>>>> 	MH 51/324	60011/32/1-3 Pt 1			Patients not to be received under certificates given by interested persons	1921-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690199
+>>>>>> 	MH 51/325	60011/32/1-3 Pt 2			Patients not to be received under certificates given by interested persons	1953-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690200
+>>>>>> 	MH 51/326	60011/33			Commissioners and Visitors not to sign certificates	1920-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690201
+>>>>>> 	MH 51/327	60011/34/1-3			Amendment of orders and certificates	1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690202
+>>>>>> 	MH 51/328	60011/36/1-3			Fresh order and certificate not to be required in certain cases	1939-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690203
+>>>>>> 	MH 51/329	60011/38/1-10 Pt 1			Special reports and certificates	1929-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690204
+>>>>>> 	MH 51/330	60011/38/1-10 Pt 2			Special reports and certificates	1950-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690205
+>>>>>> 	MH 51/331	60011/55/1-8 Pt 1			Patients absent from mental hospitals on prolonged trial	1925-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690206
+>>>>>> 	MH 51/332	60011/278/1-7			Abstract of accounts	1933-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690207
+>>>>>> 	MH 51/333	60011/283/1-4			Permission to exceed 14 shillings per week for maintenance of patients	1920-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690208
+>>>>>> 	MH 51/334	60011/285/1-2			Payment of medical fees and other expenses	1935-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690209
+>>>>>> 	MH 51/335	60011/286/1-2			Liability for expenses of maintenance: chargeability of rate-aided patient	1933-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690210
+>>>>>> 	MH 51/336	60011/287/1-3			Orders for maintenance of mental patients	1931-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690211
+>>>>>> 	MH 51/337	60011/289			Adjudication as to settlement of expenses of maintenance of rate-aided voluntary patients	1931-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690212
+>>>>>> 	MH 51/338	60011/299/1-2			Application for lunatics' property: power to recover expenses against lunatics' estate	1896-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690213
+>>>>>> 	MH 51/339	60011/315/PR			Illegal detention of Miss A M Woolmington at Oak Lodge, Woodsland Road, Hassocks, Sussex, and others at various addresses	1932-1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690214
+>>>>>> 	MH 51/340	60011/315/1-3			Lunatics not to be detained except in accordance with the Acts	1932-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690215
+>>>>>> 	MH 51/341	60011/322/1/46			Dismissal of nurse Sean P Moroney for striking a patient	1946-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690216
+>>>>>> 	MH 51/342	60011/322/1/56			Porter J Osborn: alleged misconduct with a female patient	1956-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690217
+>>>>>> 	MH 51/343	60011/322/2/46			Dismissal of ward sister Marion Thompstone for falsification of a report book	1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690218
+>>>>>> 	MH 51/344	60011/322/2/56			Assistant nurse A E Hultum: Misconduct with female patient	1956-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690219
+>>>>>> 	MH 51/345	60011/322/4/46			Nurse A E Everton: dismissal for ill-treatment of a male patient	1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690220
+>>>>>> 	MH 51/346	60011/330/1-2			Protection for persons concerned with the administration of the Act	1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690221
+>>>>>> 	MH 51/347	60011/341			Legal definitions of terms	1941-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690222
+>>>>>> 	MH 51/348	60011/344/2			Mental hospitals: exemption from certain bye-laws	1884-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690223
+>>>>>> 	MH 51/349	60011/344/7/2			List of mental hospitals, registered hospitals and licensed houses for 1955	1954-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690224
+>>>>>> 	MH 51/350	60011/344/8			Registered hospitals: extent of their use for charitable purposes	1930-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690225
+>>>>>> 	MH 51/351	60011/344/9			Disposal of service personnel who are dangerous persons of unsound mind	1915-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690226
+>>>>>> 	MH 51/352	60011/344/14			Transfers from mental hospitals to Broadmoor of patients committing grave assault	1928-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690227
+>>>>>> 	MH 51/353	60011/344/30			Rewards to working patients	1926-1962	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690228
+>>>>>> 	MH 51/354	60011/344/40			Safeguards against irregular detention under the Lunacy and Mental Treatments Acts	1933-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690229
+>>>>>> 	MH 51/355	60011/344/44			Lay administration of public mental hospitals	1934-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690230
+>>>>>> 	MH 51/356	60011/344/53			Consolidation of Lunacy and Mental Treatment Acts	1935-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690231
+>>>>>> 	MH 51/357	60011/344/80/1			Terms and conditions of appointment of medical officers in mental hospitals	1928-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690232
+>>>>>> 	MH 51/358	60011/344/84			Deaf-blind persons in mental hospitals	1938-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690233
+>>>>>> 	MH 51/359	60011/344/86			Revision of lists of mental hospitals	1935-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690234
+>>>>>> 	MH 51/360	60011/344/88			Penal sections of the Lunacy Act	1938-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690235
+>>>>>> 	MH 51/361	60011/344/90			Legal position of patients transferred to workhouses	1875-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690236
+>>>>>> 	MH 51/362	60011/344/91			Certifying copies of documents issued by the Board: office procedure	1940-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690237
+>>>>>> 	MH 51/363	60011/344/92			Authorised use of forcible entry in order to reach a lunatic	1907-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690238
+>>>>>> 	MH 51/364	60011/344/94			Rehabilitation of patients by paid work inside and outside the hospital before discharge	1943-1962	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690239
+>>>>>> 	MH 51/365	60011/344/94/1			Provision of hostel accommodation for patients on leave of absence or discharged from mental hospitals	1950-1962	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690240
+>>>>>> 	MH 51/366	60011/344/95			Procedure to be adopted when a serious criminal offence is committed by a person of unsound mind	1943-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690241
+>>>>>> 	MH 51/367	60011/344/99			Conditional discharge of a criminal lunatic in Broadmoor	1937-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690242
+>>>>>> 	MH 51/368	60011/344/108			Arrest of a mental patient on a criminal charge	1927-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690243
+>>>>>> 	MH 51/369	60011/344/118			Grant of parole to patients in mental hospitals	1949-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690244
+>>>>>> 	MH 51/370	60011/344/119			Area of jurisdiction of justices	1950-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690245
+>>>>>> 	MH 51/371	60011/344/126			Admission of patients to certain mental hospitals without legal formality under the Acts	1952-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690246
+>>>>>> 	MH 51/372	60011/344/138			Informal patients in psychiatric hospitals: complaints about detention, ill treatment or abuse: responsibilities of the Minister of Health and the Board of Control	1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690247
+>>>>>> 	MH 51/373	60021/2/1-2			Circumstances under which defective children may be subject to be dealt with	1956-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690248
+>>>>>> 	MH 51/374	60021/2/1-2 (Pt I)			Circumstances under which defective children may be subject to be dealt with: with reports, statistics and individual cases	1914-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690249
+>>>>>> 	MH 51/375	60021/2/1-2 (Pt II)			Circumstances under which defective children may be subject to be dealt with: individual cases	1934-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690250
+>>>>>> 	MH 51/376	60021/2/1-2 (Pt III)			Circumstances under which defective children may be subject to be dealt with: individual cases	1953-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690251
+>>>>>> 	MH 51/377	60021/3/1-2			Power of parent or guardian to insist on action by Board of Control to deal with defective children	1926-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690252
+>>>>>> 	MH 51/378	60021/5/2			Circumstances under which professionally qualified persons may or may not sign orders: petitions regarding mental patients	1915-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690253
+>>>>>> 	MH 51/379	60021/6/3A (Pt I)			Consent of parents or guardians in the hearing of petitions	1924-1939	 				Closed or Retained Document, Open Description	Closed for 	93	01/01/2033	C1690254
+>>>>>> 	MH 51/380	60021/6/3A (Pt II)			Consent of parents or guardians in the hearing of petitions	1939-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690255
+>>>>>> 	MH 51/381	60021/6/4			General procedure on hearing petitions	1915-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690256
+>>>>>> 	MH 51/382	60021/7/1-3			Circumstances under which Variation of Orders operates	1926-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690257
+>>>>>> 	MH 51/383	60021/8/1-5 (Pt I)			Examples of procedure against persons guilty of offences	1914-1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690258
+>>>>>> 	MH 51/384	60021/8/1-5 (Pt II)			Examples of procedure against persons guilty of offences	1934-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690259
+>>>>>> 	MH 51/385	60021/9			Cases illustrating procedure against defectives undergoing imprisonment	1916-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690260
+>>>>>> 	MH 51/386	60021/13/1-4 (Pt I)			Cases illustrating Board's power to recover expenses	1916-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690261
+>>>>>> 	MH 51/387	60021/13/1-4 (Pt II)			Refusal of War Office to pay dependants' allowances to Local Authorities in respect of persons maintained in institutions	1917-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690262
+>>>>>> 	MH 51/388	60021/15/1-3 (Pt I)			Powers to remove to 'place of safety' pending presentation of petition	1914-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690263
+>>>>>> 	MH 51/389	60021/15/1-3 (Pt II)			Powers to remove to 'place of safety' pending presentation of petition	1924-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690264
+>>>>>> 	MH 51/390	60021/16/1-3			Transfers from institutions for mental defectives to institutions for mental patients, and vice versa	1935-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690265
+>>>>>> 	MH 51/391	60021/17/1-4 (Pt I)			Provisions in the Act to safeguard religious persuasion of patients	1922-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690266
+>>>>>> 	MH 51/392	60021/17/1-4 (Pt II)			Provisions in the Act to safeguard religious persuasion of patients	1941-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690267
+>>>>>> 	MH 51/393	60021/18			Provisions for visiting mental patients	1933-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690268
+>>>>>> 	MH 51/394	60021/25/2 (Pt I)			Powers and duties of Commissioners: discharges	1931-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690269
+>>>>>> 	MH 51/395	60021/25/2 (Pt II)			Powers and duties of Commissioners: inspection and visiting	1941-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690270
+>>>>>> 	MH 51/396	60021/30			General powers and duties of Local Health Authorities	1928-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690271
+>>>>>> 	MH 51/397	60021/36			Certification of institutions	1930-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690272
+>>>>>> 	MH 51/398	60021/37/1-2			Approval by Board of premises provided by public assistance committees	1931-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690273
+>>>>>> 	MH 51/399	60021/38/1-3			Transfers of powers to contribute to institutions from Local Authorities to Regional Hospital Boards	1937-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690274
+>>>>>> 	MH 51/400	60021/41/1-2 (Pt I)			Regulations for management of institutions with particular reference to patients' transfers, complaints of ill-treatment and censorship of mail	1928-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690275
+>>>>>> 	MH 51/401	60021/41/1-2 (Pt II)			Regulations for management of institutions with particular reference to patients' transfers, complaints of ill-treatment and censorship of mail	1947-1964	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690276
+>>>>>> 	MH 51/402	60021/42			Procedure for apprehending escaping defectives	1927-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690277
+>>>>>> 	MH 51/403	60021/43/1-3			Ascertainment of which Local Authority is responsible for providing accommodation for a mental patient	1933-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690278
+>>>>>> 	MH 51/404	60021/44/1-5			Ascertainment of responsible Local Authority for defectives dealt with by courts, state or judicial authorities	1929-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690279
+>>>>>> 	MH 51/405	60021/50/1 (Pt I)			Provisions for all aspects covering management of approved homes	1935-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690280
+>>>>>> 	MH 51/406	60021/50/1 (Pt II)			Provisions for all aspects covering management of approved homes	1949-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690281
+>>>>>> 	MH 51/407	60021/51/1-4 (Pt I)			Offences with respect to the reception and detention of defectives	1926-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690282
+>>>>>> 	MH 51/408	60021/51/1-4			Offences with respect to the reception and detention of defectives	1939-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690283
+>>>>>> 	MH 51/409	60021/53			Offences with respect to harbouring and aiding patients to escape	1935-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690284
+>>>>>> 	MH 51/410	60021/54/1-2 (Pt I)			Offences with respect to obstruction of local authorities by patients' next-of-kin, to abort petitions	1915-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690285
+>>>>>> 	MH 51/411	60021/55			Offences with respect of ill-treatment of patients by staff of institutions	1935-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690286
+>>>>>> 	MH 51/412	60021/56/1-6 (Pt I)			Protection of defectives from acts of sexual immorality; procuration	1937-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690287
+>>>>>> 	MH 51/413	60021/56/1-6 (Pt II)			Protection of defectives from acts of sexual immorality; procuration	1958-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690288
+>>>>>> 	MH 51/414	60021/65/1-3			Order in Council, 9 March 1914 transferring powers of Commissioners in Lunacy to Board of Control	1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690289
+>>>>>> 	MH 51/415	60021/67/1-4			Enquiry into standards of accommodation in institutions and homes: notes on the 'Idiots Act' of 1886	1938-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690290
+>>>>>> 	MH 51/416	60021/73/1 (Pt 1)			Suggested amendments to the Act of 1913	1916-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690291
+>>>>>> 	MH 51/417	60021/73/1 (Pt II)			Suggested amendments to the Act of 1913: and Mental Deficiency Regulations	1940-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690292
+>>>>>> 	MH 51/418	60021/74/2			Policy and procedure on notifying police of escapes: discharges of mental defectives	1920-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690293
+>>>>>> 	MH 51/419	60021/74/7			Extra-territorial powers of Local Authority magistrates	1917-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690294
+>>>>>> 	MH 51/420	60021/74/10			Policy regarding probation for mental defectives	1929-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690295
+>>>>>> 	MH 51/421	60021/74/15			Specification of locks and locked wards in institutions	1927-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690296
+>>>>>> 	MH 51/422	60021/74/16/1			Draft rules for the running of hostels for defectives	1928-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690297
+>>>>>> 	MH 51/423	60021/74/18			The setting up of training facilities for applicants for approved Homes	1932-1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690298
+>>>>>> 	MH 51/424	60021/74/19 (Pt I)			Rewards to patients for industry and good conduct at Occupational Centres	1920-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690299
+>>>>>> 	MH 51/425	60021/74/19 (Pt II)			Rewards to patients for industry and good conduct at Occupational Centres	1960-1961	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690300
+>>>>>> 	MH 51/426	60021/74/21 (Pt I)			Employment of mental defectives in Agricultural Industry	1925-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690301
+>>>>>> 	MH 51/427	60021/74/21 (Pt II)			Employment of mental defectives in Agricultural Industry	1946-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690302
+>>>>>> 	MH 51/428	60021/74/21 (Pt III)			Agricultural hostels for the mentally defective	1950-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690303
+>>>>>> 	MH 51/429	60021/74/24 (Pt I)			Organisation and administration of education and training of defectives in Institutions, Certified Houses and approved Homes	1915-1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690304
+>>>>>> 	MH 51/430	60021/74/24 (Pt II)			Organisation and administration of education and training of defectives in Institutions, Certified Houses and approved Homes	1936-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690305
+>>>>>> 	MH 51/431	60021/74/25			Revision of stock letters, forms and Circulars dealing with transfers of patients from Institutions to mental hospitals	1935-1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690306
+>>>>>> 	MH 51/432	60021/74/26 (Pt I)			Enlistment of defectives in HM Forces (men)	1924-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690307
+>>>>>> 	MH 51/433	60021/74/26 (Pt II)			Enlistment of defectives in HM Forces (men and women)	1938-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690308
+>>>>>> 	MH 51/434	60021/74/26 (Pt III)			Mental defectives discharged from HM Forces	1942-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690309
+>>>>>> 	MH 51/435	60021/74/26 (Pt IV)			Mental defectives discharged from HM Forces	1944-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690310
+>>>>>> 	MH 51/436	60021/74/26 (Pt V)			Mental defectives discharged from HM Forces	1946-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690311
+>>>>>> 	MH 51/437	60021/74/29/2			Mental defectives on license or under guardianship becoming pregnant (tables and lists 1935-1938)	1938-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690312
+>>>>>> 	MH 51/438	60021/74/29/3			Arrangements for after-care of baby of mental defective admitted to Institutions in a state of pregnancy	1938-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690313
+>>>>>>>	MH 51/438/1				Closed extracts: 27 pages	1938-1958	 				Closed or Retained Document, Open Description	Closed for 	100	01/01/2059	C16134292
+>>>>>> 	MH 51/439	60021/74/33/4			Marriage of defectives: revision of Board's policy and procedure	1942-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690314
+>>>>>> 	MH 51/440	60021/74/34 (Pt I)			Questions concerning reception of certified and uncertified patients under guardianship	1913-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690315
+>>>>>> 	MH 51/441	60021/74/34 (Pt II)			Questions concerning reception of certified and uncertified patients under guardianship	1924-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690316
+>>>>>> 	MH 51/442	60021/74/34 (Pt III)			Informal admission of patients to mental Deficiency Hospitals	1957-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690317
+>>>>>> 	MH 51/443	60021/74/37			Suggested grading of mental defectives to suit existing lay-out of buildings being used as Colonies	1927	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690318
+>>>>>> 	MH 51/444	60021/74/38			Reports on suitability of Institutions with reference to Poor Law Act 1926, S.27	1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690319
+>>>>>> 	MH 51/445	60021/74/40			Extension of allowance for mentally defective children of War Pensioners beyond the age of 16	1926-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690320
+>>>>>> 	MH 51/446	60021/74/42			Suggestion that cost of maintaining mental defectives in Institutions be shared by Board and Local Authorities	1925-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690321
+>>>>>> 	MH 51/447	60021/74/49 part A			Correspondence on disclosure of information and records of patients to other persons	1923-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690322
+>>>>>> 	MH 51/448	60021/74/49 part B			Correspondence on disclosure of information and records of patients to other persons	1952-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690323
+>>>>>> 	MH 51/449	60021/74/52			Organisation of libraries in mental deficiency institutions	1933-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690324
+>>>>>> 	MH 51/450	60021/74/53/1			Estimate of numbers of mental defectives in mental hospitals	1931-1933	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690325
+>>>>>> 	MH 51/451	60021/74/53/2			Estimate of numbers of mental defectives in mental hospitals: report of investigation made by Drs Wilson and Lewis in 1932-1933	1932-1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690326
+>>>>>> 	MH 51/452	60021/74/53/3			Record of number of patients dealt with under the Acts	1946-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690327
+>>>>>> 	MH 51/453	60021/74/57			Memoranda prepared prior to informal visits to mental deficiency institutions by Sir Laurence Brock	1934-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690328
+>>>>>> 	MH 51/454	60021/74/58			Mental deficiency and crime: reports for 1931 and 1932	1932-1933	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690329
+>>>>>> 	MH 51/455	60021/74/59/1			Mental deficiency and crime: triennial review for 1931-1933	1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690330
+>>>>>> 	MH 51/456	60021/74/59/4			Mental deficiency and crime: for 1934-1936	1937-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690331
+>>>>>> 	MH 51/457	60021/74/62			Employment of patients in mental deficiency institutions as members of staff	1922-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690332
+>>>>>> 	MH 51/458	60021/74/62/1			Employment of young persons in mental institutions and hospitals	1943-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690333
+>>>>>> 	MH 51/459	60021/74/62/2			Opposition to the employment of mental defectives in institutions; correspondence received from various organisations	1951-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690334
+>>>>>> 	MH 51/460	60021/74/64 part 2			Smallpox and Vaccination: circular No 709	1928-1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690335
+>>>>>> 	MH 51/461	60021/74/64 part III			Smallpox and Vaccination: circular 811A	1935-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690336
+>>>>>> 	MH 51/462	60021/74/66/1			Mental defectives: proposals for stay at holiday homes, payment of expenses by local authorities	1950-1962	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690337
+>>>>>> 	MH 51/463	60021/74/69/17			Mental defectives: patients on licence from certified institutions to work in other public assistance institutions	1937-1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690338
+>>>>>> 	MH 51/464	60021/74/69/17			Mental defectives: patients on licence from certified institutions to work in other public assistance institutions	1936-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690339
+>>>>>> 	MH 51/465	60021/74/69/17			Mental defectives, guardianship holder: Mrs A Roser, Brighton	1936-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690340
+>>>>>> 	MH 51/466	60021/74/69/17			Mental defectives, guardianship holder: Miss E Fleming, Aldridge, Staffs	1937-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690341
+>>>>>> 	MH 51/467	60021/74/69/54			Mental defectives, guardianship holder: Miss D Searle, Sussex	1947-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690342
+>>>>>> 	MH 51/468	60021/74/74			Mental defectives: orders obtained under the Acts and patients sent to unapproved institutions because no vacancies exist at approved institutions	1931-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690343
+>>>>>> 	MH 51/469	60021/74/75			Mental defectives: employment of patients on night work in institutions	1928-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690344
+>>>>>> 	MH 51/470	60021/74/76			Mental defectives: Board of Control's policy on discharge of patients where there is a difference of medical opinion	1920-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690345
+>>>>>> 	MH 51/471	60021/74/77			Mental defectives: questions on patients being allowed to sign legal documents	1918-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690346
+>>>>>> 	MH 51/472	60021/74/79 Pt I			Mental defectives: suggested revision of Board's policy for patients on licence from institutions	1935-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690347
+>>>>>> 	MH 51/473	60021/74/79 Pt 2			Mental defectives: suggested revision of Board's policy for patients on licence from institutions	1939-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690348
+>>>>>> 	MH 51/474	60021/74/79 Pt III			Mental defectives: suggested revision of Board's policy for patients on licence from institutions	1941-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690349
+>>>>>> 	MH 51/475	60021/74/79/1 Pt I			Mental defectives: matters arising due to leave of absence being granted to patients	1937-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690350
+>>>>>> 	MH 51/476	60021/74/79/1 Pt II			Mental defectives: question on number of patients on licence and length of time; summary of numbers	1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690351
+>>>>>> 	MH 51/477	60021/74/79/1 Pt III			Mental defectives: question on number of patients on licence and length of time; summary of numbers	1954-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690352
+>>>>>> 	MH 51/478	60021/74/79/2			Mental defectives: proposed issue of circular 835 to local authorities relating to leave of absence of patients	1937-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690353
+>>>>>> 	MH 51/479	60021/74/79/3			Mental defectives: circular 835A and enclosures relating to defectives on licence from institutions	1938-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690354
+>>>>>> 	MH 51/480	60021/74/79/4			Mental defectives: Board's policy on points arising as to discharge of defectives under circular 850	1938-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690355
+>>>>>> 	MH 51/481	60021/74/79/5			Mental defectives: payment to Local Health Authority for supervising patients on licence	1948-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690356
+>>>>>> 	MH 51/482	60021/74/79/6			Mental defectives: payments to be made by Hospital Management Committees for patients on holiday leave	1949-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690357
+>>>>>> 	MH 51/483	60021/74/79/7			Mental defectives: escorts to patients travelling home or elsewhere on licence or leave	1950-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690358
+>>>>>> 	MH 51/484	60021/74/79/8			Mental defectives: patients on licence for 2 years or more; 1951 review of cases	1951-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690359
+>>>>>> 	MH 51/485	60021/74/79/9			Mental defectives: proposed issue of circular HM(56)25 about patients on long licence	1956-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690360
+>>>>>> 	MH 51/486	60021/74/80			Mental defectives: Board's suggestions for rules at certified houses and institutions	1936-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690361
+>>>>>> 	MH 51/487	60021/74/92			Mental defectives: questions of defectives leaving England on holiday tours or for scouting camps; transfer of patients to and from Scotland	1926-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690362
+>>>>>> 	MH 51/488	60021/74/93			Mental defectives: reports of inquiries on oath held by Board of Control in relation to patients	1934-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690363
+>>>>>> 	MH 51/489	60021/74/94			Mental defectives: question of reception of defectives into nursing homes approved by the Board under Mental Treatment Act 1930	1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690364
+>>>>>> 	MH 51/490	60021/74/95			Mental defectives: application of disciplinary measures at homes and institutes	1936-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690365
+>>>>>> 	MH 51/491	60021/74/102			Mental defectives: records of local authorities and Voluntary Associations having home training schemes for defectives	1937-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690366
+>>>>>> 	MH 51/492	60021/74/103			Mental defectives: list of local authorities having defectives under guardianship orders on 1 January 1937	1937-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690367
+>>>>>> 	MH 51/493	60021/74/104			Mental defectives: examination of deaf and deaf-blind persons for mental deficiency	1937-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690368
+>>>>>> 	MH 51/494	60021/74/109			Mental defectives: with dangerous or violent propensities	1919-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690369
+>>>>>> 	MH 51/495	60021/74/116			Mental defectives: question of males being employed in the custody of female patients	1942-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690370
+>>>>>> 	MH 51/496	60021/74/122			Mental defectives: parents of certified male defective seek his release and take case to High Court, with success, on technical point of 'neglect''	1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690371
+>>>>>> 	MH 51/497	60021/74/122/4			Mental defectives: 'Found Neglected'', reports on licence and hospital cases in region 3	1956-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690372
+>>>>>> 	MH 51/498	60021/74/123			Mental defectives: question of claims under the Family Allowance Act 1945 for defectives under guardianship	1946-1961	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690373
+>>>>>> 	MH 51/499	60021/74/124			Mental defectives: issue of certificate of non-access on behalf of patient whose wife has borne an illegitimate child	1945-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690374
+>>>>>> 	MH 51/500	60021/74/128			Mental defectives: liability to contribute towards maintenance of illegitimate child	1949-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690375
+>>>>>> 	MH 51/501	60021/74/128/1			Mental defectives: arrangements for care of illegitimate children born of certified defectives	1952-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690376
+>>>>>> 	MH 51/502	60021/74/130			Mental defectives: obtaining affiliation orders against or on behalf of such persons	1949-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690377
+>>>>>> 	MH 51/503	60021/74/134			Mental defectives: improper certification of difficult women and girls	1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690378
+>>>>>> 	MH 51/504	60021/74/136			Mental defectives: may patients on licence become members of a trade union	1950-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690379
+>>>>>> 	MH 51/505	60021/74/139/1			Mental defectives: 'Orchard Dene'', a short stay home at Rainhill, Liverpool	1951-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690380
+>>>>>> 	MH 51/506	60021/74/139 Pt 2			Mental defectives: 'Orchard Dene'', a short stay home at Rainhill, Liverpool	1951-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690381
+>>>>>> 	MH 51/507	60021/74/147			Mental defectives: 'The Cheshire Home'' at Hawthorn Lodge, Dorchester	1955-1962	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690382
+>>>>>> 	MH 51/508	60021/74/148			Mental defectives: memorandum on informal admission to certified institutions and hospitals; review of all detained patients	1957-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690383
+>>>>>> 	MH 51/509	60021/75/2			Mental defectives - application for approval of premises as an approved home; Miss L R Kimble, 'Devonshire House'', Garston, Herts	1932-1933	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690384
+>>>>>> 	MH 51/510	60021/75/4/1			Mental defectives - application for approval of premises as an approved home: Miss E H Quinn, 'Aysgarth'', Gerrards Cross, Bucks, later at other addresses	1925-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690385
+>>>>>> 	MH 51/511	60021/75/4/3			Mental defectives - application for approval of premises as an approved home: Miss E H Quinn, 'Aysgarth'', Gerrards Cross, Bucks, later at other addresses	1938-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690386
+>>>>>> 	MH 51/512	60021/75/18			Mental defectives - application for approval of premises as an approved home: Mr and Mrs C Mason and Miss M Price, 'Heathend Court'', Cromhall, Glos	1945-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690387
+>>>>>> 	MH 51/513	60021/76 Pt 2			Mental defectives: dismissal of petitions for an order to send defectives to an institution	1940-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690388
+>>>>>> 	MH 51/514	60021/76/2			Mental defectives: dismissal of petitions for an order to send defectives to an institution	1932	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690389
+>>>>>> 	MH 51/515	60032/1901/81			Mental defectives: issue of clothing and money to patients on discharges	1956-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690390
+>>>>>> 	MH 51/516	60103/2			Board of Control - Commissioners; appointments	1931-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690391
+>>>>>> 	MH 51/517	60103/8/2			Board of Control - Commissioners; appointments: monthly conferences; action on reports	1927-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690392
+>>>>>> 	MH 51/518	60103/10/1			Board of Control - Commissioners; appointments: memorandum on entries to be made in patients book or special book when visiting	1931-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690393
+>>>>>> 	MH 51/519	60103/12/1			Board of Control - Commissioners; appointments: Board's policy on mental defective colonies in view of financial emergency	1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690394
+>>>>>> 	MH 51/520	60103/12/5			Board of Control - Commissioners; appointments: proposed circular to local authorities with reference to present financial situation in relation to lunacy and mental services	1931-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690395
+>>>>>> 	MH 51/521	60103/17			Board of Control - Commissioners; appointments: reconstitution of the work of the Board (1919)	1919-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690396
+>>>>>> 	MH 51/522	60103/23			Board of Control - Commissioners; appointments: production of documents in a Court of Law and claim of privilege	1937-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690397
+>>>>>> 	MH 51/523	60103/24			Board of Control - Commissioners; appointments: payment of compensation to W Hargreaves for wrongful detention under the Act of 1913	1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690398
+>>>>>> 	MH 51/524	60103/28			Board of Control - Commissioners; correspondence on office procedure with regard to the examination of admission documents and medical reports	1936-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690399
+>>>>>> 	MH 51/525	60103/30			Board of Control - Commissioners; correspondence on office procedure with regard to the examination of admission documents and medical reports: Lord Shaftesbury's portrait: first chairman of Lunacy Commission, 1845-1885	1878-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690400
+>>>>>> 	MH 51/526	60103/38			Board of Control - Commissioners; correspondence on office procedure with regard to the examination of admission documents and medical reports: matters arising in connection with the dissolution of the Board of Control	1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690401
+>>>>>> 	MH 51/527	60112/1/6			Holiday Homes and Camps: memorandum on points arising and issue of circular 844	1936-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690402
+>>>>>> 	MH 51/528	60122/4			Policy as to licence and discharge of patients resident in state institutions	1936-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690403
+>>>>>> 	MH 51/529	60123/1			Mental defectives under guardianship who wish to marry; Law Officers' opinion	1929-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690404
+>>>>>> 	MH 51/530	60129/7			Newspapers, journals and periodicals: correspondence on mis-statements	1925-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690405
+>>>>>> 	MH 51/531	60129/36			'Brother Lunatic'', a book by Paul Warr; correspondence and press comments	1957-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690406
+>>>>>> 	MH 51/532	60131/1			Post Mortem examinations: general correspondence on consent by relatives or Coroner	1903-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690407
+>>>>>> 	MH 51/533	60131/2			Post Mortem examinations: Law Officers' opinions	1854-1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690408
+>>>>>> 	MH 51/534	60141/1			Patients' right to exercise vote at general or bye-elections	1910-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690409
+>>>>>> 	MH 51/535	60148/7			Medical visitation of defectives under guardianship	1915-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690410
+>>>>>> 	MH 51/536	60152/1			Producing hyperpyrexia by diathermy treatment	1931-1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690411
+>>>>>> 	MH 51/537	60152/1 Pt I			Correspondence on malarial treatment including Dr Meaghers report	1928-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690412
+>>>>>> 	MH 51/538	60152/2 Pt II			Correspondence on malarial treatment including Dr Meaghers report	1927-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690413
+>>>>>> 	MH 51/539	60152/3			General paralysis of the insane; statistical enquiry	1923-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690414
+>>>>>> 	MH 51/540	60152/4			Correspondence on malarial treatment	1934-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690415
+>>>>>> 	MH 51/541	60153/1			Sterilisation: deputation to the Minister of Health; Report of the Departmental Committee on Sterilisation	1932-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690416
+>>>>>> 	MH 51/542	60153/2A			Sterilisation: Parliamentary Committee for the Legalisation of Sterilisation: Proposed Bill	1932-1933	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690417
+>>>>>> 	MH 51/543	60153/2B			Sterilisation: Parliamentary questions	1932-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690418
+>>>>>> 	MH 51/544	60153/3			Sterilisation: travelling expenses of committees	1932	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690419
+>>>>>> 	MH 51/545	60153/4			Sterilisation: enquiries as to facilities available for advice on sterilisation	1932-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690420
+>>>>>> 	MH 51/546	60153/5			Sterilisation: individual cases where sterilisation has been considered	1925-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690421
+>>>>>> 	MH 51/547	60153/6			Sterilisation: Draft Bill proposed by the Eugenics Society	1927-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690422
+>>>>>> 	MH 51/548	60153/7A			Sterilisation: Committee for research into mental disorder	1934-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690423
+>>>>>> 	MH 51/549	60153/7B			Sterilisation: consanguineous marriages: enquiry: replies to circular 801	1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690424
+>>>>>> 	MH 51/550	60153/7/1			Sterilisation: consanguineous marriages: relation of such marriages to the incidence of mental disorders	1934-1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690425
+>>>>>> 	MH 51/551	60153/7/2			Sterilisation: effect of vasectomy on development	1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690426
+>>>>>> 	MH 51/552	60153/7/6			Sterilisation: investigation into the causes of mental disorder	1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690427
+>>>>>> 	MH 51/553	60153/7/10			Sterilisation: pre-nuptial medical certificates; motion in the House of Lords; memorandum by the Eugenics Society	1934-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690428
+>>>>>> 	MH 51/554	60153/8			Sterilisation: resolutions and recommendations received in support of the findings of the Departmental Committee	1934-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690429
+>>>>>> 	MH 51/555	60153/10			Sterilisation: Draft Bill prepared by Joint Committee on Voluntary Sterilisation	1934-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690430
+>>>>>> 	MH 51/556	60153/11 Pt I			Sterilisation: press cuttings on report of the Departmental Committee on Sterilisation	1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690431
+>>>>>> 	MH 51/557	60153/11 Pt II			Sterilisation: press cuttings on report of the Departmental Committee on Sterilisation	1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690432
+>>>>>> 	MH 51/558	60153/11 Pt 3			Sterilisation: press cuttings on report of the Departmental Committee on Sterilisation	1935-1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690433
+>>>>>> 	MH 51/559	60153/11 Pt IV			Sterilisation: press cuttings on report of the Departmental Committee on Sterilisation	1937-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690434
+>>>>>> 	MH 51/560	60153/12			Sterilisation: attitude of the churches as regards voluntary sterilisation	1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690435
+>>>>>> 	MH 51/561	60153/13			Sterilisation: questions of legality if patients resident in mental hospitals are sterilised	1935-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690436
+>>>>>> 	MH 51/562	60153/20			Incidence of low grade defect in 180 families containing two or more mental defectives	1935-1936	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690437
+>>>>>> 	MH 51/563	60153/20/1			Low grade defect among the children of mental defectives	1934-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690438
+>>>>>> 	MH 51/564	60156/2			Correspondence on farming out of single patients; opinion of Sir A H Bodkin under the Lunacy Act 1890	1918-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690439
+>>>>>> 	MH 51/565	60160/4 Pt 1			Mental Deficiency Amending Act 1927	1926-1927	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690440
+>>>>>> 	MH 51/566	60160/4 Pt 2			Mental Deficiency Amending Act 1927	1927-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690441
+>>>>>> 	MH 51/567	60160/5			Bill to amend Mental Deficiency Act 1913	1927	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690442
+>>>>>> 	MH 51/568	60160/8			Mental Treatment Bill: House of Lords 1929	1929-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690443
+>>>>>> 	MH 51/569	60160/10/1			Criminal Lunatics Act 1938 [earlier dates are concerned with a precedent case]	1890-1899; 1944-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690444
+>>>>>> 	MH 51/570	60160/18			Nursing Homes Registration Act 1927	1925-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690445
+>>>>>> 	MH 51/571	60160/32A			Mental Deficiency Bill 1913	1911-1913	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690446
+>>>>>> 	MH 51/572	60160/32B			Mental Deficiency Bill 1913	1913-1916	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690447
+>>>>>> 	MH 51/573	60160/42/1 Pt			National Health Insurance Act 1924; National Health Insurance and Contributory Pensions Act 1935	1938-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690448
+>>>>>> 	MH 51/574	60160/42/2			Questions relative to the position of mental defectives under the Insurance Acts	1921-1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690449
+>>>>>> 	MH 51/575	60160/48/1			Matrimonial Causes Bill 1936-1937	1936-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690450
+>>>>>> 	MH 51/576	60160/48/2 Pt			Matrimonial Causes Bill 1936-1937	1936-1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690451
+>>>>>> 	MH 51/577	60160/48/2 Pt 2			Matrimonial Causes Act 1936-1937	1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690452
+>>>>>> 	MH 51/578	60160/48/2 Pt 3			Matrimonial Causes Act 1936-1937	1936-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690453
+>>>>>> 	MH 51/579	60160/48/2 Pt 4			Matrimonial Causes Act 1936-1937	1939-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690454
+>>>>>> 	MH 51/580	60160/48/2 Pt 5			Matrimonial Causes Act 1936-1937	1946-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690455
+>>>>>> 	MH 51/581	60160/48/2 Pt 6			Matrimonial Causes Act 1950; Legal Aid and Advice Act 1949	1951-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690456
+>>>>>> 	MH 51/582	60160/48/3			Matrimonial Causes Act 1950; Legal Aid and Advice Act 1949: payment of fees to medical officers of mental hospitals who attend Court to give evidence in divorce cases undertaken by West Surrey Poor Persons Department	1939-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690457
+>>>>>> 	MH 51/583	60160/48/4 Pt 1			Matrimonial Causes Act 1950; Legal Aid and Advice Act 1949: fees paid to Official Solicitor for copies of documents	1945-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690458
+>>>>>> 	MH 51/584	60160/48/4 Pt 2			Matrimonial Causes Act 1950; Legal Aid and Advice Act 1949: fees paid to Official Solicitor for copies of documents	1960-1963	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690459
+>>>>>> 	MH 51/585	60160/48/5			Law Reform [Miscellaneous Provisions] Bill 1949	1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690460
+>>>>>> 	MH 51/586	60160/48/6			Matrimonial Causes Act 1950	1950-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690461
+>>>>>> 	MH 51/587	60160/49			Local Government Superannuation Bill and Act 1937	1937-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690462
+>>>>>> 	MH 51/588	60160/50 Pt 1			Criminal Justice Bill 1938: medical examination of delinquents	1937-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690463
+>>>>>> 	MH 51/589	60160/50 Pt 2			Criminal Justice Bill 1938: medical examination of delinquents	1945-1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690464
+>>>>>> 	MH 51/590	60160/53			Proposed legislation to amend the mental deficiency Act 1913 arising from the case of Rex v Winterford	1938-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690465
+>>>>>> 	MH 51/591	60160/64			Adoption of Children Act 1926; Adoption of Children [Regulation] Act 1939	1939-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690466
+>>>>>> 	MH 51/592	60160/81/3/1			National Insurance in relation to criminal lunatics	1948-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690467
+>>>>>> 	MH 51/593	60160/81/3/2			Hospital patients engaged in productive work	1948-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690468
+>>>>>> 	MH 51/594	60160/81/3/3A			National Insurance Act 1946: effect of Section 29 [1] in relation to certain patients	1952-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690469
+>>>>>> 	MH 51/595	60160/81/3/3B			National Insurance Act 1946: general correspondence	1952-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690470
+>>>>>> 	MH 51/596	60160/81/4 Pt 1			National Health Service: estate of mental patients	1946-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690471
+>>>>>> 	MH 51/597	60160/81/4 Pt 2			National Health Service: estate of mental patients	1950-1962	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690472
+>>>>>> 	MH 51/598	60160/81/5			National Health Service Bill 1946	1946-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690473
+>>>>>> 	MH 51/599	60160/81/5/1			National Health Service Bill 1946: Amendment Act 1949	1948-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690474
+>>>>>> 	MH 51/600	60160/81/5/3			National Health Service Bill 1946: interpretation of Section 25	1949-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690475
+>>>>>> 	MH 51/601	60160/81/9			National Health Service Teaching Hospitals for the Psychiatric Service	1946-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690476
+>>>>>> 	MH 51/602	60160/90			Nurses Acts 1943 and 1945	1943-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690477
+>>>>>> 	MH 51/603	60160/90/1			Nursing Act 1949: legislative proposals arising from recommendations in the Working Party report	1948-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690478
+>>>>>> 	MH 51/604	60160/102 Pt 1			National Assistance Act 1948	1947-1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690479
+>>>>>> 	MH 51/605	60160/102 Pt 2			National Assistance Act 1948	1948-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690480
+>>>>>> 	MH 51/606	60160/102/1			National Assistance Act 1948: 'deemed' accommodation	1948-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690481
+>>>>>> 	MH 51/607	60160/102/1 Pt 2			National Assistance Act 1948: 'deemed' accommodation	1960-1961	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690482
+>>>>>> 	MH 51/608	60160/102/2			National Assistance Act 1948: matters relating to patients under guardianship	1946-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690483
+>>>>>> 	MH 51/609	60160/103			Children Bill and Act 1947	1947-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690484
+>>>>>> 	MH 51/610	60160/114/1			Proposals for new Mental Health lunacy legislation	1947-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690485
+>>>>>> 	MH 51/611	60160/114/1			Proposals for new Mental Deficiency legislation	1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690486
+>>>>>> 	MH 51/612	60160/116			Justices of the Peace Act 1949	1950-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690487
+>>>>>> 	MH 51/613	60160/125			Magistrates' Courts Act 1952	1953-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690488
+>>>>>> 	MH 51/614	60163/1 Pt 1			Encephalitis lethargica: general correspondence	1923-1928	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690489
+>>>>>> 	MH 51/615	60163/2 Pt 2			Encephalitis lethargica: general correspondence	1928-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690490
+>>>>>> 	MH 51/616	60163/3			Encephalitis lethargica: treatment of patients certified under the Lunacy Acts	1924-1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690491
+>>>>>> 	MH 51/617	60163/4			Encephalitis lethargica: methods of treatment and after-care	1925-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690492
+>>>>>> 	MH 51/618	61163/5			Encephalitis lethargica: applications for accommodation for post-encephalitis lethargica cases who are not certifiable	1929-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690493
+>>>>>> 	MH 51/619	60165/27			Committee on medical certificates	1948-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690494
+>>>>>> 	MH 51/620	60166/1			Epileptics: proposed conference on co-ordination	1932	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690495
+>>>>>> 	MH 51/621	60166/2			Epileptics: use of snake venom for treatment	1929-1932	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690496
+>>>>>> 	MH 51/622	60166/3			Epileptics: Permanent Committee on Epileptics: report on survey of the County of Surrey	1928-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690497
+>>>>>> 	MH 51/623	60166/4			Epileptics: provision of State Institution accommodation	1926-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690498
+>>>>>> 	MH 51/624	60166/5			Epileptics: enquiries concerning suitable Institutions	1922-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690499
+>>>>>> 	MH 51/625	60166/6			Epileptics: treatment with Veronal	1916	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690500
+>>>>>> 	MH 51/626	60166/7			Sane epileptics: visitation by the Board of Control and the Ministry of Health	1929-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690501
+>>>>>> 	MH 51/627	60166/8			Cysticercus Cellulosae as a cause of epilepsy in the Army	1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690502
+>>>>>> 	MH 51/628	60166/10			Rehabilitation of epileptics	1943-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690503
+>>>>>> 	MH 51/629	60166/11			Epilepsy: application to Home Office for an Animal Licence	1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690504
+>>>>>> 	MH 51/630	60166/12			British Epilepsy Association	1950-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690505
+>>>>>> 	MH 51/631	60193/8/1			Board of Control: co-ordination of procedure with Ministry of Health	1917-1925	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690506
+>>>>>> 	MH 51/632	60193/8/2			Board of Control: co-ordination of procedure with Ministry of Health	1932-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690507
+>>>>>> 	MH 51/633	60193/10			Brucella Abortus infections in Mental Institutions	1933	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690508
+>>>>>> 	MH 51/634	60193/14			Ministry of Health [Lunacy and Mental Deficiency Transfer of Powers] Order 1920: procedure and policy	1920-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690509
+>>>>>> 	MH 51/635	60193/17 Pt 1			Action regarding soldiers who may be suffering from mental disease: after-care when discharged from military mental hospitals	1936-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690510
+>>>>>> 	MH 51/636	60195/1			Darwin Trust: general activities and Board's representation	1929-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690511
+>>>>>> 	MH 51/637	60213/4			Provision of Institutional care for persons exhibiting certain abnormalities of mind and behaviour	1935-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690512
+>>>>>> 	MH 51/638	60218/1			Legal responsibility for accidents and injuries to patients	1933-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690513
+>>>>>> 	MH 51/639	60218/2			Accidents and injuries to patients: claim for compensation on the patients' behalf	1939-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690514
+>>>>>> 	MH 51/640	60232/1			Royal Commission on Lunacy and Mental Disorder, 1926: Report	1925-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690515
+>>>>>> 	MH 51/641	60232/1 Pt 1			Study of hypoglycaemic shock treatment in Schizophrenia: Dr Wilson's report	1936-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690516
+>>>>>> 	MH 51/642	60266/1 Pt 2			Study of hypoglycaemic shock treatment in Schizophrenia: Dr Wilson's report	1937-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690517
+>>>>>> 	MH 51/643	60266/2			Proposed visit by Dr Wilson and Dr Rees Thomas (Commissioners of the Board of Control) to Budapest and Frankfurt to investigate the treatment of schizophrenia by cardiazol injections	1937-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690518
+>>>>>> 	MH 51/644	60266/3			Cardiazol and insulin treatment: questionnaire to mental hospitals	1938-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690519
+>>>>>> 	MH 51/645	60276/1			General correspondence regarding taking over certain mental hospitals to be used as Territorial Army General Hospitals	1937-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690520
+>>>>>> 	MH 51/646	60277/1 (Pt I)			General correspondence regarding taking over certain mental hospitals to be used as Territorial Army General Hospitals: for the accommodation of civilian casualties	1937-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690521
+>>>>>> 	MH 51/647	60277/1 (Pt II)			General correspondence regarding taking over certain mental hospitals to be used as Territorial Army General Hospitals: for the accommodation of civilian casualties	1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690522
+>>>>>> 	MH 51/648	60277/1/1			General correspondence regarding taking over certain mental hospitals to be used as Territorial Army General Hospitals: for the accommodation of civilian casualties	1938-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690523
+>>>>>> 	MH 51/649	60277/1 and 2			War Hospital Scheme: complete vacation of selected hospitals and Institutions: report on development of Scheme	1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690524
+>>>>>> 	MH 51/650	60277/1 and 2			War Hospital Scheme: developments during the emergency	1938	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690525
+>>>>>> 	MH 51/651	60277/1/2			Record of the conversion of Wadsley Asylum into Wharncliffe War (Annex) Hospital	1915-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690526
+>>>>>> 	MH 51/652	60277/1/2			Wadsley Mental Hospital (later Wharncliffe Hospital): air raid precautions; accommodation for civilian casualties; reversion to mental hospital functions	1939-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690527
+>>>>>> 	MH 51/653	60277/2			Simplification of medical and clerical work: transfer orders, contracts	1939-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690528
+>>>>>> 	MH 51/654	60278/1/4			Reception of civilian war casualties: Sunderland Mental Hospital	1938-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690529
+>>>>>> 	MH 51/655	60278/1/7			Reception of civilian war casualties: mental hospitals in West Riding of Yorkshire	1938-1951	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690530
+>>>>>> 	MH 51/656	60280/1			Evacuation of Institutions (Mental Deficiency) not provided for in War Hospitals Scheme	1938-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690531
+>>>>>> 	MH 51/657	60280/2			Evacuation of Institutions (Lunacy) not provided for in War Hospitals Scheme	1938-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690532
+>>>>>> 	MH 51/658	60283/1 (Pt I)			Emergency Hospital Scheme:	1939-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690533
+>>>>>>>	MH 51/658/1				Civil Defence Bill		 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6225392
+>>>>>>>	MH 51/658/2				Defence Regulations		 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6225393
+>>>>>> 	MH 51/659	60283/1/2 (Pt I)			Defence Regulation 32A: movement of patients detained under the provisions of the Lunacy, Mental Treatment and Mental Deficiency Acts	1940-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690534
+>>>>>> 	MH 51/660	60290/1 and 2			Emergency Hospital Scheme: copies of First, Second and Third Reports	1938-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690535
+>>>>>> 	MH 51/661	60290/1 and 2 (Pt II)			Alternative Scheme for the adaptation of Mental Deficiency Institutions as hospitals for casualties in a National Emergency	1938-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690536
+>>>>>> 	MH 51/662	60290/2			Alternative Scheme for the adaptation of Mental Deficiency Institutions as hospitals for casualties in a National Emergency	1938-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690537
+>>>>>> 	MH 51/663	60300/1/70			Civilian neurosis survey	1942-1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690538
+>>>>>> 	MH 51/664	60300/1/75 (Pt I)			Mental Health Service social workers: recruitment, training and salaries	1939-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690539
+>>>>>> 	MH 51/665	60300/1/75/3 (Pt I)			Training of psychiatrists	1949-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690540
+>>>>>> 	MH 51/666	60300/1/75/3 (Pt II)			Training of psychiatrists	1950-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690541
+>>>>>> 	MH 51/667	60300/1/90			Habeas Corpus proceedings	1915-1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690542
+>>>>>> 	MH 51/668	60300/1/193			Royal Commission on marriage and divorce	1951-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690543
+>>>>>> 	MH 51/669	60300/3/69			Merger of Board of Control with Ministry of Health	1947-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690544
+>>>>>> 	MH 51/670	60300/3/69/1 (Pt I)			Merger of Board of Control with Ministry of Health: financial questions arising therefrom	1947-1959	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690545
+>>>>>> 	MH 51/671	60300/3/69/1 (Pt II)			Merger of Board of Control with Ministry of Health: financial questions arising therefrom	1959-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690546
+>>>>>> 	MH 51/672	60300/5/7			Members of Forces invalided on account of non-attributable mental disability	1943-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690547
+>>>>>> 	MH 51/673	66600/12			State Institutions: Board's policy on admissions	1923-1958	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690548
+>>>>>> 	MH 51/674	Unreg A			Proposed increase in number of Commissioners	1903-1909	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690549
+>>>>>> 	MH 51/675	Unreg B			Proposed amalgamation of the Lord Chancellor's Visitors of Lunatics with the Masters in Lunacy and the Commissioners in Lunacy: passing of Lunacy Bill 1911	1909-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690550
+>>>>>> 	MH 51/676	AOS/521			Asylum Officers Superannuation Act 1909: addition of three years service to the Clerk and Steward of East Riding Mental Hospital for superannuation purposes under the above Act	1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690551
+>>>>>> 	MH 51/677	A298/19 Pt III B			Board of Control: reorganisation	1927-1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690552
+>>>>>> 	MH 51/678	A298/19 Pt V			Future of the Board of Control under the National Health Scheme	1943-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690553
+>>>>>> 	MH 51/679	2326/78			Asylum and Certified Institutions (Officers Pensions) Act 1918: Weston Reformatory, Warwickshire	1929-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690554
+>>>>>> 	MH 51/680	2326/83			Asylum and Certified Institutions (Officers Pensions) Act 1918: Leeds County Borough	1930-1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690555
+>>>>>> 	MH 51/681	32465/A			Rules made by the Commissioners in Lunacy, 26 June 1895	1890-1923	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690556
+>>>>>> 	MH 51/682	32465/B			Rules made by the Commissioners in Lunacy, 26 June 1895	1907-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690557
+>>>>>> 	MH 51/683	32476			Certificates of exception under National Health Insurance Act 1911: application to asylum workers	1921-1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690558
+>>>>>> 	MH 51/684	32636/A			Asylum Officers Superannuation Bill: drafts of bill, reports and correspondence	1911-1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690559
+>>>>>> 	MH 51/685	32636/B			Asylum Officers Superannuation Bill: minutes of evidence before Select Committee	1911-1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690560
+>>>>>> 	MH 51/686	33030/52			Mental Hospitals Association invites Board of Control to meetings: recommendations of Consultative Committee	1922-1932	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690561
+>>>>>> 	MH 51/687	33387/4			Reconstruction Committee: correspondence with Board of Control on the promotion and conservation of the health of the population	1916-1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690562
+>>>>>> 	MH 51/688	33387/4A			Recontruction Committee: memorandum by member on abolition of the Poor Law Authorities	1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690563
+>>>>>> 	MH 51/689	33387/5			Recontruction Committee: correspondence about plans for asylum buildings after war	1916-1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690564
+>>>>>> 	MH 51/690	33387/10 and 11			Recontruction Committee: correspondence on law and practice involved in the acquisition of land for public purposes	1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690565
+>>>>>> 	MH 51/691	33387/14			Ministry of Reconstruction: memorandum forwarded on behalf of the Central Association for the Care of the Mentally Defective to the Board of Control	1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690566
+>>>>>> 	MH 51/692	33901			Service Patients: miscellaneous correspondence	1916-1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690567
+>>>>>> 	MH 51/693	33901/A			Service Patients: miscellaneous correspondence	1917-1922	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690568
+>>>>>> 	MH 51/694	33901/B			Conference between Board of Control and Ministry of Pensions: memorandum on pensioning of 'service patients' of unsound mind	1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690569
+>>>>>> 	MH 51/695	35126			The Elliott Charity: documents and letters concerning administration of the charity	1884-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690570
+>>>>>> 	MH 51/696	35746/1			Ex-service mental patients: scheme for a special exchequer grant	1924	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690571
+>>>>>> 	MH 51/697	36965/A/R			Treatment of general paralysis of insane by induced mild malaria	1924-1924	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690572
+>>>>>> 	MH 51/698	36965/B			Treatment of general paralysis of insane by induced mild malaria	1924-1955	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690573
+>>>>>> 	MH 51/699	38085			Report on transfer of functions of Poor Law Authorities in England and Wales: Poor Law Reform Bill	1918-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690574
+>>>>>> 	MH 51/700	38085/A			Local Government Act: Ministry of Health circulars and memoranda	1929-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690575
+>>>>>> 	MH 51/701	38085/B			Grants to societies under section 48, Mental Deficiency Act 1913	1928-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690576
+>>>>>> 	MH 51/702	38085/C			Local Government Act 1929: draft memoranda on clauses issued by Ministry of Health to local authorities	1929-1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690577
+>>>>>> 	MH 51/703	38590/R Pt 6			Official report on sections 20, 21 and 21A, Lunacy Act 1890	1956-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690578
+>>>>>> 	MH 51/704	39026/R			Proposed union of Somerset and Bath Mental Hospitals	1848-1932	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690579
+>>>>>> 	MH 51/705	39360			Bill to amend section 7, Mental Deficiency Act 1913	1924-1925	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690580
+>>>>>> 	MH 51/706	39497/2			Juvenile defectives: powers and duties of local authorities and local education authorities	1913-1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690581
+>>>>>> 	MH 51/707	39497/2			Juvenile defectives: powers and duties of local authorities and local education authorities	1935-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690582
+>>>>>> 	MH 51/708	40900			Boarding out of patients under section 26, Lunacy Act 1890	1925-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690583
+>>>>>> 	MH 51/709	42145/R			Guardianship cases: varying orders	1926-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690584
+>>>>>> 	MH 51/710	47981			Cost of Mental Deficiency Colonies: appointment of departmental committee	1929-1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690585
+>>>>>> 	MH 51/711	48302/1			Sterilization of mental defectives: proposed Bill to legalise sterilization	1931	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690586
+>>>>>> 	MH 51/712	48302/2			Prevention of mental deficiency and the sterilization of mental defectives	1929-1932	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690587
+>>>>>> 	MH 51/713	48304			Criminal lunatics in receipt of army service or disability pensions	1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690588
+>>>>>> 	MH 51/714	48826			Mental Treatment Bill 1929: arrangement of clauses and proposed amendments	1929-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690589
+>>>>>> 	MH 51/715	48953/R			Wages of mental defectives placed in domestic service on Licence from certified institutions	1930-1953	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690590
+>>>>>> 	MH 51/716	49280			Lunacy Acts 1890-1891: points arising under the Local Government Act 1929	1930-1934	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690591
+>>>>>> 	MH 51/717	49768/1			Mental Research Scheme: proposed extension of Birmingham University as a research centre	1930-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690592
+>>>>>> 	MH 51/718	49768/2			Mental Research Scheme: extension of Birmingham University as a research centre, reports on progress	1937-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690593
+>>>>>> 	MH 51/719	49893			Poor Law Institutions: Local Government Act 1929, lists and amendments	1930-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690594
+>>>>>> 	MH 51/720	51087/1			Residence of convicted persons in mental institutions as a condition of their probation	1931-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690595
+>>>>>> 	MH 51/735				The County Register: alphabetical record of proprietors of private madhouses, with a list of patients admitted	1798-1812	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690610
+>>>>>> 	MH 51/736				The County Register: correspondence on its movements and reference to missing Registers including a booklet entitled 'The County Register of Houses for the reception of Lunatics', 1798-1812, by R A Hunter, Ida Macalphine and L M Payne (Reprinted from 'The Journal of Mental Science' Vol 102, No 429, Oct 1956)	1961-1971	 				Open Document, Open Description	Normal Closure before FOI Act: 	30	01/01/2002	C1690611
+>>>>>> 	MH 51/737	60103/5			Lunacy Commission and Board of Control: list of commissioners and secretaries	1845-1960	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690612
+>>>>>> 	MH 51/827				Royal Commission on Lunacy and Mental Disorders: questionnaire and auditor's report	1925-1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690702
+>>>>>> 	MH 51/828				Royal Commission on Lunacy and Mental Disorders: replies to questionnaire; registered hospitals	1925-1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690703
+>>>>>> 	MH 51/829				Royal Commission on Lunacy and Mental Disorders: replies to questionnaire; provincial licensed houses	1925-1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690704
+>>>>>> 	MH 51/830	A7793			Lunacy Bill: amendments suggested by Secretary of State to Lord Chancellor	1885	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690705
+>>>>>> 	MH 51/831	A39400			Lunacy Bill: 'Queen's Pleasure' lunatics	1885	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690706
+>>>>>> 	MH 51/832	A47004			Refusal of Hanwell asylum authorities to receive a certain lunatic	1887	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690707
+>>>>>> 	MH 51/833	B8654/2			Lunacy Act: classification of lunatics	1890	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690708
+>>>>>> 	MH 51/834	B8880/1 & 2			Lunacy Act: Comments	1891	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690709
+>>>>>> 	MH 51/835	B8880/4			Lunacy Act: Comments	1891	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690710
+>>>>>> 	MH 51/836	B15249/18			Asylum accommodation: requisitions on Local Authorities; Lincolnshire	1894	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690711
+>>>>>> 	MH 51/837	B15249/28			Asylum accommodation: requisitions on Local Authorities; Lincolnshire	1894	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690712
+>>>>>> 	MH 51/838	B20841/16			Lunacy Bill: memoranda	1899	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690713
+>>>>>> 	MH 51/839	H5095/A2			Cheadle Royal Mental Hospital: registration	1845-1962	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690714
+>>>>>> 	MH 51/840	60160/51 Part 1			Transfer of Broadmoor management to Board of Control	1937-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690715
+>>>>>> 	MH 51/841	60160/51/1			Criminal Justice Bill: House of Commons Standing Committee proceedings	1938-1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690716
+>>>>>> 	MH 51/842	60160/67			Mental Deficiency Acts: 1913-1938	1916-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690717
+>>>>>> 	MH 51/843	60160/81/7/1/1			National Health Service Act: Superannuation (Amendment Regulations) 1949	1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690718
+>>>>>> 	MH 51/844	60160/81/7/2/1			National Health Service: Superannuation Regulations 1950: Code of Procedure, staff in state institutions	1949-1962	 				Open Document, Open Description	Closed for 	50	01/01/2013	C1690719
+>>>>>> 	MH 51/845	Departmental reference 43857			Civil Service Commission: list of appointments held direct from Crown; list of situations in Board of Control to schedule	1927-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690720
+>>>>>> 	MH 51/846	Departmental reference 35752/5			Whitley Council: draft of constitution for state institutions within National Health Service	1947-1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1690721

@@ -1,0 +1,35 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	WO 243			War Office: Advisory Board for Army Medical Services: Minutes and Reports	Printed confidential papers. No records of the Advisory Board have been traced for 1915 to 1930.	1898-1914	28 files and volumes		No records of the board for 1915-1940 have been traced.			Normal Closure before FOI Act: 	30		C14449
+>>>>   				ARMY HOSPITALS COMMITTEE: MINUTES AND REPORTS			 								C87648
+>>>>>> 	WO 243/16				Volume 1: meetings 1-25, minutes 1-345	1903 May 21-1904 Oct 06	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975440
+>>>>>> 	WO 243/17				Volume 2: meetings 26-40, minutes 346-467	1904 Oct 20-1905 Jul 20	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975441
+>>>>>> 	WO 243/18				Volume 3: meetings 41-50, minutes 468-581	1905 Sep 21-1906 Feb 15	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975442
+>>>>   				Advisory Board for Army Medical Services: Minutes and Reports			 								C87649
+>>>>>> 	WO 243/1				Volume 2	1902 Dec.- 1903 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130530
+>>>>>> 	WO 243/2				Volume 3	1903 June - Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130531
+>>>>>> 	WO 243/3				Volume 4	1903 Dec.- 1904 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130532
+>>>>>> 	WO 243/4				Volume 5	1904 July - Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130533
+>>>>>> 	WO 243/5				Volume 8	1906 Jan.- June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130534
+>>>>>> 	WO 243/6				Volume 9	1906 July - Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130535
+>>>>>> 	WO 243/7				Volume II	1908 Jan.- Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130536
+>>>>>> 	WO 243/8				Volume III	1909 Jan.- 1910 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130537
+>>>>>> 	WO 243/9				Volume IV	1911 Jan.- 1912 Dec.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130538
+>>>>>> 	WO 243/10				Volume 5	1913 Jan.- 1914 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C2130539
+>>>>>> 	WO 243/11				Treatment of Venereal disease and scabies in the army: final report	1906	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C3066607
+>>>>>> 	WO 243/12				Volume 1	1901 Jan 01-1902 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975443
+>>>>>> 	WO 243/13				Volume 6	1905 Jan 01-1905 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975444
+>>>>>> 	WO 243/14				Volume 7	1905 Jan 01-1905 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975445
+>>>>>> 	WO 243/15				Volume I	1907 Jan 01-1907 Dec 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975446
+>>>>   				ARMY SANITARY COMMITTEE: MINUTES			 								C87650
+>>>>>> 	WO 243/19				Minutes 764-1225	1898 Apr 07-1906 Feb 05	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975447
+>>>>   				THE NURSING BOARD, QUEEN ALEXANDRA'S IMPERIAL MILITARY NURSING SERVICE: PROCEEDINGS AND REPORTS			 								C87651
+>>>>>> 	WO 243/20				Volume 1	1902 Apr 01-1903 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975448
+>>>>>> 	WO 243/21				Volume 2	1903 Apr 01-1904 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975449
+>>>>>> 	WO 243/22				Volume 3	1904 Apr 01-1905 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975450
+>>>>>> 	WO 243/23				Volume 4	1905 Apr 01-1906 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975451
+>>>>>> 	WO 243/24				Volume 5	1906 Apr 01-1907 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975452
+>>>>>> 	WO 243/25				Volume 6	1907 Apr 01-1908 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975453
+>>>>>> 	WO 243/26				Volume 7	1908 Apr 01-1909 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975454
+>>>>>> 	WO 243/27				Volume 8	1909 Apr 01-1910 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975455
+>>>>>> 	WO 243/28				Volume 9	1910 Apr 01-1911 Mar 31	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10975456

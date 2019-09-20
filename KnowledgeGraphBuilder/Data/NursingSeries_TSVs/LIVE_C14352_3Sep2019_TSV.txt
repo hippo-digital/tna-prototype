@@ -1,0 +1,6 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	WO 145			War Office: Registers of Recipients of the Royal Red Cross	This series comprises registers of recipients of the Royal Red Cross decoration.	1883-1994	3 volume(s)			See also 		Normal Closure before FOI Act: 	30		C14352
+>>>>>> 	WO 145/1				Register of awards	1883-1918	 	Register has been annotated with dates of death up to 1952 and contains copies of two letters dated 1928 concerning the interpretation of Clause 6 of the Royal Red Cross Warrant			Open Document, Open Description	Normal Closure before FOI Act: 	30		C2357972
+>>>>>> 	WO 145/2	Volume 2			Register of awards	1918-1943	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C3644999
+>>>>>> 	WO 145/3	Volume 3			Register of awards	1943-1994	 	Indexed			Open Document, Open Description	Open Immediately			C3645001

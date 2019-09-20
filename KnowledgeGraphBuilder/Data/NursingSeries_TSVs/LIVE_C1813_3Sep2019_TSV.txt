@@ -1,0 +1,191 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	ADM 104			Admiralty and predecessors: Office of the Director General of the Medical Department of the Navy and predecessors: Service Registers and Registers of Deaths and Injuries	Establishment books of naval hospitals, lists of officers entitled to half pay, entry books, complement lists, and service records of medical, nursing, pharmacist, and other staff, case books of the Royal Naval Hospital Bermuda, 1832 to 1883, and a history of the hospital, and wages and salary lists of persons employed in the care of prisoners of war. Also registers of reports of deaths, and of killed and wounded; and medical department general notation books. ¶ PLEASE NOTE: Records within this series are available to download free of charge as part of the Digital Microfilm project.	1742-1957	171 files and volumes					Normal Closure before FOI Act: 	30		C1813
+>>>>   				SURGEONS			 								C27193
+>>>>>> 	ADM 104/11				ADM 104. (Index to Surgeons Services Vols. I to IV. (Index to Assistant Surgeons Vols. I to V.	1774-1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513498
+>>>>>> 	ADM 104/12				ADM 104. Surgeons Vol. I Part I pp. 1-215.	1774-1807	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513499
+>>>>>> 	ADM 104/13				ADM 104. Surgeons Vol. I Part II pp. 216-419.	1807-1811	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513500
+>>>>>> 	ADM 104/14				ADM 104. Surgeons Vol. II Part I pp. 1-177.	1811-1815	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513501
+>>>>>> 	ADM 104/15				ADM 104. Surgeons Vol. II Part II pp. 178-415.	1815-1831	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513502
+>>>>>> 	ADM 104/16				ADM 104. Surgeons Vol. III Part I pp. 1-200.	1831-1844	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513503
+>>>>>> 	ADM 104/17				ADM 104. Surgeons Vol. III Part II pp. 201-392.	1844-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513504
+>>>>>> 	ADM 104/18				ADM 104. Surgeons Vol. IV Part I pp. 1-229.	1854-1867	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513505
+>>>>>> 	ADM 104/19				ADM 104. Surgeons Vol. IV Part II pp. 230-470.	1867-1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513506
+>>>>>> 	ADM 104/20				ADM 104. Assistant Surgeons Vol. I Part I pp. 1-183.	1795-1823	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513507
+>>>>>> 	ADM 104/21				ADM 104. Assistant Surgeons Vol. I Part II pp. 184-413.	1823-1827	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513508
+>>>>>> 	ADM 104/22				ADM 104. Assistant Surgeons Vol. II pp. 1-413.	1827-1839	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513509
+>>>>>> 	ADM 104/23				ADM 104. Assistant Surgeons Vol. III Part I pp. 1-206.	1839-1845	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513510
+>>>>>> 	ADM 104/24				ADM 104. Assistant Surgeons Vol. III Part II pp. 207-394.	1845-1848	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513511
+>>>>>> 	ADM 104/25				ADM 104. Assistant Surgeons Vol. IV Part I pp. 1-198.	1848-1855	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513512
+>>>>>> 	ADM 104/26				ADM 104. Assistant Surgeons Vol. IV Part II pp. 199-393.	1855-1859	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513513
+>>>>>> 	ADM 104/27				ADM 104. Assistant Surgeons Vol. V Part I pp. 1-200.	1860-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513514
+>>>>>> 	ADM 104/28				ADM 104. Assistant Surgeons Vol. V Part II pp. 201-404.	1865-1873	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513515
+>>>>>> 	ADM 104/29				ADM 104. Staff and Fleet Surgeons.	1859-1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513516
+>>>>>> 	ADM 104/30				ADM 104. Surgeons services	1742-1819	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513517
+>>>>>> 	ADM 104/31				ADM 104. Surgeons services Vol. 1	1830-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513518
+>>>>>> 	ADM 104/32				ADM 104. Surgeons services Vol. 2	1854-1874	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513519
+>>>>>> 	ADM 104/33				ADM 104. Assistant surgeons services	1803-1816	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513520
+>>>>>> 	ADM 104/34				ADM 104. Assistant surgeons services	1829-1851	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513521
+>>>>>> 	ADM 104/35				ADM 104. Assistant surgeons services	1838-1864	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513522
+>>>>>> 	ADM 104/36				ADM 104. Assistant surgeons services	1851-1860	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513523
+>>>>>> 	ADM 104/37				ADM 104. Assistant surgeons services Vol. 3	1871-1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513524
+>>>>>> 	ADM 104/38				ADM 104. Medical officers services	1827-1861	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513525
+>>>>>> 	ADM 104/39				ADM 104. Medical officers services	1855-1887	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513526
+>>>>>> 	ADM 104/40				ADM 104. Medical officers services	1861-1871	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513527
+>>>>>> 	ADM 104/41				ADM 104. Medical officers services	1879-1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513528
+>>>>>> 	ADM 104/42				ADM 104. Medical officers services	1886-1893	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513529
+>>>>>> 	ADM 104/43				ADM 104. Nursing sisters services	1884-1909	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513530
+>>>>>> 	ADM 104/44				ADM 104. Temporary surgeons, consultants and physicians services	1914-1916	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513531
+>>>>>> 	ADM 104/45				ADM 104. Medical officers promotion submissions and service records	1854-1866	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513532
+>>>>>> 	ADM 104/46				ADM 104. Medical officers promotion submissions and service records	1867-1873	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513533
+>>>>>> 	ADM 104/47				ADM 104. Medical officers promotion submissions and service records	1874-1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513534
+>>>>>> 	ADM 104/48				ADM 104. Medical officers promotion submissions and service records	1878-1888	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513535
+>>>>>> 	ADM 104/49				ADM 104. Medical officers promotion submissions and service records	1888-1912	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513536
+>>>>>> 	ADM 104/50				ADM 104. Medical officers promotion submissions and service records	1912-1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513537
+>>>>>> 	ADM 104/51				ADM 104. Surgeons list	1780	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513538
+>>>>>> 	ADM 104/52				ADM 104. Surgeons list	1781	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513539
+>>>>>> 	ADM 104/53				ADM 104. Surgeons list	1782	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513540
+>>>>>> 	ADM 104/54				ADM 104. Surgeons list	1783	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513541
+>>>>>> 	ADM 104/55				ADM 104. Surgeons list	1784	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513542
+>>>>>> 	ADM 104/56				ADM 104. Surgeons list	1787	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513543
+>>>>>> 	ADM 104/57				ADM 104. Surgeons list	1796	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513544
+>>>>>> 	ADM 104/58				ADM 104. Surgeons list	1797	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513545
+>>>>>> 	ADM 104/59				ADM 104. Surgeons list	1798	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513546
+>>>>>> 	ADM 104/60				ADM 104. Surgeons list	1799	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513547
+>>>>>> 	ADM 104/61				ADM 104. Surgeons list	1800	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513548
+>>>>>> 	ADM 104/62				ADM 104. Surgeons list	1801	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513549
+>>>>>> 	ADM 104/63				ADM 104. Surgeons list	1802	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513550
+>>>>>> 	ADM 104/64				ADM 104. Surgeons list	1803	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513551
+>>>>>> 	ADM 104/65				ADM 104. Surgeons list	1804	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513552
+>>>>   				Medical Officers			 								C27194
+>>>>>> 	ADM 104/66				ADM 104. Medical officers on retired list	1805-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513553
+>>>>>> 	ADM 104/67				ADM 104. Medical list	1805	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513554
+>>>>>> 	ADM 104/68				ADM 104. Medical list	1806	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513555
+>>>>>> 	ADM 104/69				ADM 104. Medical list	1807	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513556
+>>>>>> 	ADM 104/70				ADM 104. Medical list	1808	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513557
+>>>>>> 	ADM 104/71				ADM 104. Medical list	1809	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513558
+>>>>>> 	ADM 104/72				ADM 104. Medical list	1810	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513559
+>>>>>> 	ADM 104/73				ADM 104. Medical list	1811	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513560
+>>>>>> 	ADM 104/74				ADM 104. Medical list	1812	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513561
+>>>>>> 	ADM 104/75				ADM 104. Medical list	1813	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513562
+>>>>>> 	ADM 104/76				ADM 104. Medical list	1814	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513563
+>>>>>> 	ADM 104/77				ADM 104. Medical list	1815	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513564
+>>>>>> 	ADM 104/78				ADM 104. Medical list	1816	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513565
+>>>>>> 	ADM 104/79				ADM 104. Medical list	1817	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513566
+>>>>>> 	ADM 104/80				ADM 104. Medical list	1820-1823	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513567
+>>>>>> 	ADM 104/81				ADM 104. Medical officers list	1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513568
+>>>>>> 	ADM 104/82				ADM 104. Medical officers list	1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513569
+>>>>>> 	ADM 104/83				ADM 104. Medical officers list	1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513570
+>>>>>> 	ADM 104/84				ADM 104. Medical officers list (retired list)	1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513571
+>>>>>> 	ADM 104/85				ADM 104. Medical officers list	1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513572
+>>>>>> 	ADM 104/86				ADM 104. Medical officers list (active list)	1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513573
+>>>>>> 	ADM 104/87				ADM 104. Medical officers list	1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513574
+>>>>>> 	ADM 104/88				ADM 104. Medical officers serving on ships and at shore establishments	1870-1899	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513575
+>>>>>> 	ADM 104/89				ADM 104. Medical officers serving on ships and at shore establishments (A - O)	1900-1911	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513576
+>>>>>> 	ADM 104/90				ADM 104. Medical officers serving on ships and at shore establishments (P - Z)	1900-1911	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513577
+>>>>>> 	ADM 104/91				ADM 104. Medical officers serving on ships and at shore establishments (A - N)	1912-1916	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513578
+>>>>>> 	ADM 104/92				ADM 104. Medical officers serving on ships and at shore establishments (O - Z)	1912-1916	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513579
+>>>>>> 	ADM 104/93				ADM 104. Medical officers serving on ships and at shore establishments Part I	1917-1924	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513580
+>>>>>> 	ADM 104/94				ADM 104. Medical officers serving on ships and at shore establishments Part II	1917-1924	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513581
+>>>>   				Nursing sisters			 								C27195
+>>>>>> 	ADM 104/95				ADM 104. Annual reports on nursing sisters	1890-1908	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513582
+>>>>>> 	ADM 104/96				ADM 104. Nursing sisters and wardmasters establishment book	1921-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513583
+>>>>   				Royal Naval Hospital, Bermuda			 								C27196
+>>>>>> 	ADM 104/98				ADM 104. case book	1832-1836	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513585
+>>>>>> 	ADM 104/99				ADM 104. case book	1840-1844	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513586
+>>>>>> 	ADM 104/100				ADM 104. case book	1850-1862	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513587
+>>>>>> 	ADM 104/101				ADM 104. case book	1870-1883	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513588
+>>>>>> 	ADM 104/155				ADM 104. Bermuda epidemics, compiled by Dr W E Smart c.1861	1802-1863	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513642
+>>>>>> 	ADM 104/156				ADM 104. History of Bermuda Hospital 1794-1878, compiled by C Harvey, surgeon, with nosological tables	1878-1879	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513643
+>>>>   				Index to Registers of Reports of Deaths: Ships			 								C27197
+>>>>>> 	ADM 104/102				ADM 104. Ships	1893-1909	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513589
+>>>>>> 	ADM 104/103				ADM 104. Ships	1910-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513590
+>>>>>> 	ADM 104/104				ADM 104. Ships	1919-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513591
+>>>>>> 	ADM 104/105				ADM 104. Ships	1931-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513592
+>>>>>> 	ADM 104/106				ADM 104. Ships	1940-1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513593
+>>>>>> 	ADM 104/107				ADM 104. Ships	1944-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513594
+>>>>>> 	ADM 104/108				ADM 104. Ships	1946-1950	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513595
+>>>>   				Registers of Reports of Deaths: Ships			 								C27198
+>>>>>> 	ADM 104/109				ADM 104. Ships	1893-1909	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513596
+>>>>>> 	ADM 104/110				ADM 104. Ships	1910-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513597
+>>>>>> 	ADM 104/111				ADM 104. Ships	1918-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513598
+>>>>>> 	ADM 104/112				ADM 104. Ships	1931-1939	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513599
+>>>>>> 	ADM 104/113				ADM 104. Ships	1940-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513600
+>>>>>> 	ADM 104/114				ADM 104. Ships	1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513601
+>>>>>> 	ADM 104/115				ADM 104. Ships	1943	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513602
+>>>>>> 	ADM 104/116				ADM 104. Ships	1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513603
+>>>>>> 	ADM 104/117				ADM 104. Ships	1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513604
+>>>>>> 	ADM 104/118				ADM 104. Ships	1946	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513605
+>>>>>> 	ADM 104/119				Ships	1947-1950	 				Open Document, Open Description	Closed Until 	2016	01/03/2016	C513606
+>>>>>> 	ADM 104/120				Ships. Indexed	1951-1953	 				Open Document, Open Description	Closed Until 	2009	02/10/2009	C513607
+>>>>>> 	ADM 104/121				Ships. Indexed	1954-1956	 				Closed or Retained Document, Open Description	Closed for 	75	01/01/2032	C513608
+>>>>   				Registers of Reports of Deaths			 								C27199
+>>>>>> 	ADM 104/122				ADM 104. Registers of reports of deaths	1900 July-1914 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513609
+>>>>>> 	ADM 104/123				ADM 104. Registers of reports of deaths	1915 Jan-1916 Aug	 				Open Document, Open Description	Closed for 	75		C513610
+>>>>>> 	ADM 104/124				ADM 104. Registers of reports of deaths	1916 June-1917 June	 				Open Document, Open Description	Closed for 	75		C513611
+>>>>>> 	ADM 104/125				ADM 104. Registers of reports of deaths	1917 July-1919 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513612
+>>>>>> 	ADM 104/126				ADM 104. Registers of reports of deaths	1919 Aug-1941 Oct	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513613
+>>>>   				REGISTERS OF REPORTS OF DEATHS: NAVAL RATINGS		1939 Sept-1948 June	 								C27200
+>>>>>> 	ADM 104/127	Vol No 1			ADM 104. A - Blyth	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513614
+>>>>>> 	ADM 104/128	Vol2			ADM 104. Blythe - Clapham	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513615
+>>>>>> 	ADM 104/129	Vol No 3			ADM 104. Clapp - Diment	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513616
+>>>>>> 	ADM 104/130	Vol No 4			ADM 104. Dimmer - Gane	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513617
+>>>>>> 	ADM 104/131	Vol5			ADM 104. Ganley - Hearson	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513618
+>>>>>> 	ADM 104/132	Vol No 6			ADM 104. Hearsum - Jones K W	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513619
+>>>>>> 	ADM 104/133	Vol No 7			ADM 104. Jones L - McHaffie	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513620
+>>>>>> 	ADM 104/134	Vl8			ADM 104. McHale - Nattrass	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513621
+>>>>>> 	ADM 104/135	Vol No 9			ADM 104. Naughton - Pumford	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513622
+>>>>>> 	ADM 104/136	Vol No 10			ADM 104. Pumphrey - Shorten	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513623
+>>>>>> 	ADM 104/137	Vol			ADM 104. Shorthouse - Thompson P	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513624
+>>>>>> 	ADM 104/138	Vol No12			ADM 104. Thompson R - Williams M	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513625
+>>>>>> 	ADM 104/139	Vol No 13			ADM 104. Williams N - Z	1939 Sept-1948 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513626
+>>>>   				INDEXES TO REGISTERS OF KILLED AND WOUNDED			 								C27201
+>>>>>> 	ADM 104/140				ADM 104. Indexes to Registers of killed and wounded	1915-1916	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513627
+>>>>>> 	ADM 104/141				ADM 104. Indexes to Registers of killed and wounded	1916-1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513628
+>>>>>> 	ADM 104/142				ADM 104. Indexes to Registers of killed and wounded	1917-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513629
+>>>>>> 	ADM 104/143				ADM 104. Indexes to Registers of killed and wounded	1918-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513630
+>>>>   				REGISTERS OF KILLED AND WOUNDED			 								C27202
+>>>>>> 	ADM 104/144				ADM 104. Registers of killed and wounded	1854-1911	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513631
+>>>>>> 	ADM 104/145				ADM 104. Registers of killed and wounded	1914 Aug-1915 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513632
+>>>>>> 	ADM 104/146				ADM 104. Registers of killed and wounded	1915 May-1916 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513633
+>>>>>> 	ADM 104/147				ADM 104. Registers of killed and wounded	1916-1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513634
+>>>>>> 	ADM 104/148				ADM 104. Registers of killed and wounded	1917 Mar-1918 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513635
+>>>>>> 	ADM 104/149				ADM 104. Registers of killed and wounded	1918-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513636
+>>>>   				MEDICAL DEPARTMENT: GENERAL NOTATION BOOKS			 								C27203
+>>>>>> 	ADM 104/150				ADM 104. General notation books	1911-1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513637
+>>>>>> 	ADM 104/151				ADM 104. General notation books	1915-1920	 				Open Document, Open Description	Closed for 	75		C513638
+>>>>>> 	ADM 104/152				General notation books. Indexed	1920-1936	 				Open Document, Open Description	Closed for 	75	01/01/2012	C513639
+>>>>>> 	ADM 104/153				General notation books. Indexed	1912-1955	 				Closed or Retained Document, Open Description	Closed for 	84	01/01/2040	C513640
+>>>>>> 	ADM 104/154				ADM 104. Medical average ratios	1927-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513641
+>>>>   				Pharmacists			 								C27204
+>>>>>> 	ADM 104/159				ADM 104. Register of Pharmacists' Services for the Royal Navy: vol 1	1845-1956	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513646
+>>>>>> 	ADM 104/160				ADM 104. Register of Pharmacists' Services for the Royal Navy: vol 2	1954-1957	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513647
+>>>>   				QUEEN ALEXANDRA'S ROYAL NAVAL NURSING SERVICE QARNNS			 								C80836
+>>>>>  				Reserves			 								C143934
+>>>>>> 	ADM 104/162				ADM 104. Vol 1	1914-1915	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6003172
+>>>>>> 	ADM 104/163				ADM 104. Vol 2	1915-1916	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6003173
+>>>>>> 	ADM 104/164				ADM 104. Vol 3	1917-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6003174
+>>>>>> 	ADM 104/165				ADM 104. Vol 4	1918-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6003175
+>>>>>> 	ADM 104/161				ADM 104. Nursing Service Register	1894-1929	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6003171
+>>>>   				MEDICAL OFFICERS			 								C85565
+>>>>>> 	ADM 104/166				ADM 104. Vol 7 Part 1	01 Jan 1891-31 Dec 1898	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10853377
+>>>>>> 	ADM 104/167				ADM 104. Vol 7 Part 2	01 Jan 1898-31 Dec 1904	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10853378
+>>>>>> 	ADM 104/168				ADM 104. Vol 8	01 Jan 1904-31 Dec 1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10853379
+>>>>>> 	ADM 104/169				ADM 104. Vol 9	01 Jan 1914-31 Dec 1926	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10853380
+>>>>   				TEMPORARY SURGEONS			 								C85566
+>>>>>> 	ADM 104/170				ADM 104. Vol 1	01 Jan 1914-31 Dec 1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10853381
+>>>>   				REGISTERS OF SERVICES OF MASSAGE SISTERS IN NAVAL HOSPITALS			 								C85567
+>>>>>> 	ADM 104/171				ADM 104. Vol 1	01 Jan 1917  - 31 Dec 1925	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10853382
+>>>>>> 	ADM 104/1				ADM 104. Establishment Book of Naval Hospitals.	1807-1819	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513488
+>>>>>> 	ADM 104/2				ADM 104. Establishment Book of Naval Hospitals.	1809-1814	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513489
+>>>>>> 	ADM 104/3				ADM 104. Establishment Book of the Marine Infirmary at Woolwich.	1817-1820	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513490
+>>>>>> 	ADM 104/4				ADM 104. List of Officers entitled to Half Pay.	1778-1779	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513491
+>>>>>> 	ADM 104/5				ADM 104. List of Officers entitled to Half Pay.	1779-1780	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513492
+>>>>>> 	ADM 104/6				ADM 104. Entry Book of Surgeons and Surgeons' Mates.	1790-1803	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513493
+>>>>>> 	ADM 104/7				ADM 104. Entry Book of Surgeons and Surgeons' Mates.	1803-1823	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513494
+>>>>>> 	ADM 104/8				ADM 104. Wages and Salary Lists of persons employed in the care of Prisoners of war.	1803-1815	 			See also ADM 7/863; See also ADM 7/866	Open Document, Open Description	Normal Closure before FOI Act: 	30		C513495
+>>>>>> 	ADM 104/9				ADM 104. Wages and Salary Lists of persons employed in the care of Prisoners of war.	1803-1815	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513496
+>>>>>> 	ADM 104/10				ADM 104. Wages and Salary Lists of persons employed in the care of Prisoners of war.	1803-1815	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513497
+>>>>>> 	ADM 104/97				ADM 104. Clerks, storekeepers etc at Royal Navy hospitals	1874-1890	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513584
+>>>>>> 	ADM 104/157				Transferred to ADM 80/208		 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513644
+>>>>>> 	ADM 104/158				Transferred to ADM 80/209		 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C513645

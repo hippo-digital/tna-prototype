@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureExtrator", "src\FeatureExtrator\FeatureExtrator.csproj", "{C71C7D8D-6A3F-40E9-A139-3862A7110019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphBuilder", "src\GraphBuilder\GraphBuilder.csproj", "{4526ADB6-E7E9-4DF0-AB5C-92DC74023595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "src\Models\Models.csproj", "{F9A941E5-2489-4F7F-B406-3A34EDFC8E11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{0BD1E465-534A-4F39-BFFD-168C738D93FB}"
+ProjectSection(SolutionItems) = preProject
+	README.md = README.md
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71C7D8D-6A3F-40E9-A139-3862A7110019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71C7D8D-6A3F-40E9-A139-3862A7110019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71C7D8D-6A3F-40E9-A139-3862A7110019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71C7D8D-6A3F-40E9-A139-3862A7110019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4526ADB6-E7E9-4DF0-AB5C-92DC74023595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4526ADB6-E7E9-4DF0-AB5C-92DC74023595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4526ADB6-E7E9-4DF0-AB5C-92DC74023595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4526ADB6-E7E9-4DF0-AB5C-92DC74023595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A941E5-2489-4F7F-B406-3A34EDFC8E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A941E5-2489-4F7F-B406-3A34EDFC8E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A941E5-2489-4F7F-B406-3A34EDFC8E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A941E5-2489-4F7F-B406-3A34EDFC8E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

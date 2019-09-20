@@ -1,0 +1,276 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	ADM 171			Admiralty, and Ministry of Defence, Navy Department: Medal Rolls	Rolls and lists of officers and men of the Royal Navy and Royal Marines who were awarded or claimed medals and clasps issued to commemorate actions and campaigns. ¶ The series contains awards of the British War Medal, Victory Medal and 1914-1915 Star to men of the Mercantile Marine Reserve and to officers and men of the Royal Naval Reserve. ¶ The rolls recording the award of the Arctic Medal, 1875-1876; the Sea Transport Medal, 1899-1902; and the Delhi Durbar Medal, 1911, are included in this series. ¶ Please Note: Records within this series are available to download free of charge as part of the Digital Microfilm project.	1793-1995	203 files and volumes					Normal Closure before FOI Act: 	30		C1880
+>>>>   				NAVAL GENERAL SERVICE MEDAL 1793-1840			 	(The issue of the medal and clasps was originally restricted under Admiralty order of June 1st 1847 to participants in those actions for which gold medals had previously been conferred on Flag Officers and Captains. The order of June 7th 1848 extended the award to (1) all 'gold medal' actions or operations (2) all actions in which the First Lieutenants or commanders were promoted (3) all boat actions in which the officer commanding was promoted (4) co-operation with land forces in sieges and landings for which the Army had awarded gold medals).							C31903
+>>>>>> 	ADM 171/1				ADM 171. Defeat of the French fleet by Earl Howe (The Glorious First of June), Action with the Spanish fleet off Cape St. Vincent, Battle of Camperdown, Battle of the Nile, Boarding and capture of the HERMIONE, Battle of Trafalgar, Sir Richard Strachan's action off Ferrol, Battle of St. Domingo, Capture of the island of Curacao, Capture of the Turkish frigate BADERE ZAFFER, Capture of the French frigate THETIS, Capture of the island of Martinique, Capture of the French frigate FURIEUSE, Capture of the island of Guadeloupe, Capture of the island of Banda Neira, Sir William Hoste's action off Lissa, Capture of the island of Java, Capture of the French 74 gun ship RIVOLI, Capture of the American frigate CHESAPEAKE, Capture of St. Sebastian, Capture of the French frigate L'ETOILE, Capture of the American frigate PRESIDENT, Battle of Algiers, Battle of Navarino, Bombardment and capture of Acre, Syrian Campaign Nominal Roll	1794 June 1 -  1842	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974971
+>>>>>>>	ADM 171/1/1				Defeat of the French fleet by Earl Howe (The Glorious First of June)	1794 June 1	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208100
+>>>>>>>	ADM 171/1/2				Action with the Spanish fleet off Cape St Vincent	1797 Feb 14	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208101
+>>>>>>>	ADM 171/1/3				Battle of Camperdown	1797 Oct 11	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208102
+>>>>>>>	ADM 171/1/4				Battle of the Nile	1798 Aug 1	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208103
+>>>>>>>	ADM 171/1/5				Boarding and capture of the HERMIONE	1799 Oct 25	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208104
+>>>>>>>	ADM 171/1/6				Battle of Trafalgar	1805 Oct 21	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208105
+>>>>>>>	ADM 171/1/7				Sir Richard Strachan's action off Ferrol	1805 Nov 4	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208106
+>>>>>>>	ADM 171/1/8				Battle of St. Domingo	1806 Feb. 6	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208107
+>>>>>>>	ADM 171/1/9				Capture of the island of Curacao	1807 Jan 1	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208108
+>>>>>>>	ADM 171/1/10				Capture of the Turkish frigate BADERE ZAFFER	1808 July 6	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208109
+>>>>>>>	ADM 171/1/11				Capture of the French frigate THETIS	1808 Nov 10	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208110
+>>>>>>>	ADM 171/1/12				Capture of the island of Martinique	1809 Feb 1-24	 	Actions for which the Army received award of gold medals.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208111
+>>>>>>>	ADM 171/1/13				Capture of the French frigate FURIEUSE	1809 July 6	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208112
+>>>>>>>	ADM 171/1/14				Capture of the island of Guadeloupe	1810 Jan 27-Feb 6	 	Actions for which the Army received award of gold medals.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208113
+>>>>>>>	ADM 171/1/15				Capture of the island of Banda Neira	1810 Aug 9	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208114
+>>>>>>>	ADM 171/1/16				Sir William Hoste's action off Lissa	1811 Mar 13	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208115
+>>>>>>>	ADM 171/1/17				Capture of the island of Java	1811 Aug 30-Sept 18	 	Actions for which the Army received award of gold medals.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208116
+>>>>>>>	ADM 171/1/18				Capture of the French 74 gun ship RIVOLI	1812 Feb 22	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208117
+>>>>>>>	ADM 171/1/19				Capture of the American frigate CHESAPEAKE	1813 June 1	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208118
+>>>>>>>	ADM 171/1/20				Capture of St Sebastian	1813 Aug 31-Sept 10	 	Actions for which the Army received award of gold medals			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208119
+>>>>>>>	ADM 171/1/21				Capture of the French frigate L'ETOILE	1814 Mar 27	 	Gold medal actions			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208120
+>>>>>>>	ADM 171/1/22				Capture of the American frigate PRESIDENT	1815 Jan 15	 	Gold medal actions This volume also contains some particulars of claims for the following clasps:			Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208121
+>>>>>>>	ADM 171/1/23				Battle of Algiers	1816 Aug 27	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208122
+>>>>>>>	ADM 171/1/24				Battle of Navarino	1827 Oct 20	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208123
+>>>>>>>	ADM 171/1/25				Bombardment and capture of Acre	1840 Nov 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208124
+>>>>>>>	ADM 171/1/26				Syrian Campaign Nominal Roll	1840-1841	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6208125
+>>>>>> 	ADM 171/2				ADM 171. Medal claims for actions in which First Lieutenants or Commanders were promoted. This volume also contains particulars of certain claims for the Algiers, Navarino and Acre clasps.	1793-1815	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974972
+>>>>>> 	ADM 171/3				ADM 171. Medal claims for boat actions in which the officer commanding was promoted.	1793-1815	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974973
+>>>>>> 	ADM 171/4				ADM 171. Medal roll for the Battle of Algiers	1816 Aug. 27	 	Certain claims for the clasps to the Naval General Service Medal for service in the Battles of Algiers and Navarino and in the Syria campaign are recorded in Adm. 171/1 and 2. LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974974
+>>>>>> 	ADM 171/5				ADM 171. Medal roll for the Battle of Navarino	1827 Oct. 20	 	Certain claims for the clasps to the Naval General Service Medal for service in the Battles of Algiers and Navarino and in the Syria campaign are recorded in Adm. 171/1 and 2. LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974975
+>>>>>> 	ADM 171/6				ADM 171. List of officers, men and boys who served on H.M. Ships in the Syria and China campaigns	1840-1842	 	Certain claims for the clasps to the Naval General Service Medal for service in the Battles of Algiers and Navarino and in the Syria campaign are recorded in Adm. 171/1 and 2. A separate medal was awarded for service in the China campaign see Adm. 1			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974976
+>>>>>> 	ADM 171/7				ADM 171. List of claims for medals for service in Syria and China	1847 Feb.	 	Certain claims for the clasps to the Naval General Service Medal for service in the Battles of Algiers and Navarino and in the Syria campaign are recorded in Adm. 171/1 and 2.A separate medal was awarded for service in the China campaign see Adm. 171			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974977
+>>>>>> 	ADM 171/8				ADM 171. Nominal roll of surviving officers and men entitled to clasps of the Naval General Service Medal for actions between 1793 and 1827.	1793 -1827	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974978
+>>>>   				ARCTIC MEDAL 1818-1855			 								C31904
+>>>>>> 	ADM 171/9				ADM 171. Roll of recipients	1818-1855	 	LARGE DOCUMENT. Award to Thomas Work of HMS Erebus was claimed by and awarded to Mrs Cynthia Muir Scott, next of kin and heir, 31 July 1998 (folio 100)			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974979
+>>>>>> 	ADM 171/10				ADM 171. List of officers and men of the Royal Navy and Royal Marines employed on Arctic service.	1818-1855	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974980
+>>>>   				BURMAH MEDAL 1824-1826			 								C31905
+>>>>>> 	ADM 171/11				ADM 171. List of naval claimants for the clasp 'AVA' (10th June, 1824 - 9th Feb. 1826)	1824-1826	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974981
+>>>>   				CHINA MEDAL 1840-1842			 	See also Adm. 171/6 and 7							C31906
+>>>>>> 	ADM 171/12				ADM 171. Nominal roll of officers and men employed in H.M. Ships during the operations in China.	1840 July 5-1842 Aug. 29	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974982
+>>>>>> 	ADM 171/13				ADM 171. Supplementary list of officers and men noted 'Dead' in the nominal roll above.	1846-1853	 			See also: ADM 171/12	Open Document, Open Description	Normal Closure before FOI Act: 	30		C974983
+>>>>   				ST. JEAN D'ACRE MEDAL 1842			 								C31907
+>>>>>> 	ADM 171/14				ADM 171. List of naval and marine personnel eligible for the medal awarded by the Sultan of Turkey for service in Syria.	1840 Nov. 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974984
+>>>>>> 	ADM 171/15				ADM 171. List of H.M. Ships on board which Turkish Medals have been distributed.	1842 Feb.	 	and see Adm. 171/14.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974985
+>>>>   				NEW ZEALAND MEDAL 1845-1866			 								C31908
+>>>>>> 	ADM 171/16				ADM 171. Medal roll for the First and Second Maori Wars in New Zealand.	1845-1847; 1860 Mar.-1866 July 3	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974986
+>>>>   				INDIA MEDAL 1854			 	This, the second India Service medal awarded originally by the Government of India, was issued by H.M. Government from 1853 with clasps commemorating various campaigns and actions fought between 1852 and 1895.							C31909
+>>>>>> 	ADM 171/17				ADM 171. Medal roll of naval personnel eligible for the clasp 'PEGU' (28th Mar. 1852 - 30th June, 1853).	1852-1853	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974987
+>>>>   				SOUTH AFRICA or CAPE OF GOOD HOPE MEDAL 1850-1853			 								C31910
+>>>>>> 	ADM 171/18				ADM 171. Medal roll of H.M. Ships CASTOR, DEE, HERMES, RHADAMANTHUS and STYX for services in the Kaffrarian campaign.	1850 Dec. 24-1853 Feb. 6	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974988
+>>>>   				BALTIC MEDAL 1854-1855: List of naval claimants arranged in alphabetical order:			 								C31911
+>>>>>> 	ADM 171/19				ADM 171. A - D	1854 Mar.-1855 Aug.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974989
+>>>>>> 	ADM 171/20				ADM 171. E - J	1854 Mar.-1855 Aug.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974990
+>>>>>> 	ADM 171/21				ADM 171. K - R	1854 Mar.-1855 Aug.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974991
+>>>>>> 	ADM 171/22				ADM 171. S - Z	1854 Mar -1855 Aug.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974992
+>>>>   				CRIMEA MEDAL 1854-1855			 								C31912
+>>>>>> 	ADM 171/23				ADM 171. Medal roll of the Marine Brigade personnel who qualified for the clasps: 'SEBASTOPOL' (11th Sept. 1854 - 11th Sept. 1855) 'BALAKLAVA' (25th Oct. 1854) 'INKERMAN' (5th Nov. 1854)	1854-1855	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974993
+>>>>>> 	ADM 171/24				ADM 171. Medal roll of the Naval Brigade personnel who qualified for the clasps: 'SEBASTOPOL': (11th Sept. 1854 - 11th Sept. 1855) 'INKERMAND': (5th Nov. 1854)	1854-1855	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974994
+>>>>>> 	ADM 171/25				ADM 171. Medal roll of the naval and marine personnel who served in the operations in the sea of Azoff and qualified for the clasp 'AZOFF' (25th May - 22nd Sept. 1855)	1855	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974995
+>>>>>> 	ADM 171/26				ADM 171. Crimea Medal Lists, vol 1. Ships A-F. These rolls are annotated with clasp entitlement(s) for the British Crimea Medal and also record the Turkish Crimea Medal	1854-1855	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974996
+>>>>>> 	ADM 171/27				ADM 171. Crimea Medal Lists, vol 1. Ships G-Q. These rolls are annotated with clasp entitlement(s) for the British Crimea Medal and also record the Turkish Crimea Medal	1854-1855	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974997
+>>>>>> 	ADM 171/28				ADM 171. Crimea Medal Lists, vol 1. Ships R-Z. These rolls are annotated with clasp entitlement(s) for the British Crimea Medal and also record the Turkish Crimea Medal	1854-1855	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C974998
+>>>>   				INDIAN MUTINY MEDAL 1857-1858			 								C31913
+>>>>>> 	ADM 171/29				ADM 171. Medal roll of the Naval Brigade personnel from H.M. Ships SHANNON and PEARL who served ashore from 10th May, 1857 until 30th Dec. 1858 and were eligible for the clasps: 'DEFENCE OF LUCKNOW' (29th June - 25th Sept. 1857) 'RELIEF OF LUCKNOW' (17th Nov. 1857) 'CENTRAL INDIA' (Jan. - June 1858)	1857-1858	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C974999
+>>>>   				CHINA MEDAL 1856-1860			 								C31914
+>>>>>> 	ADM 171/30				ADM 171. Medal roll of the Marine Brigade who were awarded the clasps: 'FATSHAN 1857' (25th May - 1st June, 1857) 'CANTON 1857' (28th Dec. 1857 - 5th Jan. 1858) 'TAKU FORTS 1858' (20th May, 1858) 'TAKU FORTS 1860' (21st Aug. 1860) 'PEKIN 1860' (18th Sept. - 13th Oct. 1860)	1857-1860	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975000
+>>>>>> 	ADM 171/31				ADM 171. Ships A - D	1857-1860	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975001
+>>>>>> 	ADM 171/32				ADM 171. Ships E - J	1857-1860	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975002
+>>>>>> 	ADM 171/33				ADM 171. Ships K - R	1857-1860	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975003
+>>>>>> 	ADM 171/34				ADM 171. Ships S - Z	1857-1860	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975004
+>>>>   				CANADA GENERAL SERVICE MEDAL 1866-1870			 								C31915
+>>>>>> 	ADM 171/35				ADM 171. Medal roll of naval personnel serving in Canada and qualifying for the clasps: 'FENIAN RAID 1866' (31st May - 6th June 1866) 'RED RIVER 1870' (Jan. - June 1870) 'FENIAN RAID 1870 (26th May, 1870)	1866-1870	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975005
+>>>>   				ABYSSINIA MEDAL 1867-1868			 								C31916
+>>>>>> 	ADM 171/36				ADM 171. Medal roll of naval and marine personnel who served with the expedition to Magdala.	1867 Oct. 4-1868 Apr. 19	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975006
+>>>>   				ASHANTI MEDAL 1873-1874			 								C31917
+>>>>>> 	ADM 171/37				ADM 171. Medal roll of the Naval Brigade personnel who served in the Ashanti campaign and qualified for the clasp 'COOMASSIE' (9th June, 1873 - 14th Feb. 1874)	1873-1874	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975007
+>>>>   				ARCTIC MEDAL 1875-1876			 								C31918
+>>>>>> 	ADM 171/38				ADM 171. Medal roll of officers and men of H.M. Ships DISCOVERY, ALERT and PANDORA who were employed on Arctic exploration.	1875 May 29-1876 Nov. 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975008
+>>>>   				INDIA MEDAL 1854			 	This, the second India General Service medal awarded originally by the Government of India, was issued by H.M. Government from 1853 with clasps commemorating various campaigns and actions fought between 1852 and 1895.							C31919
+>>>>>> 	ADM 171/39				ADM 171. Medal roll of the Naval Brigade personnel who served with the expedition to the Malaya Peninsular and were awarded the 'PERAK 1875-1876' (2nd Nov. 1875 - 20th June 1876).	1875-1876	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975009
+>>>>   				SOUTH AFRICA MEDAL 1877-1879			 								C31920
+>>>>>> 	ADM 171/40				ADM 171. Medal roll of the Naval Brigade who served in the Basuto and Zulu Wars.	1877 Sept. 25-1879 Dec. 2	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975010
+>>>>   				EGYPTIAN MEDAL 1882			 								C31921
+>>>>>> 	ADM 171/41				ADM 171. Medal roll of naval and marine personnel who qualified for the clasps: 'ALEXANDRIA, 11th July' (11th July, 1882) 'TEL-EL-KEBIR' (13th Sept. 1882)	1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975011
+>>>>   				SOUDAN MEDAL 1884			 								C31922
+>>>>>> 	ADM 171/42				ADM 171. Medal roll of naval and marine personnel who qualified for the clasps: 'SUAKIN 1884' (19th Feb. - 26th Mar. 1884) 'EL TEB' (29th Feb. 1884) 'TAMAAI' (13th Mar. 1884)	1884	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975012
+>>>>   				BURMAH MEDAL 1885-1887			 								C31923
+>>>>>> 	ADM 171/44				ADM 171. Medal roll of personnel who served in the Third Burmah War which resulted in the annexation of Burmah to the British Empire.	1885 Nov. 14-1887 Apr. 30	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975014
+>>>>   				ASHANTI MEDAL 1887-1900			 	LARGE DOCUMENT Medal rolls of naval and marine personnel who were employed in expeditions or engaged in operations against natives on the African coast and were eligible for the following clasps:							C31924
+>>>>>> 	ADM 171/45				ADM 171. 1887-8 (for the expedition against the Yonnie tribes, 13th Nov. 1887 - 2nd Jan. 1888). '1891-2' (for the expedition up the Gambia, 29th Dec. 1891 - 2nd Feb. 1892) '1892' (for the capture of Toniataba, 8th Mar. - 25th May, 1892)	1887-1892	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C975015
+>>>>>> 	ADM 171/46				ADM 171. WITU 1890 (17-27 Oct. 1890) 'LIWONDI 1893' (Feb. - Mar. 1893) 'WITU AUGUST 1893' (7-13 Aug. 1893) 'JUBA RIVER 1893' (23-25 Aug. 1893) 'LAKE NYASSA 1893' (Nov. 1893) 'GAMBIA 1894' (23rd Feb. - 13th Mar. 1894) 'BENIN RIVER 1894' (Aug. - Sept. 1894)BRASS RIVER (Feb. 1895) 'M'WELE 1895-6' (1895-1896) 'BENIN 1897' (6th Feb. - 7th Aug. 1897) '1897-98' (for the expeditions to the Borgu and the Illah, Sept. 1897 - June, 1898)	1890-1898	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975016
+>>>>>> 	ADM 171/47				ADM 171. Medal roll of the 24th Bombay Native Infantry and attached Army and Navy personnel who served in operations against natives on the African coast in 1896 and qualified for the clasp 'M'WELE 1895-6'	1896	 	The actions for which this award was made were commemorated not by a clasp in the accepted form but by the issue of the medal with 'M'WELE 1895-6' engraved on the rim.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C975017
+>>>>>> 	ADM 171/48				ADM 171. Medal roll of personnel of the Naval Brigade from H.M. Ships ALECTO, BLONDE and FOX who served ashore and qualified for the clasp 'SIERRA LEONE 1898-9' (18th Feb. 1898 - 3rd Mar. 1899).	1898-1899	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975018
+>>>>   				SOUDAN MEDAL 1888			 								C31925
+>>>>>> 	ADM 171/49				ADM 171. Medal roll of naval and marine personnel who qualified for the clasp 'GEMAIZAH 1888' (20th Dec. 1888).	1888	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975019
+>>>>   				KHEDIVE'S EGYPTIAN STAR 1891			 								C31926
+>>>>>> 	ADM 171/50				ADM 171. Medal roll of personnel who were serving in Egypt in 1891 and qualified for the bronze star and clasp 'TOKAR' (2nd Feb. 1891) awarded by the Khedive of Egypt.	1891	 	and see Adm. 171/43			Open Document, Open Description	Normal Closure before FOI Act: 	30		C975020
+>>>>   				KHEDIVE'S SOUDAN MEDAL 1896-1908			 								C31927
+>>>>>> 	ADM 171/51				ADM 171. Medal roll of naval and marine recipients of the medal and the following clasps awarded by the Khedive of Egypt for services in the reconquest of the Dougola district of Soudan and against native uprisings, etc.: 'HAFIR' (19th-26th Sept. 1896) SOUDAN 1897' (15th July - 6th Nov. 1897) 'ATBARA' (8th Apr. 1898) 'HARTOUM' (2nd Sept. 1898) 'GEDARIF' (7th Sept. - 26th Dec. 1898) 'SOUDAN 1899' (1899) 'BAHR EL GUAZEL' (13th Dec. 1900 - 28th Apr. 1902)	1896-1902	 	This clasp was also awarded for participation in the action at Omdurman.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C975021
+>>>>   				SEA TRANSPORT MEDAL 1899-1902			 								C31928
+>>>>>> 	ADM 171/52				ADM 171. Lists of claims for the medal and following clasps awarded to senior and certain other officers of the Mercantile Marine who served on vessels transporting troops to the South African War and to the Boxer Rebellion in China: 'SOUTH AFRICA (30th Sept. 1899 - 31st Oct. 1902) 'CHINA' (1st June - 31st Dec. 1900)	1899-1902	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975022
+>>>>   				QUEEN'S SOUTH AFRICA MEDAL 1899-1902 and KING'S SOUTH AFRICA MEDAL 1901-1902			 								C31929
+>>>>>> 	ADM 171/53				ADM 171. Medal roll of naval and Marine Brigade personnel who served ashore and afloat during the Boer War and were eligible for the Queen's South Africa medal and the clasps listed below. The volume also contains particulars of the King's South Africa Medal 1901-1902 which was awarded in conjunction with the Queen's South Africa Medal to men who served ashore after 1st January, 1902 and to men who had completed eighteen months service in South Africa by 1st June, 1902.'CAPE COLONY' (11th Oct. 1899 - 31st May, 1902) 'NATAL' (11th Oct. 1899 - 17th May, 1900) 'RHODESIA' (11th Oct. 1899 - 17th May, 1900) 'DEFENCE OF LADYSMITH' (3rd Nov. 1899 - 28th Feb. 1900) 'MODDER RIVER' (28th Nov. 1899) 'RELIEF OF LADYSMITH' (15th Dec. 1899 - 28th Feb. 1900) 'TUGELA HEIGHTS' (14th - 27th Feb. 1900) 'RELIEF OF KIMBERLEY' (15th Feb. 1900) 'PAARDEBURG' (17th - 26th Feb. 1900) 'ORANGE FREE STATE' (28th Feb. 1900 - 31st May, 1902) 'DREIFONTEIN' (10th Mar. 1900) 'TRANSVAAL' (24th May, 1900 - 31st May, 1902) 'JOHANNESBURG' (31st May, 1900) 'DIAMOND HILL' (11th - 12th June, 1900) 'LAING'S NEK' (12th June, 1900) 'WITTENBURG' (1st - 29th July, 1900) 'BELFAST' (26th - 27th Aug. 1900) 'SOUTH AFRICA 1901' (1st Jan. - 31st Dec. 1901) 'SOUTH AFRICA 1902' (1st Jan. - 31st Dec. 1902)	1899-1902	 	LARGE DOCUMENT			Open Document, Open Description	Normal Closure before FOI Act: 	30		C975023
+>>>>>> 	ADM 171/54				ADM 171. Nominal roll of the officers and men of the Naval and Marine Brigade who were landed in South Africa for service ashore with the naval guns.	1899 Nov.	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975024
+>>>>   				CHINA MEDAL 1900			 								C31930
+>>>>>> 	ADM 171/55				ADM 171. Medal roll of naval and marine personnel who were landed in China during the Boxer Rebellion and were eligible for the clasps: 'RELIEF OF PEKIN' (17th June - 14th Aug. 1900) 'TAKU FORTS 1900' (17th June, 1900) 'DEFENCE OF LEGATION' (22nd June - 14	1900	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975025
+>>>>   				AFRICA GENERAL SERVICE MEDAL 1902-1910			 	LARGE DOCUMENT							C31931
+>>>>>> 	ADM 171/56				ADM 171. Medal roll of naval and marine personnel who served in various operations in Africa between 1900 and 1910 and qualified for the clasps:'JUBALAND' (16th Nov. 1900 - 30th Apr. 1901)'GAMBIA' (Jan. - Mar. 1901)'ARO' (15th Nov. 1901 - 23rd Mar. 1902)'SOMALILAND 1902-1904' (18th Jan, 1902 - 11th May, 1904)'JIDBALLI' (10th Jan, 1904)'SOMALILAND 1908-1910' (19th Aug. 1908 - 31st Jan. 1910).	1900-1910	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975026
+>>>>   				HONOUR SHEETS			 	card index available in reference room							C31932
+>>>>>> 	ADM 171/78				ADM 171. Sheets coded A-C (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975048
+>>>>>> 	ADM 171/79				ADM 171. Sheets coded D (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975049
+>>>>>> 	ADM 171/80				ADM 171. Sheets coded E-H (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975050
+>>>>>> 	ADM 171/81				ADM 171. Sheets coded I-L (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975051
+>>>>>> 	ADM 171/82				ADM 171. Sheets coded M-O (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975052
+>>>>>> 	ADM 171/83				ADM 171. Sheets coded P (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975053
+>>>>>> 	ADM 171/84				ADM 171. Sheets coded Q-S (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975054
+>>>>>> 	ADM 171/85				ADM 171. Sheets coded T-U (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975055
+>>>>>> 	ADM 171/86				ADM 171. Sheets coded V-W (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975056
+>>>>>> 	ADM 171/87				ADM 171. Sheets coded X 1-500 (various surnames)	1914-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975057
+>>>>>> 	ADM 171/88				ADM 171. Sheets coded X 501-958 (various surnames)	1919-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975058
+>>>>   				ROLL OF NAVAL WAR MEDALS			 								C31933
+>>>>>  				Royal Navy, Royal Naval Volunteer Reserve, Royal Naval Auxiliary Service and Royal Naval Air Service: Officers			 								C98253
+>>>>>> 	ADM 171/89				ADM 171. A-Ga	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975059
+>>>>>> 	ADM 171/90				ADM 171. Ge-Ode	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975060
+>>>>>> 	ADM 171/91				ADM 171. Ode-Z	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975061
+>>>>>  				Royal Navy: Ratings			 								C98254
+>>>>>> 	ADM 171/94				ADM 171. A-Ba	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975064
+>>>>>> 	ADM 171/95				ADM 171. Bak-Be	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975065
+>>>>>> 	ADM 171/96				ADM 171. Bi-Bri	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975066
+>>>>>> 	ADM 171/97				ADM 171. Bro-Can	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975067
+>>>>>> 	ADM 171/98				ADM 171. Cap-Cog	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975068
+>>>>>> 	ADM 171/99				ADM 171. Coh-Cue	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975069
+>>>>>> 	ADM 171/100				ADM 171. Cuf-Dug	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975070
+>>>>>> 	ADM 171/101				ADM 171. Duh-Ff	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975071
+>>>>>> 	ADM 171/102				ADM 171. Fi-Gid	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975072
+>>>>>> 	ADM 171/103				ADM 171. Gif-Gy	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975073
+>>>>>> 	ADM 171/104				ADM 171. H-Hay	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975074
+>>>>>> 	ADM 171/105				ADM 171. Haz-Hop	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975075
+>>>>>> 	ADM 171/106				ADM 171. Hor-Jol	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975076
+>>>>>> 	ADM 171/107				ADM 171. Jon-Lau	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975077
+>>>>>> 	ADM 171/108				ADM 171. Lav-Ly	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975078
+>>>>>> 	ADM 171/109				ADM 171. M-Mas	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975079
+>>>>>> 	ADM 171/110				ADM 171. Mat-My	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975080
+>>>>>> 	ADM 171/111				ADM 171. N-Pax	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975081
+>>>>>> 	ADM 171/112				ADM 171. Pay-Py	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975082
+>>>>>> 	ADM 171/113				ADM 171. Q-Rom	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975083
+>>>>>> 	ADM 171/114				ADM 171. Ron-Sib	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975084
+>>>>>> 	ADM 171/115				ADM 171. Sic-Sta	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975085
+>>>>>> 	ADM 171/116				ADM 171. Ste-Tay	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975086
+>>>>>> 	ADM 171/117				ADM 171. Tea-Vy	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975087
+>>>>>> 	ADM 171/118				ADM 171. W-Who	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975088
+>>>>>> 	ADM 171/119				ADM 171. Whu-Z	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975089
+>>>>>  				Royal Naval Reserve: Ratings			 								C98255
+>>>>>> 	ADM 171/120				ADM 171. A-Cun	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975090
+>>>>>> 	ADM 171/121				ADM 171. Cup-Hug	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975091
+>>>>>> 	ADM 171/122				ADM 171. Hui-Map	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975092
+>>>>>> 	ADM 171/123				ADM 171. Mar-Sey	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975093
+>>>>>> 	ADM 171/124				ADM 171. Sha-Z	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975094
+>>>>>  				Royal Naval Volunteer Reserve: Ratings			 								C98256
+>>>>>> 	ADM 171/125				ADM 171. A-Dak	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975095
+>>>>>> 	ADM 171/126				ADM 171. Dal-Hip	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975096
+>>>>>> 	ADM 171/127				ADM 171. Hir-Mop	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975097
+>>>>>> 	ADM 171/128				ADM 171. Mor-Sic	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975098
+>>>>>> 	ADM 171/129				ADM 171. Sid-Z	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975099
+>>>>>  				Mercantile Marine Reserve: Ratings			 								C98257
+>>>>>> 	ADM 171/130				ADM 171. A-Fou	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975100
+>>>>>> 	ADM 171/131				ADM 171. Fow-Mea	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975101
+>>>>>> 	ADM 171/132				ADM 171. Meb-War	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975102
+>>>>>> 	ADM 171/133				ADM 171. Wat-Z. Civilians, Australian naval forces, Maltese Royal Naval Reserve, Newfoundland Royal Naval Reserve, Shore Wireless Service, Fishery Reserve, Canteen staff, Belgian Field Hospital, Belgian Red Cross Ambulance, Royal Navy Nursing Service, British Eastern Auxiliary Hospital Serbia, Mrs Stobart's Hospital Unit, Voluntary Aid Detachments and Women's Royal Naval Service	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975103
+>>>>>> 	ADM 171/134				ADM 171. Natives	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975104
+>>>>>> 	ADM 171/92				ADM 171. Royal Marines: A-Z, Royal Naval Reserve: A-Mas	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975062
+>>>>>> 	ADM 171/93				ADM 171. Royal Naval Reserve: Mat-Z, Merchant Marine Reserve Officers, Nigerian Marine, Nyassland Volunteer Reserve, Royal Indian Marine (RIM), Uganda Volunteer Reserve, South Africa: Army, Civilians, Civilians (Fishery Reserve), Fishery Reserve (mostly Skippers)	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975063
+>>>>>> 	ADM 171/167				ADM 171. A-Con	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975137
+>>>>>> 	ADM 171/168				ADM 171. Coo-Ham	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975138
+>>>>>> 	ADM 171/169				ADM 171. Han-Mam	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975139
+>>>>>> 	ADM 171/170				ADM 171. Man-Sha	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975140
+>>>>>> 	ADM 171/171				ADM 171. She-Z	1914-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975141
+>>>>   				NAMES SUBMITTED FOR APPOINTMENT TO ORDER OF BRITISH EMPIRE			 								C31934
+>>>>>> 	ADM 171/135				ADM 171. Names submitted for appointment to order of British Empire	1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975105
+>>>>>> 	ADM 171/136				ADM 171. Civil	1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975106
+>>>>>> 	ADM 171/137				ADM 171. Military	1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975107
+>>>>   				RN LONG SERVICE AND GOOD CONDUCT MEDAL ISSUE BOOKS: INDEXED			 								C31935
+>>>>>> 	ADM 171/140				ADM 171. Indexed	1920-1925	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975110
+>>>>>> 	ADM 171/141				ADM 171. Indexed	1925-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975111
+>>>>>> 	ADM 171/142				ADM 171. Indexed	1930-1933	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975112
+>>>>>> 	ADM 171/143				ADM 171. Indexed	1934-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975113
+>>>>>> 	ADM 171/144				ADM 171. Indexed	1938-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975114
+>>>>>> 	ADM 171/145				ADM 171. Indexed	1942-1947	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975115
+>>>>>> 	ADM 171/146				ADM 171. RFR Long Service Medal	1921-1932	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975116
+>>>>>> 	ADM 171/147				ADM 171. RFR Long Service Medal	1933-1942	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975117
+>>>>   				RN LONG SERVICE AND GOOD CONDUCT MEDAL APPLICATION BOOKS FOR MEDAL CLAIMS			 								C31936
+>>>>>> 	ADM 171/149				ADM 171. 34900-48939	1925-1930	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975119
+>>>>>> 	ADM 171/150				ADM 171. 48940-63099	1930-1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975120
+>>>>>> 	ADM 171/151				ADM 171. 63100-77049	1935-1940	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975121
+>>>>>> 	ADM 171/152				ADM 171. 77050-86679	1940-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975122
+>>>>>> 	ADM 171/153				ADM 171. 86680-98529	1944-1954	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975123
+>>>>>> 	ADM 171/154				ADM 171. 98530-110379	1954-1962	 	Open without restriction			Open Document, Open Description	Open Immediately			C975124
+>>>>>> 	ADM 171/155				ADM 171. 110380-122289	1962-1970	 	Open without restriction			Open Document, Open Description	Open Immediately			C975125
+>>>>   				RN LONG SERVICE AND GOOD CONDUCT MEDAL REGISTER INDEX			 								C31937
+>>>>>> 	ADM 171/156				ADM 171. Indexed	1925-1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975126
+>>>>>> 	ADM 171/157				ADM 171. Indexed	1935-1944	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975127
+>>>>>> 	ADM 171/158				ADM 171. Indexed	1944-1963	 	Open without restriction			Open Document, Open Description	Open Immediately			C975128
+>>>>>> 	ADM 171/159				ADM 171. Indexed	1963-1969	 	Open without restriction			Open Document, Open Description	Open Immediately			C975129
+>>>>   				ROYAL FLEET RESERVE LONG SERVICE AND GOOD CONDUCT MEDAL CLAIM BOOKS			 								C31938
+>>>>>> 	ADM 171/160				ADM 171. 20000-29999	1935-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975130
+>>>>>> 	ADM 171/161				ADM 171. 30000-32990	1952-1972	 	Open without restriction			Open Document, Open Description	Open Immediately			C975131
+>>>>>> 	ADM 171/162				ADM 171. Index to claim book	1935-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975132
+>>>>>> 	ADM 171/163				ADM 171. Index to claim book	1952-1972	 	Open without restriction			Open Document, Open Description	Open Immediately			C975133
+>>>>   				SOUDAN MEDAL AND KHEDIVE'S EGYPTIAN STAR 1884-1886		1884-1885	 								C87144
+>>>>>> 	ADM 171/43				ADM 171. SOUDAN MEDAL 1884: Medal roll of recipients of the clasps:'THE NILE 1884-85''ABU KLEA' (17th Jan. 1885)'KIRKEBAN' (10th Feb. 1885)'SUAKIN 1885' (1st Mar. - 14th May, 1885)'TOFREK' (22nd Mar. 1885); KHEDIVE'S EGYPTIAN STAR 1884-1886: medal roll of personnel qualifying for the bronze star awarded by the Khedive of Egypt for service in the Soudan	1884-1885	 	LARGE DOCUMENTPersonnel serving in the Soudan prior to 7th March, 1885 who did not qualify for any of the clasps mentioned in Adm. 171/42 were awarded this clasp ('THE NILE' 1884-85').			Open Document, Open Description	Normal Closure before FOI Act: 	30		C975013
+>>>>   				SILVER WAR BADGE			 								C90343
+>>>>>> 	ADM 171/173				Applications: Officers	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240399
+>>>>>> 	ADM 171/174				Applications: Women's Royal Naval Service (WRNS) from 1919	1919 Jan 01 - 1925 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240400
+>>>>>> 	ADM 171/175	Volume I			Applications: Other ranks A-D	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240401
+>>>>>> 	ADM 171/176	Volume I			Applications: Other ranks E-K	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240402
+>>>>>> 	ADM 171/177	Volume I			Applications: Other ranks L-R	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240403
+>>>>>> 	ADM 171/178	Volume I			Applications: Other ranks S-Z	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240404
+>>>>>> 	ADM 171/179	Volume II			Applications: Other ranks A-D	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240405
+>>>>>> 	ADM 171/180	Volume II			Applications: Other ranks E-K	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240406
+>>>>>> 	ADM 171/181	Volume II			Applications: Other ranks L-R	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240407
+>>>>>> 	ADM 171/182	Volume II			Applications: Other ranks S-Z	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240408
+>>>>>> 	ADM 171/183				Issues: Badge Numbers 1-10200	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240409
+>>>>>> 	ADM 171/184				Issues: Badge Numbers 10201-20440	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240410
+>>>>>> 	ADM 171/185				Issues: Badge Numbers 20441-30580	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240411
+>>>>>> 	ADM 171/186				Issues: Badge Numbers 30581-45800	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240412
+>>>>>> 	ADM 171/187				Issues: Badge Numbers 45801-48600; includes list of returned badges	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240413
+>>>>   				MENTIONED IN DESPATCHES (MiD)			 								C90344
+>>>>>> 	ADM 171/188				Emblems for MiD: Abbay-Carpendale	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240414
+>>>>>> 	ADM 171/189				Emblems for MiD: Carpenter-Dymott	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240415
+>>>>>> 	ADM 171/190				Emblems for MiD: Eagar-Heasman	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240416
+>>>>>> 	ADM 171/191				Emblems for MiD: Heath-Kyte	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240417
+>>>>>> 	ADM 171/192				Emblems for MiD: Labett-Myres	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240418
+>>>>>> 	ADM 171/193				Emblems for MiD: Nagle-Rymer	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240419
+>>>>>> 	ADM 171/194				Emblems for MiD: Sabin-Yuile	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240420
+>>>>>> 	ADM 171/57				ADM 171. Naval Gunnery Medal 1903-1914: medal roll of recipients of the medal awarded to men of HM ships for good gun-laying etc	1903-1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975027
+>>>>>> 	ADM 171/58				ADM 171. Naval General Service Medal 1915: medal roll of Royal Indian Marine personnel from RIM ships Minto (including dockyard artificers), Lawrence and Palinurus, HM ships Panther, Harold, Miner, Muzbee, Mashona, Karanja, Tamil and Sheik Berkhvd and the staffs of the Coal depot at Basidu and Hemjam who took part in warlike operations against gun-runners, pirates etc in Persian Gulf, Straits of Ormuz and the Sea of Oman and who were awarded the clasp 'Persian Gulf'	1909-1914	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975028
+>>>>>> 	ADM 171/59				ADM 171. Coronation Durbar Medal 1911: nominal roll of officers and men of the Royal Marines on whom King George V conferred the Durbar Medal for services at the Delhi Durbar	1911	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975029
+>>>>>> 	ADM 171/60				ADM 171. Register of campaign medals issued including lists of ships engaged in various campaigns and actions, 1793-1937, specimen medal ribbons etc	1793-1956	 	Indexed			Open Document, Open Description	Open Immediately			C975030
+>>>>>> 	ADM 171/61				ADM 171. Miscellaneous medal roll: covering awards to the Royal Navy including lists of the Arctic and Polar Medals and rolls of the following: 1903 visit to Ireland; 1908 Messina Earthquake; 1911 Coronation both UK and Colonial; 1911 Delhi Durbar; Board of Trade Medal for SS Delhi Durbar; Board of Trade Medal for SS Delhi 1911; Conspicuous Gallantry Medal (CGM) up to 1927 (with individual citations of awards China 1900 and Somaliland 1904); Distinguished Service Medal (DSM) to 1937 including details of edge naming; Royal Victorian Medal to gun-carriage crews death of Queen Victoria, death of Edward VII, death of George V, death of George VI; Distinguished Conduct Medal (DCM); Military Medal (MM); Sick Berth Petty Officers' Efficiency; Albert Medals; Foreign Awards of Netherlands Norway, France, Denmark, USA, USSR; Greek Cross of 1929; US Gold Medal 1920; British Empire Medal to 1937 [and 1902 Coronation Medal].	1866-1966	 	Indexed.			Open Document, Open Description	Open Immediately			C975031
+>>>>>> 	ADM 171/62				ADM 171. Naval General Service Medal: clasp for Persian Gulf 1909-1914; clasp for Iraq 1919-1920; clasp for North West Persia 1920	1915-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975032
+>>>>>> 	ADM 171/63				ADM 171. Mentioned in Despatch roll for 1914-1918	1920-1941	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975033
+>>>>>> 	ADM 171/64				ADM 171. African General Service Medal: Somaliland 1920; HM ships Ark Royal, Clio and Odin	1921-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975034
+>>>>>> 	ADM 171/65				ADM 171. Royal Humane Society, Albert Medal, Royal National Lifeboat Institution, Naval prizes and King's Gold Medal	1833-1918	 	See BT 97			Open Document, Open Description	Normal Closure before FOI Act: 	30		C975035
+>>>>>> 	ADM 171/66				ADM 171. Royal Humane Society, Albert Medal, Royal National Lifeboat Institution, Naval prizes and King's Gold Medal	1917-1948	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975036
+>>>>>> 	ADM 171/67				ADM 171. Foreign orders awarded to naval officers	1905-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975037
+>>>>>> 	ADM 171/68				ADM 171. King George V Silver Jubilee Medal: roll of naval and marine recipients	1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975038
+>>>>>> 	ADM 171/69				ADM 171. King George VI Coronation Medal: roll of naval and marine recipients	1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975039
+>>>>>> 	ADM 171/70				ADM 171. Reserve Long Service Medal: recipients	1909-1912	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975040
+>>>>>> 	ADM 171/71				ADM 171. Reserve Long Service Medal: recipients	1912-1937	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975041
+>>>>>> 	ADM 171/72				ADM 171. Reserve Long Service Medal: recipients	1938-1949	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975042
+>>>>>> 	ADM 171/73				ADM 171. RN Good Conduct Medal: 10930-50974	1912-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975043
+>>>>>> 	ADM 171/74				ADM 171. Decorations awarded to ratings of British Armoured Car Division in Russia	1914-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975044
+>>>>>> 	ADM 171/75				ADM 171. Index to medal rolls for Conspicuous Gallantry and Distinguished Service Medals	1914-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975045
+>>>>>> 	ADM 171/76				ADM 171. Names of foreign officers recommended for British decorations	1914-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975046
+>>>>>> 	ADM 171/77				ADM 171. RNR war honours and awards	1914-1918	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975047
+>>>>>> 	ADM 171/138				ADM 171. Recommendations for post war honours	1918-1919	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975108
+>>>>>> 	ADM 171/139				ADM 171. Index to issue of 1914 Star	1919-1920	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975109
+>>>>>> 	ADM 171/148				ADM 171. Officers' war medal issue book. From January 1925 (page 184) onwards, some medals issued to ratings are also included. Some entries appear to be for re-issues of duplicate medals	1923-1935	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975118
+>>>>>> 	ADM 171/164				ADM 171. Award of Distinguished Service Medal, British Empire Medal, George Medal, Military Medal and others	1942-1945	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975134
+>>>>>> 	ADM 171/165				ADM 171. Award of Award of Distinguished Service Medal, British Empire Medal, George Medal, Military Medal, Member of the British Empire, Order of the British Empire and Distinguished Service Cross and others.	1946-1972	 				Open Document, Open Description	Open Immediately			C975135
+>>>>>> 	ADM 171/166				ADM 171. Korean War Medal and gratuity: list of ships	1950-1952	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C975136
+>>>>>> 	ADM 171/172				ADM 171. Foreign Decorations: list of Royal Navy and Marine Officers holding such decorations	1905-1922	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C975142
+>>>>>> 	ADM 171/195				1914 Star: Issue Book	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240391
+>>>>>> 	ADM 171/196				First World War Medals Issue Book	1936 Jan 01 - 1975 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240392
+>>>>>> 	ADM 171/197				Warship Qualifications Periods	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240393
+>>>>>> 	ADM 171/198				Warship Qualifications Periods	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240394
+>>>>>> 	ADM 171/199				Service lists of naval ships	1914 Jan 01 - 1918 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240395
+>>>>>> 	ADM 171/200	Volume I			Register of campaign medals issued, including lists of ships engaged in various campaigns and actions. Indexed	1818 Jan 01 - 1914 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240396
+>>>>>> 	ADM 171/201	Volume II			Register of campaign medals issued, including lists of ships engaged in various campaigns and actions. Indexed	1818 Jan 01 - 1914 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240397
+>>>>>> 	ADM 171/202	Volume III			Register of campaign medals issued, including lists of ships engaged in various campaigns and actions. Indexed	1818 Jan 01 - 1914 Dec 31	 				Open Document, Open Description	Open on Transfer			C11240398
+>>>>>> 	ADM 171/203				Royal Naval Minewatching Service (RNMWS): January 1952-December 1961. Royal Naval Auxiliary Service (RNXS): January 1962-March 1994. Royal Naval Auxiliary Service Medal for 12 years' long and efficient service, clasps in recognition of additional periods of 12 years' service	1967 Jan 01 - 1995 Dec 31	 				Open Document, Open Description	Open on Transfer			C11548135

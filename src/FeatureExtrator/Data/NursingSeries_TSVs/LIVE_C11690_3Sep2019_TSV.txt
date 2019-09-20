@@ -1,0 +1,8 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	PMG 34			Army Establishment: Schoolmistresses and Nurses Pensions	Records of pensions of schoolmistresses and nurses, but including some rewards to warrant officers given for distinguished or meritorious services from 1917 to 1921 otherwise found in PMG 36	1909-1928	5 volume(s)					Normal Closure before FOI Act: 	30		C11690
+>>>>>> 	PMG 34/1				Army establishment: schoolmistresses and nurses pensions	1909-1913	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1355255
+>>>>>> 	PMG 34/2				Army establishment: schoolmistresses and nurses pensions	1913-1917	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1355256
+>>>>>> 	PMG 34/3				Includes Army Rewards to Warrant Officers for Distinguished of Meritorious Service.	1917-1921	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1355257
+>>>>>> 	PMG 34/4				Army establishment: schoolmistresses and nurses pensions	1921-1925	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C1355258
+>>>>>> 	PMG 34/5				Army establishment: schoolmistresses and nurses pensions	1925-1928	 	This volume is constructed to extend to 1929.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C1355259

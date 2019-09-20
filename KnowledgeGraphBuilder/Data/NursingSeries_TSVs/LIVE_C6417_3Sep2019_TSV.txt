@@ -1,0 +1,59 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	DT 11			General Nursing Council for England and Wales: Registration: The Roll of Nurses	This series contains the Roll of Assistant, later Enrolled Nurses (having only two years' training) compiled by the General Nursing Council for England and Wales under the provisions of the 1973 Nurses Act. ¶ The Roll of Nurses (SENs) was opened in 1944 and is held in this series. ¶ Both male and female assistant nurses are included on the same Roll, but assistant nurses who worked in mental hospitals were not deemed to be eligible for inclusion. ¶ Printed nominal indexes are in DT 11/1-9.	1944-1973	51 volume(s)					Normal Closure before FOI Act: 	30		C6417
+>>>>   				Printed Index			 								C22637
+>>>>>> 	DT 11/1	1947-1948			Nurses enrolled with list of names removed from Roll 1945-1947	1944 June 23-1947 Apr 30	 				Open Document, Open Description	Open Immediately			C291522
+>>>>>> 	DT 11/2	1948-1949			Supplement of Assistant Nurses enrolled, and names deleted from the Roll	1947 May 1-1948 Apr 30	 				Open Document, Open Description	Open Immediately			C291523
+>>>>>> 	DT 11/3	1949-1950			Supplement of Assistant Nurses enrolled, and names deleted from the Roll	1948 May 1-1949 Aug 31	 				Open Document, Open Description	Open Immediately			C291524
+>>>>>> 	DT 11/4	1950-1951			Supplement of Assistant Nurses enrolled, and names deleted from the Roll	1949 Sept 1-1950 Apr 30	 				Open Document, Open Description	Open Immediately			C291525
+>>>>>> 	DT 11/5	1950-1953			Supplement of Assistant Nurses enrolled, and names deleted from the Roll	1950 May 1-1953 Dec 31	 				Open Document, Open Description	Open Immediately			C291526
+>>>>>> 	DT 11/6	1954-1957			Supplement of Assistant Nurses enrolled, and names deleted from the Roll	1954 Jan 1-1957 Dec 31	 				Open Document, Open Description	Open Immediately			C291527
+>>>>>> 	DT 11/7	1958-1961			Supplement of Assistant Nurses enrolled, and names deleted from the Roll	1958 Jan 1-1961 Dec 31	 				Open Document, Open Description	Open Immediately			C291528
+>>>>>> 	DT 11/8	1962-1965			Supplement of Assistant Nurses enrolled, and names deleted from the Roll	1962 Jan 1-1965 Dec 31	 				Open Document, Open Description	Open Immediately			C291529
+>>>>>> 	DT 11/9	1966-1968			Supplement of Assistant Nurses enrolled, and names deleted from the Roll	1966 Jan 1-1968 Aug 31	 				Open Document, Open Description	Open Immediately			C291530
+>>>>   				The Roll of Assistant Nurses			 								C22638
+>>>>>> 	DT 11/10	1			Enrolment: nos 1 - 4011	1944 June 23-1945 Mar 23	 				Open Document, Open Description	Open Immediately			C291531
+>>>>>> 	DT 11/11	2			Enrolment: nos 4012 - 8022	1945 Mar 23-1945 July 27	 				Open Document, Open Description	Open Immediately			C291532
+>>>>>> 	DT 11/12	3			Enrolment: nos 8023 - 12033	1945 July 27-1945 Nov 23	 				Open Document, Open Description	Open Immediately			C291533
+>>>>>> 	DT 11/13	4			Enrolment: nos 12034 - 16045	1945 Nov 23-1946 Mar 22	 				Open Document, Open Description	Open Immediately			C291534
+>>>>>> 	DT 11/14	5			Enrolment: nos 16046-20055	1946 Mar 22-1946 Sept 27	 				Open Document, Open Description	Open Immediately			C291535
+>>>>>> 	DT 11/15	6			Enrolment: nos 20056 - 24065	1946 Sept 27-1946 Nov 29	 				Open Document, Open Description	Open Immediately			C291536
+>>>>>> 	DT 11/16	7			Enrolment: nos 24066 - 28075	1946 Nov 29-1947 Feb 28	 				Open Document, Open Description	Open Immediately			C291537
+>>>>>> 	DT 11/17	8			Enrolment: nos 28076-32085	1947 Feb 28-1947 May 23	 				Open Document, Open Description	Open Immediately			C291538
+>>>>>> 	DT 11/18	9			Enrolment: nos 32086 - 36096	1947 May 23-1947 Nov 28	 				Open Document, Open Description	Open Immediately			C291539
+>>>>>> 	DT 11/19	10			Enrolment: nos 36097 - 40102	1947 Nov 28-1948 Aug 27	 				Open Document, Open Description	Open Immediately			C291540
+>>>>>> 	DT 11/20	11			Enrolment: nos 40103 - 44112	1948 Aug 27-1949 Apr 22	 				Open Document, Open Description	Open Immediately			C291541
+>>>>>> 	DT 11/21	12			Enrolment: nos 44113 - 48122	1949 Apr 22-1949 Dec 23	 				Open Document, Open Description	Open Immediately			C291542
+>>>>>> 	DT 11/22	13			Enrolment: nos 48123 - 52132	1949 Dec 23-1951 Nov 20	 				Open Document, Open Description	Open Immediately			C291543
+>>>>>> 	DT 11/23	14			Enrolment: nos 52133 - 56142	1951 Dec 11-1954 Apr 5	 				Open Document, Open Description	Open Immediately			C291544
+>>>>>> 	DT 11/24	15			Enrolment: nos 56143 - 60145	1954 Apr 1-1956 June 9	 				Open Document, Open Description	Open Immediately			C291545
+>>>>>> 	DT 11/25	16			Enrolment: nos 60146 - 64155	1956 June 15-1958 Aug 11	 				Open Document, Open Description	Open Immediately			C291546
+>>>>>> 	DT 11/26	17			Enrolment: nos 64156 - 68165	1958 Aug 12-1960 May 23	 				Open Document, Open Description	Open Immediately			C291547
+>>>>>> 	DT 11/27	18			Enrolment: nos 68166 - 72175	1960 May 24-1962 Jan 11	 				Open Document, Open Description	Open Immediately			C291548
+>>>>   				The Roll of Nurses			 								C22639
+>>>>>> 	DT 11/28	19			Enrolment: nos 72176 - 76175	1962 Jan 11-1963 July 1	 				Open Document, Open Description	Open Immediately			C291549
+>>>>>> 	DT 11/29	20			Enrolment: nos 76176 - 80190	1963 July 1-1964 Oct 1	 				Open Document, Open Description	Open Immediately			C291550
+>>>>>> 	DT 11/30	21			Enrolment: nos 80191 - 84200	1964 Oct 1-1965 Mar 31	 				Open Document, Open Description	Open Immediately			C291551
+>>>>>> 	DT 11/31	22			Enrolment: nos 84201 - 88210	1965 Jan 4-1965 July 12	 				Open Document, Open Description	Open Immediately			C291552
+>>>>>> 	DT 11/32	23			Enrolment: nos 88211 - 92210	1965 July 12-1965 Nov 23	 				Open Document, Open Description	Open Immediately			C291553
+>>>>>> 	DT 11/33	24			Enrolment: nos 92211-96220	1965 Nov 23-1966 Feb 3	 				Open Document, Open Description	Open Immediately			C291554
+>>>>>> 	DT 11/34	25			Enrolment: nos 96221-100230	1966 Feb 3-1966 June 15	 				Open Document, Open Description	Open Immediately			C291555
+>>>>>> 	DT 11/35	26			Enrolment: nos 100231-104240	1966 June 21-1966 Dec 20	 				Open Document, Open Description	Open Immediately			C291556
+>>>>>> 	DT 11/36	27			Enrolment: nos 104241-108250	1966 Dec 20-1967 June 12	 				Open Document, Open Description	Open Immediately			C291557
+>>>>>> 	DT 11/37	28			Enrolment: nos 108251-112260	1967 June 12-1967 Oct 4	 				Open Document, Open Description	Open Immediately			C291558
+>>>>>> 	DT 11/38	29			Enrolment: nos 112261-116270	1967 Oct 4-1968 June 7	 				Open Document, Open Description	Open Immediately			C291559
+>>>>>> 	DT 11/39	30			Enrolment: nos 116271-120471	1968 June 7-1969 Jan 7	 				Open Document, Open Description	Open Immediately			C291560
+>>>>>> 	DT 11/40	31			Enrolment: nos 120472-124671	1969 Jan 7-1969 July 4	 				Open Document, Open Description	Open Immediately			C291561
+>>>>>> 	DT 11/41	32			Enrolment: nos 124672-128873	1969 July 4-1970 Feb 6	 				Open Document, Open Description	Open Immediately			C291562
+>>>>>> 	DT 11/42	33			Enrolment: nos 128874-133044	1970 Feb 6-1970 Sept 11	 				Open Document, Open Description	Open Immediately			C291563
+>>>>>> 	DT 11/43	34			Enrolment: nos 133045-137244	1970 Sept 11-1971 Apr 15	 				Open Document, Open Description	Open Immediately			C291564
+>>>>>> 	DT 11/44	35			Enrolment: nos 137245-141444	1971 Apr 15-1971 Dec 2	 				Open Document, Open Description	Open Immediately			C291565
+>>>>>> 	DT 11/45	36			Enrolment: nos 141445-143376	1971 Dec 2-1972 Jan 13	 				Open Document, Open Description	Open Immediately			C291566
+>>>>   				The Roll of Mental Nurses			 								C22640
+>>>>>> 	DT 11/46	1			Enrolment: nos 1-4200	1962 Nov 15-1965 Feb 9	 				Open Document, Open Description	Open Immediately			C291567
+>>>>>> 	DT 11/47	2			Enrolment: nos 4201-8407	1965 Feb 9-1966 Apr 4	 				Open Document, Open Description	Open Immediately			C291568
+>>>>>> 	DT 11/48	3			Enrolment: nos 8408-12614	1966 Apr 4-1968 Jan 1	 				Open Document, Open Description	Open Immediately			C291569
+>>>>>> 	DT 11/49	4			Enrolment: nos 12615-16814	1968 Jan 1-1972 June 9	 				Open Document, Open Description	Open Immediately			C291570
+>>>>   				Roll of Nurses for the Mentally Subnormal			 								C22641
+>>>>>> 	DT 11/50	1			Enrolment: nos 1-4200	1964 Dec 7-1966 Feb 14	 				Open Document, Open Description	Open Immediately			C291571
+>>>>>> 	DT 11/51	2			Enrolment: nos 4201-7545	1966 Feb 15-1973 Aug 23	 				Open Document, Open Description	Open Immediately			C291572

@@ -1,0 +1,216 @@
+Level	Reference	Former Reference (Dept)	Former Reference (PRO)	Title	Description	Covering Dates	Physical Description	Note	Separated Material	Related Material	Closure Status	Closure Type	Closure Code	Record Opening Date	ID
+       							 								
+>>>    	WO 23			Royal Hospital Chelsea: Admission Books, Registers and Papers	The records in this series consist of registers, admission books, ledgers etc relating to army pensioners and the payment of pensions. Most, but by no means all, relate to pensions payable by the Commissioners of the Royal Hospital, Chelsea, to either in-pensioners or out-pensioners ¶ Most registers and admission books give name, rank and regiment, rate of pension, date of admission to pension, and residence. Many give, in addition, date and place of birth, a record of service and complaint or reason for discharge.	1702-1933	181 volume(s)					Normal Closure before FOI Act: 	30		C14232
+>>>>   				OUT PENSIONERS			 								C19034
+>>>>>  				Class Books	These class books give details by regiment of current pensioners, complaints on admission, places of origin, ages and length of service.	1806-1807	 								C91362
+>>>>>> 	WO 23/136	vol 1			1st Troop of Horse Guards to 9th Foot	1806 Dec-1807 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169129
+>>>>>> 	WO 23/137	vol 2			10th to 37th Foot	1806 Dec-1807 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169130
+>>>>>> 	WO 23/138	vol 3			38th to 72nd Foot	1806 Dec-1807 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169131
+>>>>>> 	WO 23/139	vol 4			73rd Foot to Independent Company	1806 Dec-1807 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169132
+>>>>>> 	WO 23/140	vol 5			Militia, special allowance men, blind men and garrison sergeants	1806 Dec-1807 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169133
+>>>>>  				Admission Books			 								C91363
+>>>>>> 	WO 23/1				Admission books	1830	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169135
+>>>>>> 	WO 23/2				Admission books	1831	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169136
+>>>>>> 	WO 23/3				Admission books	1832	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169137
+>>>>>> 	WO 23/4				Admission books	1833 Jan-Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169138
+>>>>>> 	WO 23/5				Admission books	1833 Nov-1834 Oct	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169139
+>>>>>> 	WO 23/6				Admission books	1834 Nov-1835 July	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169140
+>>>>>> 	WO 23/7				Admission books	1835 July-1836 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169141
+>>>>>> 	WO 23/8				Admission books	1836 Jan-Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169142
+>>>>>> 	WO 23/9				Admission books	1836 Oct-1837 Dec	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169143
+>>>>>> 	WO 23/10				Admission books	1838	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169144
+>>>>>> 	WO 23/11				Admission books	1839	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169145
+>>>>>> 	WO 23/12				Admission books	1840	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169146
+>>>>>> 	WO 23/13				Admission books	1841	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169147
+>>>>>> 	WO 23/14				Admission books	1842	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169148
+>>>>>> 	WO 23/15				Admission books	1843	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169149
+>>>>>> 	WO 23/16				Admission books	1844	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169150
+>>>>>> 	WO 23/133				In (house) and out-pensions. The document includes both in-pensioners and out-pensioners.	1778-1796	 	Thought to relate to Kilmainham Hospital. No. 5 of a series the remainder of which is missing. In the Standard List set in the reading rooms at TNA, Kew, this piece is identically listed under the headings 'In Pensioners' and 'Out pensioners', subheading 'Admission Books'. Indexed by WO 118/36.			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169134
+>>>>>  				Chelsea Registers	Registers of pensions by regiment, of retired full pay and pay of general officers, of half pay and non-effective pay, of compassionate allowances and bounty, (with summaries).	1805-1895	 								C91364
+>>>>>> 	WO 23/26	vol 14			Rifle Brigade, African Corps, miscellaneous units and militia. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169164
+>>>>>> 	WO 23/27	vol 15			Garrison and veteran battalions and companies. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169165
+>>>>>> 	WO 23/28	vol 16			Horse Artillery and Foot Artillery Battalions 1-6. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169166
+>>>>>> 	WO 23/29	vol 17			Foot Artillery Battalions 7-10 Sappers and Miners; and other ordnance units. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169167
+>>>>>> 	WO 23/30	vol 18			1 Life Guards to 72 Foot: pensioners in the colonies or on the continent. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169168
+>>>>>> 	WO 23/31	vol 19			73-104 Foot and all other regiments and corps: pensioners in the colonies or on the continent. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169169
+>>>>>> 	WO 23/32	vol 20			King's German Legion, Foreign Corps and 'Negro' Pensioners. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169170
+>>>>>> 	WO 23/33	vol 1			1 Life Guards to 5 Dragoons. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169151
+>>>>>> 	WO 23/34	vol 2			6 Dragoons to Waggon Train. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169152
+>>>>>> 	WO 23/35	vol 3			1-3 Foot Guards. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169153
+>>>>>> 	WO 23/36	vol 4			1-9 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169154
+>>>>>> 	WO 23/37	vol 5			10-19 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169155
+>>>>>> 	WO 23/38	vol 6			20-29 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169156
+>>>>>> 	WO 23/39	vol 7			30-40 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169157
+>>>>>> 	WO 23/40	vol 8			41-49 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169158
+>>>>>> 	WO 23/41	vol 9			50-59 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169159
+>>>>>> 	WO 23/42	vol 10			60-69 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169160
+>>>>>> 	WO 23/43	vol 11			70-79 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169161
+>>>>>> 	WO 23/44	vol 12			80-89 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169162
+>>>>>> 	WO 23/45	vol 13			90-104 Foot. The dates of service are 1820-1854	1845-1854	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169163
+>>>>>> 	WO 23/46				Foot Guards to 10 Foot	1855-1866	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169171
+>>>>>> 	WO 23/47				11-30 Foot	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169172
+>>>>>> 	WO 23/48				31-50 Foot	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169173
+>>>>>> 	WO 23/49				51-70 Foot. 2 parts. Orderable at item level	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169174
+>>>>>>>	WO 23/49/1				Part 1	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10083567
+>>>>>>>	WO 23/49/2				Part 2	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C10083569
+>>>>>> 	WO 23/50				71-90 Foot	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169175
+>>>>>> 	WO 23/51				91-109 Foot	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169176
+>>>>>> 	WO 23/52				Cavalry	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169177
+>>>>>> 	WO 23/53				Engineers and Artillery (except Artillery Depot)	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169178
+>>>>>> 	WO 23/54				Artillery Depot	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169179
+>>>>>> 	WO 23/55				Rifle Brigade and miscellaneous units	1855-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169180
+>>>>>> 	WO 23/56				Foot Guards to 10 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169181
+>>>>>> 	WO 23/57				11-25 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169182
+>>>>>> 	WO 23/58				26-50 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169183
+>>>>>>>	WO 23/58/1				26-31 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C8942577
+>>>>>>>	WO 23/58/2				32-40 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C8942578
+>>>>>>>	WO 23/58/3				41-50 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C8942579
+>>>>>> 	WO 23/59				51-70 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169184
+>>>>>> 	WO 23/60				71-90 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169185
+>>>>>> 	WO 23/61				91-109 Foot	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169186
+>>>>>> 	WO 23/62				Cavalry Guards and military train	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169187
+>>>>>> 	WO 23/63				Horse Artillery to 16 Brigade (Artillery)	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169188
+>>>>>> 	WO 23/64				17 Brigade to Depot (Artillery)	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169189
+>>>>>> 	WO 23/65				Rifle Brigade and miscellaneous units	1865-1875	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169190
+>>>>>  				Foreign and Colonial			 								C91365
+>>>>>> 	WO 23/17				Indian Army pensioners: registers of admission	1849-1852	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169208
+>>>>>> 	WO 23/18				Indian Army pensioners: registers of admission	1853-1856	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169209
+>>>>>> 	WO 23/19				Indian Army pensioners: registers of admission	1857-1863	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169210
+>>>>>> 	WO 23/20				Indian Army pensioners: registers of admission	1863-1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169211
+>>>>>> 	WO 23/21				East India Company pensioners: alphabetical index of those in receipt of pension	1849-1857	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169205
+>>>>>> 	WO 23/22				East India Company pensioners: alphabetical index of those in receipt of pension	1858-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169206
+>>>>>> 	WO 23/23				East India Company pensioners: alphabetical index of those in receipt of pension	1866-1876	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169207
+>>>>>> 	WO 23/135				Licenciement to invalids: King's German Legion	c. 1801-c. 1815	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169191
+>>>>>> 	WO 23/147	vol 1			Admission book: pensions payable in the colonies	1817 June-1826 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169192
+>>>>>> 	WO 23/148	vol 2			Admission book: pensions payable in the colonies	1827 Mar-1839 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169193
+>>>>>> 	WO 23/149	vol 3			Admission book: pensions payable in the colonies	1839 June-1847 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169194
+>>>>>> 	WO 23/150	vol 4			Admission book: pensions payable in the colonies	1848 Jan-1853 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169195
+>>>>>> 	WO 23/151	vol 5			Admission book: pensions payable in the colonies	1854 Jan-1862 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169196
+>>>>>> 	WO 23/152	vol 6			Admission book: pensions payable in the colonies	1863 Jan-1875 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169197
+>>>>>> 	WO 23/153				List of pensioners: 'negroes' and St Helena Corps	1837-1840	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169198
+>>>>>> 	WO 23/154				List of black pensioners	c. 1837	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169199
+>>>>>> 	WO 23/155				Register of men discharged from the Cape Mounted Rifle Corps and pensioned from colonial funds	1839-1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169204
+>>>>>> 	WO 23/156				Admission book: 'negro' pensioners	1839 Apr-1850 Nov	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169200
+>>>>>> 	WO 23/157				Admission book: 'negro' pensioners	1850 Nov-1863 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169201
+>>>>>> 	WO 23/158				Admission book: Ceylon Rifles and Gun Lascars	1868 May-1876 Sept	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169212
+>>>>>> 	WO 23/159				Admission book: 'negro' pensioners	1864 Jan-1879 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169202
+>>>>>> 	WO 23/160				Admission book: native and colonial	1880 Jan-1903 Dec	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169203
+>>>>>  				Ordnance	Registers giving details of ordnance personnel receiving pensions.	1834-1835	 								C91366
+>>>>>> 	WO 23/141				Register of ordnance pensioners: sections A and B	1834	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169213
+>>>>>> 	WO 23/142				Register of ordnance pensioners: section C	1834	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169214
+>>>>>> 	WO 23/143				Register of ordnance pensioners: sections D-G	1834	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169215
+>>>>>> 	WO 23/144				Register of ordnance pensioners: section H1	1834	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169216
+>>>>>> 	WO 23/145				Register of ordnance pensioners: section H2	1834	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169217
+>>>>>  				Miscellaneous			 								C91367
+>>>>>> 	WO 23/24				Register of Greenwich Hospital pensions	1868-1870	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169219
+>>>>>> 	WO 23/25				Miscellaneous	1821-1829	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169218
+>>>>>>>	WO 23/25/1		WO 23/25/1)		Lists of pensioners discharged from militia and yeomanry regiments		 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6154083
+>>>>>>>	WO 23/25/2		WO 23/25/2)		Lists of pensioners discharged after service in tropical climates		 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6154084
+>>>>>> 	WO 23/84				Miscellaneous	c.1846-1879	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169220
+>>>>>>>	WO 23/84/1		WO 23/84/1)		Register of meritorious service annuities, c.1846-1879		 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6154085
+>>>>>>>	WO 23/84/2		WO 23/84/2)		Register of Victoria Cross pensions, 1856-1879		 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C6154086
+>>>>   				IN PENSIONERS			 								C19035
+>>>>>  				Muster Rolls	Lists pensioners at particular dates, often with subsequent dates of departure (the earlier volumes also include pay lists, and later there are lists of nurses employed at the hospital).	1702-1789	 								C91368
+>>>>>> 	WO 23/124				Muster rolls	1702-1712	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169221
+>>>>>> 	WO 23/125				Muster rolls	1714	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169222
+>>>>>> 	WO 23/126				Muster rolls	1717	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169223
+>>>>>> 	WO 23/127				Muster rolls	1728-1759	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169224
+>>>>>> 	WO 23/128				Muster rolls	1763-1765; 1766-1769	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169225
+>>>>>> 	WO 23/129				Muster rolls	1770-1776	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169226
+>>>>>> 	WO 23/130				Muster rolls	1777-1782	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169227
+>>>>>> 	WO 23/131				Muster rolls	1783-1789	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169228
+>>>>>> 	WO 23/132				Muster rolls	1864-1865	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169229
+>>>>>  				Nominal Lists			 								C91369
+>>>>>> 	WO 23/134				List of in pensioners, 25 March 1794 to 1813: deaths from 1 May 1795 to 1816	1794-1816	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169230
+>>>>>> 	WO 23/146				Alphabetical register of in pensioners in 1837 and of admissions to 1872	1837-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169231
+>>>>>  				Admission Books	Show claims of admission to the hospital and decisions of the admission board.		 								C91370
+>>>>>> 	WO 23/162				Admission books	1824 Mar 5-1829 Sept 16	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169232
+>>>>>> 	WO 23/163				Admission books	1829 Dec 11-1834 Dec 10	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169233
+>>>>>> 	WO 23/164				Admission books	1835 Mar 11-1841 Dec 18	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169234
+>>>>>> 	WO 23/165				Admission books	1841 Dec 22-1846 Mar 24	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169235
+>>>>>> 	WO 23/166				Admission books	1846 June 23-1849 Dec 11	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169236
+>>>>>> 	WO 23/167				Admission books	1850 Mar 19-1858 Sept 21	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169237
+>>>>>> 	WO 23/168				Admission books	1858 Dec 21-1864 Dec 27	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169238
+>>>>>> 	WO 23/169				Admission books	1865 Mar 28-1871 Dec 26	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169239
+>>>>>> 	WO 23/170				Admission books	1872 Jan 30-1878 Dec 24	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169240
+>>>>>> 	WO 23/171				Admission books	1879 Jan 28-1887 Dec 27	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169241
+>>>>>> 	WO 23/172				Admission books	1888 Jan 31-1896 Dec 29	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169242
+>>>>>  				Admission Rolls	Show claims for admission to the hospital and the decisions of the Admission Board.		 								C91371
+>>>>>> 	WO 23/174				Admission rolls	1897 Jan-1898 June	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169243
+>>>>>> 	WO 23/175				Admission rolls	1898 July-1900 Jan	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169244
+>>>>>> 	WO 23/176				Admission rolls	1900 Feb-Sept	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169245
+>>>>>> 	WO 23/177				Admission rolls	1900 Oct-1902 May	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169246
+>>>>>> 	WO 23/178				Admission rolls	1902 June-1906 Jan	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169247
+>>>>>> 	WO 23/179				Admission rolls	1906 Feb-1912 Aug	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169248
+>>>>>> 	WO 23/180				Admission rolls	1912 Aug-1917 Mar	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169249
+>>>>>  				Index of Admissions			 								C91372
+>>>>>> 	WO 23/173				Index of admissions	1858-1933	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169250
+>>>>   				OFFICERS			 								C19036
+>>>>>  				Pensions for Wounds and Rewards for Military Services			 	Rewards for Military Services from 1872 only							C91373
+>>>>>> 	WO 23/83				Register of awards	c.1810-c.1870	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169251
+>>>>>> 	WO 23/85				Register of payments	1872-1877	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169252
+>>>>>> 	WO 23/86				Register of payments	1877-1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169253
+>>>>>> 	WO 23/87				Register of payments	1882-1897	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169254
+>>>>>  				Widows' Pensions and Drouly Annuities			 								C91374
+>>>>>> 	WO 23/105				Register of awards	1815-1856	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169255
+>>>>>> 	WO 23/106				Register of payments	1858-1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169258
+>>>>>> 	WO 23/107				Register of payments	1868-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169259
+>>>>>> 	WO 23/108				Register of payments	1872-1877	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169260
+>>>>>> 	WO 23/109				Register of payments	1877-1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169261
+>>>>>> 	WO 23/110				Register of payments	1882-1892	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169262
+>>>>>> 	WO 23/111				Register of entitlement	1835-1871	 	Including continuing entitlement to pensions awarded 1815			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169256
+>>>>>> 	WO 23/112				Register of entitlement	1871-1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169257
+>>>>>  				Compassionate Allowances, Royal Bounty and Relief Fund			 								C91375
+>>>>>> 	WO 23/114				Register of payments	1858-1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169267
+>>>>>> 	WO 23/115				Register of payments	1868-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169268
+>>>>>> 	WO 23/116				Register of payments	1872-1877	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169269
+>>>>>> 	WO 23/117				Register of payments	1877-1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169270
+>>>>>> 	WO 23/118				Register of payments	1882-1888	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169271
+>>>>>> 	WO 23/119				Register of payments	1888-1894	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169272
+>>>>>> 	WO 23/120				Register of awards	1824-1860	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169264
+>>>>>> 	WO 23/121				Register of entitlement and awards	c.1871-1878	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169266
+>>>>>> 	WO 23/122				Register of entitlement and awards	c.1859-1872	 	Including continuing entitlement to allowances awarded from c.1826			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169265
+>>>>>> 	WO 23/123				Register of awards	1815-1827	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169263
+>>>>>  				Half Pay and Military Allowances			 								C91376
+>>>>>> 	WO 23/75				Register of payments	1858-1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169273
+>>>>>> 	WO 23/76				Register of payments	1868-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169274
+>>>>>> 	WO 23/77				Register of payments	1872-1877	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169275
+>>>>>> 	WO 23/78				Register of payments	1877-1880	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169276
+>>>>>  				Retired Full Pay and Pay of General Officers			 								C91377
+>>>>>> 	WO 23/66				Register of payments	1872-1877	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169277
+>>>>>> 	WO 23/67				Register of payments	1877-1880	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169278
+>>>>>  				Unattached Pay, Retired Full Pay, Military Pensions, Retired Pay, Half Pay and Military Allowances			 								C91378
+>>>>>> 	WO 23/68				Register of payments: A-H	1880-1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169279
+>>>>>> 	WO 23/69				Register of payments: I-R	1880-1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169280
+>>>>>> 	WO 23/70				Register of payments: S-Z	1880-1886	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169281
+>>>>>> 	WO 23/71				Register of payments: A-D	1886-1894	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169282
+>>>>>> 	WO 23/72				Register of payments: E-K	1886-1894	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169283
+>>>>>> 	WO 23/73				Register of payments: L-O	1886-1894	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169284
+>>>>>> 	WO 23/74				Register of payments: R-Z	1886-1894	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169285
+>>>>>  				Foreign Regiments			 								C91379
+>>>>>> 	WO 23/79				Half pay and retired full pay: register of payments	1858-1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169288
+>>>>>> 	WO 23/80				Half pay and retired full pay: register of payments	1868-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169289
+>>>>>> 	WO 23/81				Half pay and retired full pay: register of payments	1872-1876	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169290
+>>>>>> 	WO 23/88				Pensions for wounds, widows' pensions and compassionate allowances: register of payments	1858-1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169287
+>>>>>> 	WO 23/113				Widows' pensions and compassionate allowances: register of payments	1855-1858	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169286
+>>>>>  				Miscellaneous			 								C91380
+>>>>>> 	WO 23/82				Artillery and engineers: retired pay, half pay and pensions; register of entitlement	c.1810-c.1880	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169291
+>>>>>> 	WO 23/89				Disembodied military, yeomanry, cavalry, local militia and volunteer corps' pensions: register of payments	1868-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169293
+>>>>>> 	WO 23/90				Disembodied military, yeomanry, cavalry, local militia and volunteer corps' pensions: register of payments	1872-1877	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169294
+>>>>>> 	WO 23/91				Disembodied military, yeomanry, cavalry, local militia and volunteer corps' pensions: register of payments	1877-1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169295
+>>>>>> 	WO 23/92				Auxiliary forces' pensions: register of payments	1882-1892	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169296
+>>>>   				CIVILIAN EMPLOYEES			 								C19037
+>>>>>> 	WO 23/93				Register of pensions and superannuations	c.1820-c.1890	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169297
+>>>>>> 	WO 23/94				Register of pensions and superannuations	c.1820-c.1890	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169298
+>>>>>> 	WO 23/95				Register of pensions and superannuations	c.1820-c.1890	 	Indexed			Open Document, Open Description	Normal Closure before FOI Act: 	30		C169299
+>>>>>> 	WO 23/96				Superannuation allowances: register of payments: A-Z	1858-1868	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169301
+>>>>>> 	WO 23/97				Superannuation allowances: register of payments: A-K	1868-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169302
+>>>>>> 	WO 23/98				Superannuation allowances: register of payments: L-Z	1868-1872	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169303
+>>>>>> 	WO 23/99				Superannuation allowances: register of payments: A-K	1872-1877	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169304
+>>>>>> 	WO 23/100				Superannuation allowances: register of payments: L-Z	1872-1877	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169305
+>>>>>> 	WO 23/101				Superannuation allowances: register of payments: A-L	1877-1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169306
+>>>>>> 	WO 23/102				Superannuation allowances: register of payments: M-Z	1877-1882	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169307
+>>>>>> 	WO 23/103				Superannuation allowances: register of payments: A-L	1882-1892	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169308
+>>>>>> 	WO 23/104				Superannuation allowances: register of payments: M-Z	1882-1892	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169309
+>>>>>> 	WO 23/181				Nurses: appointments, certificates issued, resignations, etc	c.1857-1907	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169300
+>>>>>> 	WO 23/161				Record of meritorious non-commissioned officers on the pension list of Chelsea Hospital	1836-1850	 				Open Document, Open Description	Normal Closure before FOI Act: 	30		C169292

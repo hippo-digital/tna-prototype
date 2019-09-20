@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFrameworks>net48</TargetFrameworks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="GenericParser" Version="1.1.6" />
+      <PackageReference Include="IKVM" Version="8.1.5717" />
+      <PackageReference Include="morelinq" Version="3.2.0" />
+      <PackageReference Include="Neo4j.Driver" Version="1.7.2" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.3-beta1" />
+      <PackageReference Include="Stanford.NLP.CoreNLP" Version="3.9.2" />
+      <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.6.0-preview9.19421.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Models\Models.csproj" />
+    </ItemGroup>
+
+</Project>
