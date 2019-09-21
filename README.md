@@ -3,6 +3,7 @@
 ## Prerequisites 
 
 Download the stanford core NLP models from [https://github.com/hippo-digital/tna-prototype/releases/tag/0.1-nlp](https://github.com/hippo-digital/tna-prototype/releases/tag/0.1-nlp) and unzip the multipart zip into the `FeatureExtractor` project directory.
+
 ## Running Neo4J
 
 The solution assumes NEO4J is running in a docker container on the local machine. To create a neo4j docker instance run 
@@ -27,4 +28,4 @@ should return something like
     
 **Optional**
 
-You can also run the `FeatureExtractor` project. This will output a set of JSON files to the bin directory of this project. These can then be copied to the `GraphBuilder\Data` folder and the `GraphBuilder` project will then load all of the results to the Neo4J instance. As a word of warning the FeatureExtractor can be quiet slow as it is a naive implementation currently. 
+You can also run the `FeatureExtractor` project. This will output a set of JSON files to the `processed` folder in the root directory of this project. The `GraphBuilder` project will then read all of the files into the `processed` folder load all of the results to the Neo4J instance.
