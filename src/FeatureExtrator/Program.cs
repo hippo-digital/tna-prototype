@@ -33,18 +33,8 @@ namespace KnowledgeGraphBuilder
             
             Console.WriteLine($"Finished loading NLP at {DateTime.Now.ToString(CultureInfo.InvariantCulture)}");
             var output = Directory.CreateDirectory(Path.GetFullPath(OutputPath));
-
-            var s = "General Nursing Council for England and Wales: Registration: The Register of Nurses. " +
-                    "This series contains the Register of nurses and supplementary registers maintained by the General Nursing Council. " +
-                    "The series contains a list of nurses (SRNs) from 1921 to 1973. Although the register was opened in 1921 it includes details of nurses who qualified previous to this. " +
-                    "Printed nominal indexes are in DT 10/1-56. " +
-                    "DT 10/201 contains the list of nurses which was opened under the 1943 Nurses Act to allow those who had failed to register under the provisions of 1919 to do so.";
-
-            var processedEntity = pipeline.Classify(s);
             
-            
-            
-            //SeriesProcessor.ProcessSeriesEntries(pipeline,TSVList, TSVDir, output);
+            SeriesProcessor.ProcessSeriesEntries(pipeline,TSVList, TSVDir, output);
 
 
             Console.WriteLine("Finished.");
