@@ -18,9 +18,6 @@
 
     <ItemGroup>
       <None Remove="Data\LIVE_C14242_3Sep2019_TSV.json" />
-      <Content Include="Data\LIVE_C14242_3Sep2019_TSV.json">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </Content>
     </ItemGroup>
 
 </Project>

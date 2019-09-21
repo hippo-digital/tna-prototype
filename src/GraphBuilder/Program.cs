@@ -19,65 +19,76 @@ namespace Neo4JWriter
         {
             var pluralizer = new Pluralizer();
             var db = new Neo4JDb();
-            var fileLocation = @"..\..\Processed";
-            
-            var parent = ReadEntity(fileLocation);
-            
-            db.Create("item", new {
-                name = parent.Text.First(), 
-                reference = parent.Reference.FirstOrDefault(), 
-                parentReference = parent.ParentReference.FirstOrDefault(),
-                startDate = new DateTime?(),
-                endDate = new DateTime?()
-            });
-            
-            foreach(var entity in parent.Entities.Where(e => e.Type.ToLower() != "number"))
+            var folder = Path.GetFullPath(@"..\..\..\..\..\processed");
+
+            foreach (var file in Directory.EnumerateFiles(folder, "*.json"))
             {
-                var name = GetEntityName(entity, pluralizer);
+                Console.WriteLine($"Started loading file {file}");
+                var parent = ReadEntity(file);
 
-                db.Create(entity.Type.ToLower(), new { name = name });
-                db.Relate("item", "name", parent.Text.First(), entity.Type.ToLower(), entity.Type.ToLower(), "name", name);
-            }
-
-            foreach (var child in parent.Children)
-            {
-                var dates = child.Dates.Select(d => d.ToDateTime()).FirstOrDefault(d => d.HasValue);
-
-                if (dates != null)
+                db.Create("item", new
                 {
-                    var (start, end) = dates.Value;
-                    db.Create("item", new
-                    {
-                        name = child.Text.First(),
-                        reference = child.Reference.FirstOrDefault(),
-                        parentReference = child.ParentReference.FirstOrDefault(),
-                        startDate = start,
-                        endDate = end
-                    });
-                    
-                }
-                else
-                {
-                    db.Create("item", new {
-                        name = child.Text.First(),
-                        reference = child.Reference.FirstOrDefault(),
-                        parentReference = child.ParentReference.FirstOrDefault(),
-                        startDate = new DateTime?(),
-                        endDate = new DateTime?()
-                    });
-                }
+                    name = parent.Text.First(),
+                    reference = parent.Reference.FirstOrDefault(),
+                    parentReference = parent.ParentReference.FirstOrDefault(),
+                    startDate = new DateTime?(),
+                    endDate = new DateTime?()
+                });
 
-                db.Relate("item", "reference", child.Reference.First(), "child_of", "item", "reference", parent.Reference.First());
-                foreach(var entity in child.Entities)
+                foreach (var entity in parent.Entities.Where(e => e.Type.ToLower() != "number"))
                 {
                     var name = GetEntityName(entity, pluralizer);
-                    db.Create(entity.Type.ToLower(), new { name = name });
-                    db.Relate("item", "reference", child.Reference.First(), entity.Type.ToLower(), entity.Type.ToLower(), "name", name);
+
+                    db.Create(entity.Type.ToLower(), new {name = name});
+                    db.Relate("item", "name", parent.Text.First(), entity.Type.ToLower(), entity.Type.ToLower(), "name",
+                        name);
                 }
 
+                foreach (var child in parent.Children)
+                {
+                    var dates = child.Dates.Select(d => d.ToDateTime()).FirstOrDefault(d => d.HasValue);
+
+                    if (dates != null)
+                    {
+                        var (start, end) = dates.Value;
+                        db.Create("item", new
+                        {
+                            name = child.Text.First(),
+                            reference = child.Reference.FirstOrDefault(),
+                            parentReference = child.ParentReference.FirstOrDefault(),
+                            startDate = start,
+                            endDate = end
+                        });
+
+                    }
+                    else
+                    {
+                        db.Create("item", new
+                        {
+                            name = child.Text.First(),
+                            reference = child.Reference.FirstOrDefault(),
+                            parentReference = child.ParentReference.FirstOrDefault(),
+                            startDate = new DateTime?(),
+                            endDate = new DateTime?()
+                        });
+                    }
+
+                    db.Relate("item", "reference", child.Reference.First(), "child_of", "item", "reference",
+                        parent.Reference.First());
+                    foreach (var entity in child.Entities)
+                    {
+                        var name = GetEntityName(entity, pluralizer);
+                        db.Create(entity.Type.ToLower(), new {name = name});
+                        db.Relate("item", "reference", child.Reference.First(), entity.Type.ToLower(),
+                            entity.Type.ToLower(), "name", name);
+                    }
+
+                }
+                
+                Console.WriteLine($"Finished loading file {file}");
             }
+
             
-            Console.WriteLine("Done");
 
         }
 

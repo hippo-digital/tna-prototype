@@ -2,7 +2,7 @@
 
 ## Prerequisites 
 
-Download the stanford core NLP models from [https://github.com/hippo-digital/tna-prototype/releases/tag/0.1-nlp](https://github.com/hippo-digital/tna-prototype/releases/tag/0.1-nlp)
+Download the stanford core NLP models from [https://github.com/hippo-digital/tna-prototype/releases/tag/0.1-nlp](https://github.com/hippo-digital/tna-prototype/releases/tag/0.1-nlp) and unzip the multipart zip into the `FeatureExtractor` project directory.
 ## Running Neo4J
 
 The solution assumes NEO4J is running in a docker container on the local machine. To create a neo4j docker instance run 
