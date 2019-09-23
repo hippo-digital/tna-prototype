@@ -20,7 +20,7 @@ Open the solution file in Visual Studio / JetBrains Rider and run the `GraphBuil
 
 Once the load has finished you can now navigate to the Neo4j console and run a query to see a graph for example, 
 
-    MATCH p=(n:location)-[:title|:nationality|:city|:person|:documenttype|:date*0..2]-(a) WHERE n.name = "Crimea" or n.name="Hospital" RETURN DISTINCT n, collect(a)[..25]
+    MATCH p=(n:location)-[:title|:nationality|:city|:person|:documenttype|:date|:location*0..2]-(a) WHERE n.name = "Crimea" or n.name="Hospital" RETURN DISTINCT n, collect(a)[..25]
     
 should return something like 
 
